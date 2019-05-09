@@ -1,0 +1,3 @@
+My formal qualifications are in Mechanical Engineering which included some electrical knowledge and control theory. I spent several years in a Machine Tool company R&D department which involved much electronic equipment and I frequently worked on vibration analysis and the design of structures. This was to become extremely relevant when it came to servo performance issues.
+
+For the last 20 years of my career I specialized in servo systems for a global automation company. I had to specify servo components for industrial automation systems, perform start-ups and trouble shoot. In the early days I wrote my own servo sizing software using GW Basic and was later involved with the other authors in creating a world class sizing and selection tool.
