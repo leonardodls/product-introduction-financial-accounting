@@ -8,7 +8,7 @@ const sourceFolder = homeDir('/Dropbox/COSMATT/Cosmatt Training Content');
 const destFolder = __dirname;
 var fileSystem        = require('fs');
 var argv = require('yargs').argv;
-var targetBranch = argv.target || 'bugfix/performance'
+var targetBranch = argv.target || 'develop'
 const prompt = require('gulp-prompt');
 
 
