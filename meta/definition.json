@@ -201,7 +201,7 @@
             "name": "The Company",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
-            "item-code": "Chapter_1_Introduction/01_The_Company",
+            "item-code": "Chapter_1_Introduction/Introduction",
             "tracking": true,
             "embedded": [
               {
@@ -250,7 +250,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_1_Introduction/01_The_Company.md"
+          "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/01_BusinessConcepts.md"
         },
         "description": "",
         "learning-objectives": []
