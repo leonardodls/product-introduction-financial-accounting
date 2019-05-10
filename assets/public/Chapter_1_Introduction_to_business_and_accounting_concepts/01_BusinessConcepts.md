@@ -2,7 +2,9 @@
 
   - *Articulate basic business concepts*
 
-> “You have to understand Accounting and the nuances of Accounting. It is the language of Business” Warren Buffet, Chairman & CEO, Berkshire Hathaway
+> “You have to understand Accounting and the nuances of Accounting. It is the language of Business”
+> 
+> Warren Buffet, Chairman & CEO, Berkshire Hathaway
 
 ## Introduction
 
@@ -34,7 +36,7 @@ Throughout this course, we will use the operations of the Core Fit fitness studi
 
 Stella and Eddie met when they were both personal trainers at a neighborhood gym. Eddie specializes in cardio and strength training while Stella specializes in yoga and pilates, A few years ago, the two friends decided to quit their jobs and start Core Fit, an exercise studio where they offer individual and group Core Fit classes – a work out class they designed which combines cardio, strength and flexibility. People can either join Core Fit as monthly members or pay for a single class.
 
-> ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image3.png)
+![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image3.png)
 
 Core Fit is a corporation. Stella and Eddie are the owners or stockholders. They invested $40,000 each in the business, which is the maximum amount they could lose if the business doesn’t do well and shuts down.
 
@@ -75,14 +77,5 @@ A business must keep track of its financial activities and summarize this inform
   - 
 While these decisions may seem like good business ideas, we need Accounting to help answer if they are financially viable.
 
-### Test Your Understanding 1
+## Test Your Understanding 1
 
-The owners of a corporation are called
-
-1.  managers
-
-2.  customers
-
-3.  vendors
-
-4.  stockholders
