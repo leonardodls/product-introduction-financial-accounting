@@ -56,3 +56,7 @@ A business must keep track of its financial activities and summarize this inform
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image4.png)
 
+While these decisions may seem like good business ideas, we need Accounting to help answer if they are financially viable.
+
+## Test Your Understanding 1
+
