@@ -119,12 +119,12 @@
       ]
     },
     "default": [{
-        "name": "Introduction",
+        "name": "Introduction to business and accounting concepts",
         "item-type": "folder",
         "item-code": "Chapter_1_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "Accounting",
+            "name": "Business Concepts",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
             "item-code": "Chapter_1_Introduction/Introduction",
