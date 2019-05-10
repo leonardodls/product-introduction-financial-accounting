@@ -73,80 +73,6 @@
   },
   "definition": {
     "learning-objectives": {
-      "Learn the basic techniques of working with data including: selecting cells, selecting ranges, filling series, moving cell data and undoing operations": {
-        "learning-objectives": {
-          "Use the Copy Command to Efficiently Create Formulas": {
-            "learning-objectives": {}
-          },
-          "Modeling Bakery Building Costs": {
-            "learning-objectives": {}
-          },
-		  "Editing a Data Table": {
-            "learning-objectives": {}
-          }
-        }
-      },
-      "Learn to increase spreadsheet readability": {
-        "learning-objectives": {
-          "Use Comments or Text Boxes to Clarify Model Logic": {
-            "learning-objectives": {}
-          },
-		  "Color Coding the Building Blocks": {
-            "learning-objectives": {}
-          },
-          "Using Range Names to Make Formulas Easier to Understand": {
-            "learning-objectives": {}
-          }
-        }
-      },
-      "Learn to build an influence chart to highlight the inputs, outputs and decision variables of a model": {
-        "learning-objectives": {
-          "Use Influence Charts to Help Understand Model Relationships": {
-            "learning-objectives": {}
-          },
-          "Developing an Influence Chart": {
-            "learning-objectives": {}
-          }
-        }
-      },
-      "Learn to build a spreadsheet model to calculate NPV": {
-        "learning-objectives": {
-          "Steps to Build a Model": {
-            "learning-objectives": {}
-          },
-		  "Deterministic and Stochastic Models": {
-            "learning-objectives": {}
-          },
-          "Modeling Bakery Building Costs": {
-            "learning-objectives": {}
-          },
-          "Modeling the Unit Cost of Producing a Pastry": {
-            "learning-objectives": {}
-          },
-           "Calculating Net Profit and NPV": {
-            "learning-objectives": {}
-          }
-        }
-      },
-      "Learn to conduct sensitivity analysis": {
-        "learning-objectives": {
-          "Sensitivity Analysis with a One-way Data Table": {
-            "learning-objectives": {}
-          },
-          "Setting up a One-way Data Table for NPV vs. Price": {
-            "learning-objectives": {}
-          },
-          "Interpreting the Data Table Output": {
-            "learning-objectives": {}
-          },
-          "Editing a Data Table": {
-            "learning-objectives": {}
-          },
-          "Data Tables and Spreadsheet Calculation Options": {
-            "learning-objectives": {}
-          }
-        }
-      }
     },
     "tags": {
       "Reading": {
@@ -183,7 +109,7 @@
           "name": "Title",
           "item-type": "folder",
           "item-code": "about/title",
-          "title": "The Art of Spreadsheet Modeling",
+          "title": "The Accounting Course",
           "publisher": {
             "name": "Compro Technologies",
             "copyright": "©2018 Compro Technologies All Rights Reserved"
@@ -198,7 +124,7 @@
         "item-code": "Chapter_1_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "The Company",
+            "name": "Accounting",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
             "item-code": "Chapter_1_Introduction/Introduction",

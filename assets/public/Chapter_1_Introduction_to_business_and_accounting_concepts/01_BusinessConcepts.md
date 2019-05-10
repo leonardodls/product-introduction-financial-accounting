@@ -4,7 +4,7 @@
 
 > “You have to understand Accounting and the nuances of Accounting. It is the language of Business”
 > 
-> Warren Buffet, Chairman & CEO, Berkshire Hathaway
+> \--Warren Buffet, Chairman & CEO, Berkshire Hathaway
 
 ## Introduction
 
@@ -54,28 +54,5 @@ A business must keep track of its financial activities and summarize this inform
 
 > The word “Accounting” comes from the latin word computare meaning “to count” or “to score”.
 
-<table>
-<thead>
-<tr class="header">
-<th><img src="./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image2.png" width="97" height="61" /></th>
-<th><p>As Core Fit has started generating profits, the founders, Stella and Eddie, are thinking about how to spend the cash they are generating. Some of the questions they are trying to answer include:</p>
-<ul>
-<li><p>Should they start selling healthy snacks, like smoothies or protein bars, in their studio?</p></li>
-<li><p>Does it make sense to sell Core Fit branded clothing or water bottles?</p></li>
-<li><p>Could they start online video access of their classes for people that want to access the classes remotely?</p></li>
-<li><p>Is it a good idea to open up a second location?</p></li>
-</ul></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-  - 
-  - 
-  - 
-  - 
-While these decisions may seem like good business ideas, we need Accounting to help answer if they are financially viable.
-
-## Test Your Understanding 1
+![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image4.png)
 
