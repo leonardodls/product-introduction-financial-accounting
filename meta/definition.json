@@ -203,6 +203,15 @@
             "resource": "RE_CH_1_SEC_1",
             "item-code": "Chapter_1_Introduction/01_The_Company",
             "tracking": true,
+            "embedded": [
+              {
+                "item-code": "Chapter_1_Introduction/Introduction/test-Emded",
+                "resource": "RE_CH_1_SEC_1_EM",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -244,6 +253,17 @@
           "url": "Chapter_1_Introduction/01_The_Company.md"
         },
         "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_1_EM": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Introduction-test-Emded"
+        },
+        "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
       }
     },

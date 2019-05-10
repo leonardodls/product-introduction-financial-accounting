@@ -1,7 +1,90 @@
 {
   "items": [
+    {
+      "name": "Introduction-test-Emded",
+      "item-code": "Introduction-test-Emded",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Introduction-test-Emded/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00001"
+        }
+      ]
+    }
   ],
   "resources": {
+    "RE_00001": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "The owners of a corporation are called<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Managers"
+              },
+              {
+                "choiceB": "Customers"
+              },
+              {
+                "choiceC": "Vendors"
+              },
+              {
+                "choiceD": "Stockholders"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    }
   },
   "test": {}
 }
