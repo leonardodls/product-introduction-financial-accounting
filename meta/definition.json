@@ -120,11 +120,12 @@
     },
     "default": [
       {
-        "name": "Introduction to business and accounting concepts",
+        "name": "Introduction to Business and Accounting Concepts",
         "item-type": "folder",
         "item-code": "Chapter_1_Introduction",
         "sub-type": "default",
-        "items": [{
+        "items": [
+          {
             "name": "Business Concepts",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
@@ -139,6 +140,58 @@
                 "tracking": false
               }
             ],
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Accounts",
+            "item-type": "resource",
+            "resource": "RE_CH_1_SEC_2",
+            "item-code": "Chapter_1_Accounts/Accounts",
+            "tracking": true,           
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Accounting Equation",
+            "item-type": "resource",
+            "resource": "RE_CH_1_SEC_3",
+            "item-code": "Chapter_1_Accounting_Equation/Accounting_Equation",
+            "tracking": true,           
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Common Accounting Transactions",
+            "item-type": "resource",
+            "resource": "RE_CH_1_SEC_4",
+            "item-code": "Chapter_1_Common_Accounting_Transactions/Common_Accounting_Transactions",
+            "tracking": true,           
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Summary",
+            "item-type": "resource",
+            "resource": "RE_CH_1_SEC_5",
+            "item-code": "Chapter_1_Summary/Summary",
+            "tracking": true,           
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -192,7 +245,7 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       },
       {
-        "name": "Completing The Accounting Cycle",
+        "name": "Completing the Accounting Cycle",
         "item-type": "folder",
         "item-code": "Chapter_4_Introduction",
         "sub-type": "default",
@@ -213,7 +266,7 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       },
       {
-        "name": "Accounting Cycle For a Service Business Accrual Basis",
+        "name": "Accounting Cycle for a Service Business Accrual Basis",
         "item-type": "folder",
         "item-code": "Chapter_5_Introduction",
         "sub-type": "default",
@@ -388,6 +441,50 @@
         ],
         "md": {
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/01_BusinessConcepts.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_2": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/02_Accounts.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_3": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/03_AccountingEquation.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_4": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/04_CommonAccountingTransactions.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_5": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/05_Summary.md"
         },
         "description": "",
         "learning-objectives": []
