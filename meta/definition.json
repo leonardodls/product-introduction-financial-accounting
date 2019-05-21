@@ -4,7 +4,7 @@
     "code": "cosmatt",
     "thumbnailsmall": "cover.jpg",
     "thumbnaillarge": "cover.jpg",
-    "title": "Accounting Course",
+    "title": "Introduction to Financial Accounting",
     "authors": [{
         "honorific": "Mr",
         "firstname": "John",
@@ -65,7 +65,7 @@
         }
       }
     ],
-    "description": "This course teaches you how to build spreadsheet models to solve a business problem. This demo uses advanced widgets to demonstrate a fully integrated online version of Harvard Business Publishing’s Spreadsheet Modeling course.",
+    "description": "Discover the fundamentals of financial accounting from the ground up. This course will teach you to prepare and analyze financial statements. You will also learn to use your understanding of accounting to drive insights into business performance.",
     "producttype": "courseware",
     "model": {
       "type": "cosmatt_1"
