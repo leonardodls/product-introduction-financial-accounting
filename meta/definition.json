@@ -118,7 +118,8 @@
         }
       ]
     },
-    "default": [{
+    "default": [
+      {
         "name": "Introduction to business and accounting concepts",
         "item-type": "folder",
         "item-code": "Chapter_1_Introduction",
@@ -138,6 +139,27 @@
                 "tracking": false
               }
             ],
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Recording Accounting Transactions",
+        "item-type": "folder",
+        "item-code": "Chapter_2_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "Chapter_2_Introduction/Introduction",
+            "tracking": true,            
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -191,7 +213,18 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      }
+      },
+      "RE_CH_2_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
     },
     "test": {},
     "ebook": {}
