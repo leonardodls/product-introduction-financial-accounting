@@ -169,6 +169,195 @@
           }
         ],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Financial Statements",
+        "item-type": "folder",
+        "item-code": "Chapter_3_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_3_SEC_1",
+            "item-code": "Chapter_3_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Completing The Accounting Cycle",
+        "item-type": "folder",
+        "item-code": "Chapter_4_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_4_SEC_1",
+            "item-code": "Chapter_4_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Accounting Cycle For a Service Business Accrual Basis",
+        "item-type": "folder",
+        "item-code": "Chapter_5_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_1",
+            "item-code": "Chapter_5_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Accounting Cycle For A Merchandising Business",
+        "item-type": "folder",
+        "item-code": "Chapter_6_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_6_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Assets",
+        "item-type": "folder",
+        "item-code": "Chapter_7_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_7_SEC_1",
+            "item-code": "Chapter_7_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Liabilities",
+        "item-type": "folder",
+        "item-code": "Chapter_8_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_8_SEC_1",
+            "item-code": "Chapter_8_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Stockholders Equity",
+        "item-type": "folder",
+        "item-code": "Chapter_9_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_9_SEC_1",
+            "item-code": "Chapter_9_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Statement of Cash Flows",
+        "item-type": "folder",
+        "item-code": "Chapter_10_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_10_SEC_1",
+            "item-code": "Chapter_10_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Financial Statement Analysis",
+        "item-type": "folder",
+        "item-code": "Chapter_11_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_11_SEC_1",
+            "item-code": "Chapter_11_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       }
     ]
   },
@@ -221,6 +410,105 @@
         ],
         "md": {
           "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_3_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_3_Financial_statements/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_4_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_4_Completing_the_accounting_cycle/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_5_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_5_Accounting_cycle_for_a_service_business_accrual_basis/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_6_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_6_Accounting_cycle_for_a_merchandising_business/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_7_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_7_Assets/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_8_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_8_Liabilities/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_9_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_9_Stockholders_Equity/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_10_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_10_Statement_of_Cash_Flows/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_11_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_11_Financial_Statement_Analysis/ComingSoon.md"
         },
         "description": "",
         "learning-objectives": []
