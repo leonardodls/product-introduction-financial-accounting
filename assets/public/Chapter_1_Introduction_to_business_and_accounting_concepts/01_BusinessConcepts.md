@@ -1,10 +1,10 @@
-## Learning Objectives
+> **Learning Objectives**
 
-  - *Articulate basic business concepts*
+  - > Articulate basic business concepts
 
-> “You have to understand Accounting and the nuances of Accounting. It is the language of Business”
-> 
-> \--Warren Buffet, Chairman & CEO, Berkshire Hathaway
+*“You have to understand Accounting and the nuances of Accounting. It’s the language of business” *
+
+*- Warren Buffet, Chairman & CEO, Berkshire Hathaway*
 
 ## Introduction
 
@@ -24,25 +24,25 @@ The goal of a business is to make a profit through its operations. It does this 
 \[Revenue\  < \ Costs\  = \ Loss\]
 ```
 
-Take the example of a fitness studio, Core Fit. Core Fit’s *revenue from membership fees and single-classes is approximately $30,000 per month.* Core Fit incurs a number of monthly costs such as the rent of the premises, the utilities (electricity and water), the maintenance of the equipment, insurance, and the salaries of its employees. *These costs total approximately $22,500 per month.* Therefore, **Core Fit’s revenue exceeds its costs by approximately *$7,500 per month*, and the business is profitable.**
-
-![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image1.png)
-
-Throughout this course, we will use the operations of the Core Fit fitness studio to understand key accounting concepts.
+Take the example of a fitness studio, Core Fitness. Core Fitness’ revenue from membership fees and single-classes is approximately $30,000 per month. Core Fitness incurs a number of monthly costs such as the rent of the premises, the utilities (electricity and water), the maintenance of the equipment, insurance, and the salaries of its employees. These costs total approximately $22,500 per month. Therefore, Core Fitness’ revenue exceeds its costs by approximately $7,500 per month, and the business is profitable.
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image2.png)
 
-## Core Fit Studio Overview
-
-Stella and Eddie met when they were both personal trainers at a neighborhood gym. Eddie specializes in cardio and strength training while Stella specializes in yoga and pilates, A few years ago, the two friends decided to quit their jobs and start Core Fit, an exercise studio where they offer individual and group Core Fit classes – a work out class they designed which combines cardio, strength and flexibility. People can either join Core Fit as monthly members or pay for a single class.
+Throughout this course, we will use the operations of *Core Fitness* to understand key accounting concepts.
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image3.png)
 
-Core Fit is a corporation. Stella and Eddie are the owners or stockholders. They invested $40,000 each in the business, which is the maximum amount they could lose if the business doesn’t do well and shuts down.
+## Core Fitness Overview
+
+*Stella and Eddie met when they were both personal trainers at a neighborhood gym. Eddie specializes in cardio and strength training while Stella specializes in yoga and pilates. A few years ago, the two friends decided to quit their jobs and start Core Fitness, an exercise studio that offers individual and group Core Fit classes – a work out class they designed which combines cardio, strength and flexibility. People can either join Core Fitness as monthly members or pay for a single* *class.*
+
+> ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image4.png)
+
+*Core Fitness is a corporation. Stella and Eddie are the owners or stockholders. They invested $40,000 each in the business, which is the maximum amount they could lose if the business doesn’t do well and shuts down. *
 
 A service business sells expertise, advice, professional skills, or experiences rather than a physical product. Consultants, dry cleaners, airlines, attorneys, and repair shops are service-oriented businesses.
 
-Core Fit is a services business. It sells unique fitness classes, which is an experience.
+Core Fitness is a services business. It sells unique fitness classes, which is an experience.
 
 A business must keep track of its financial activities and summarize this information in reports for managers, investors, creditors, and tax reporting entities.
 
@@ -50,35 +50,30 @@ A business must keep track of its financial activities and summarize this inform
 
 **Accounting** is the system of analyzing, classifying, recording, summarizing, and interpreting business transactions. Accounting is often referred to as “**the language of business”** because it communicates valuable financial information for planning, making decisions, and evaluating performance.
 
-## Did you Know?
+> Did you Know?
+> 
+> The word “Accounting” comes from the Latin word computare meaning “to count” or “to score”.
 
-> The word “Accounting” comes from the latin word computare meaning “to count” or “to score”.
+As Core Fitness has started generating profits, Stella and Eddie are thinking about how to spend the cash they are generating. Some of the questions they are trying to answer include:
 
-<table>
-<tbody>
-<tr class="odd">
-<td><img src="./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image2.png" width="97" height="61" /></td>
-<td><p>As Core Fit has started generating profits, the founders, Stella and Eddie, are thinking about how to spend the cash they are generating. Some of the questions they are trying to answer include:</p>
-<ul>
-<li><p>Should they start selling healthy snacks, like smoothies or protein bars, in their studio?</p></li>
-<li><p>Does it make sense to sell Core Fit branded clothing or water bottles?</p></li>
-<li><p>Could they start online video access of their classes for people that want to access the classes remotely?</p></li>
-<li><p>Is it a good idea to open up a second location?</p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+  - *Should they start selling healthy snacks, like smoothies or protein bars, in their studio? *
 
-<table>
-<tbody>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+  - *Does it make sense to sell Core Fitness branded clothing or water bottles? *
+
+  - *Could they start online video access of their classes for people that want to access the classes remotely? *
+
+  - *Is it a good idea to open up a second location? *
 
 While these decisions may seem like good business ideas, we need Accounting to help answer if they are financially viable.
 
-## Test Your Understanding 1
+### Test Your Understanding 1
 
+The owners of a corporation are called
+
+1.  managers
+
+2.  customers
+
+3.  vendors
+
+4.  stockholders

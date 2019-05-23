@@ -26,6 +26,4 @@ Revenue and expenses are temporary accounts.  Assets, liabilities and stockhold
 
 #### 5\.    What are a few common business transactions and how does each one affect the accounts?
 
-\[Placeholder Image\]
-
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/05_Summary/image1.png)

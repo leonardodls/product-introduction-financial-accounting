@@ -1,8 +1,8 @@
-> Learning Objectives
+Learning Objectives
 
-  - > Determine accounts affected and the nature of the impact for common business events
+  - *Determine accounts affected and the nature of the impact for common business events*
 
-  - > Illustrate accounts affected and the nature of the impact for common business events in a tabular format
+  - *Illustrate accounts affected and the nature of the impact for common business events in a tabular format*
 
 An economic event that affects two or more accounts is called a **transaction**. Common business transactions include the business doing the following:
 
