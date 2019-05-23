@@ -32,7 +32,7 @@ For example, Core Fit ended July with $100,000 of cash in the bank. When we begi
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/03_AccountingEquation/image3.png)
 
-## Test Your Understanding 3
+## Test Your Understanding 
 
 Which equation related to the accounting equation is incorrect?  
 a. Assets - Liabilities = Net Income  
