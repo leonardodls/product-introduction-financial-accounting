@@ -175,6 +175,15 @@
             "resource": "RE_CH_1_SEC_3",
             "item-code": "Chapter_1_Accounting_Equation/Accounting_Equation",
             "tracking": true,
+             "embedded": [
+              {
+                "item-code": "Chapter_1_Introduction/Accounting_Equation/test-Emded",
+                "resource": "RE_CH_1_SEC_3_EM",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],  
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -520,6 +529,17 @@
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
       },
+      "RE_CH_1_SEC_3_EM": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Accounts-Equation-test-Emded"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },      
       "RE_CH_2_SEC_1": {
         "sub-type": "md",
         "tags": [

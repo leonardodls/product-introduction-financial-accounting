@@ -57,6 +57,20 @@
           "resource": "RE_00007"
         }
       ]
+    },
+    {
+      "name": "Accounts-Equation-test-Emded",
+      "item-code": "Accounts-Equation-test-Emded",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Accounts-Equation-test-Emded/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00008"
+        }
+      ]
     }
   ],
   "resources": {
@@ -225,7 +239,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Asset'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select an account for type 'Asset'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -294,7 +308,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Liability'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select an account for type 'Liability'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -363,7 +377,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Stockholders’ Equity'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select an account for type 'Stockholders’ Equity'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -432,7 +446,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Revenue'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select an account for type 'Revenue'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -501,7 +515,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Expense'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select an account for type 'Expense'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -522,6 +536,75 @@
               },
               {
                 "choiceD": "Building"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00008": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "Which equation related to the accounting equation is incorrect?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Assets - Liabilities = Net Income"
+              },
+              {
+                "choiceB": "Common Stock + Retained Earnings = Stockholders’ Equity"
+              },
+              {
+                "choiceC": "Revenue – Expenses = Net Income"
+              },
+              {
+                "choiceD": "Assets = Liabilities + Stockholders’ Equity"
               }
             ]
           }
