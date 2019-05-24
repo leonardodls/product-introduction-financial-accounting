@@ -68,12 +68,3 @@ While these decisions may seem like good business ideas, we need Accounting to h
 
 ### Test Your Understanding 
 
-The owners of a corporation are called
-
-1.  managers
-
-2.  customers
-
-3.  vendors
-
-4.  stockholders

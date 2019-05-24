@@ -34,8 +34,3 @@ For example, Core Fit ended July with $100,000 of cash in the bank. When we begi
 
 ## Test Your Understanding 
 
-Which equation related to the accounting equation is incorrect?  
-a. Assets - Liabilities = Net Income  
-b. Common Stock + Retained Earnings = Stockholders’ Equity  
-c. Revenue – Expenses = Net Income  
-d. Assets = Liabilities + Stockholders’ Equity
