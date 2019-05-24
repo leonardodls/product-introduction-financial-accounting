@@ -152,7 +152,16 @@
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_2",
             "item-code": "Chapter_1_Accounts/Accounts",
-            "tracking": true,           
+            "tracking": true,
+            "embedded": [
+              {
+                "item-code": "Chapter_1_Accounts/Chapter_1_Accounts/test-Emded",
+                "resource": "RE_CH_1_SEC_2_EM",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],            
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -165,7 +174,7 @@
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_3",
             "item-code": "Chapter_1_Accounting_Equation/Accounting_Equation",
-            "tracking": true,           
+            "tracking": true,
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -496,6 +505,17 @@
         ],
         "test": {
           "url": "Introduction-test-Emded"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_2_EM": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Introduction-Accounts-test-Emded"
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []

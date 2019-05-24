@@ -13,6 +13,26 @@
           "resource": "RE_00001"
         }
       ]
+    },
+    {
+      "name": "Introduction-Accounts-test-Emded",
+      "item-code": "Introduction-Accounts-test-Emded",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Introduction-Accounts-test-Emded/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00002"
+        },
+        {
+          "name": "Question 2",
+          "item-code": "Introduction-Accounts-test-Emded/Question-2",
+          "item-type": "resource",
+          "resource": "RE_00003"
+        }
+      ]
     }
   ],
   "resources": {
@@ -79,7 +99,145 @@
       },
       "responses": {
         "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00002": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "Which account does a company use to keep track of amounts owed to it by its customers?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Accounts Payable"
+              },
+              {
+                "choiceB": "Accounts Receivable"
+              },
+              {
+                "choiceC": "Fees Earned"
+              },
+              {
+                "choiceD": "Common Stock"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
           "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00003": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "Select an account for type 'Asset'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Fees Earned"
+              },
+              {
+                "choiceB": "Accounts Receivable"
+              },
+              {
+                "choiceC": "Insurance Expense"
+              },
+              {
+                "choiceD": "Common Stock"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
         }
       },
       "learning-objectives": [],
