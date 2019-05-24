@@ -22,8 +22,6 @@ Temporary account balances are reset to zero when the new accounting period star
 
 Revenue and expenses are temporary accounts.  Assets, liabilities and stockholders’ equity are permanent accounts
 
-#### 
-
 #### 5\.    What are a few common business transactions and how does each one affect the accounts?
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/05_Summary/image1.png)

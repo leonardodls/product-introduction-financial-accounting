@@ -1,4 +1,4 @@
-Learning Objectives
+> Learning Objectives
 
   - > Articulate basic business concepts
 
