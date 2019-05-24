@@ -1,4 +1,4 @@
-> **Learning Objectives**
+Learning Objectives
 
   - > Express the five account types in a mathematical equation
 

@@ -1,4 +1,4 @@
-> **Learning Objectives**
+Learning Objectives
 
   - > Define commonly used business accounts and classify each into one of five account types
 
