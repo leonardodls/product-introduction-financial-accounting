@@ -31,6 +31,30 @@
           "item-code": "Accounts-test-Emded/Question-2",
           "item-type": "resource",
           "resource": "RE_00003"
+        },
+        {
+          "name": "Question 3",
+          "item-code": "Accounts-test-Emded/Question-3",
+          "item-type": "resource",
+          "resource": "RE_00004"
+        },
+        {
+          "name": "Question 4",
+          "item-code": "Accounts-test-Emded/Question-4",
+          "item-type": "resource",
+          "resource": "RE_00005"
+        },
+        {
+          "name": "Question 5",
+          "item-code": "Accounts-test-Emded/Question-5",
+          "item-type": "resource",
+          "resource": "RE_00006"
+        },
+        {
+          "name": "Question 6",
+          "item-code": "Accounts-test-Emded/Question-6",
+          "item-type": "resource",
+          "resource": "RE_00007"
         }
       ]
     }
@@ -168,7 +192,7 @@
       },
       "responses": {
         "i1": {
-          "correct": "choiceD"
+          "correct": "choiceB"
         }
       },
       "learning-objectives": [],
@@ -238,6 +262,282 @@
       "responses": {
         "i1": {
           "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00004": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "Select an account for type 'Liability'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Retained Earnings"
+              },
+              {
+                "choiceB": "Equipment"
+              },
+              {
+                "choiceC": "Accounts Payable"
+              },
+              {
+                "choiceD": "Maintenance Expense"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00005": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "Select an account for type 'Stockholders’ Equity'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Land"
+              },
+              {
+                "choiceB": "Supplies Expense"
+              },
+              {
+                "choiceC": "Fees Earned"
+              },
+              {
+                "choiceD": "Retained Earnings"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00006": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "Select an account for type 'Revenue'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Cash"
+              },
+              {
+                "choiceB": "Fees Earned"
+              },
+              {
+                "choiceC": "Common Stock"
+              },
+              {
+                "choiceD": "Rent Expense"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+     "RE_00006": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "Select an account for type 'Expense'<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Wages Expense"
+              },
+              {
+                "choiceB": "Note Payable"
+              },
+              {
+                "choiceC": "Fees Earned"
+              },
+              {
+                "choiceD": "Building"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
         }
       },
       "learning-objectives": [],
