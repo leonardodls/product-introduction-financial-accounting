@@ -151,11 +151,11 @@
             "name": "Accounts",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_2",
-            "item-code": "Chapter_1_Accounts/Accounts",
+            "item-code": "Chapter_1_Introduction/Accounts",
             "tracking": true,
             "embedded": [
               {
-                "item-code": "Chapter_1_Accounts/Accounts/test-Emded",
+                "item-code": "Chapter_1_Introduction/Accounts/test-Emded",
                 "resource": "RE_CH_1_SEC_2_EM",
                 "item-type": "resource",
                 "name": "Emb Test 1",
