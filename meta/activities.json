@@ -15,20 +15,20 @@
       ]
     },
     {
-      "name": "Introduction-Accounts-test-Emded",
-      "item-code": "Introduction-Accounts-test-Emded",
+      "name": "Accounts-test-Emded",
+      "item-code": "Accounts-test-Emded",
       "item-type": "folder",
       "sub-type": "test",
       "items": [
         {
           "name": "Question 1",
-          "item-code": "Introduction-Accounts-test-Emded/Question-1",
+          "item-code": "Accounts-test-Emded/Question-1",
           "item-type": "resource",
           "resource": "RE_00002"
         },
         {
           "name": "Question 2",
-          "item-code": "Introduction-Accounts-test-Emded/Question-2",
+          "item-code": "Accounts-test-Emded/Question-2",
           "item-type": "resource",
           "resource": "RE_00003"
         }
