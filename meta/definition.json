@@ -173,11 +173,11 @@
             "name": "Accounting Equation",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_3",
-            "item-code": "Chapter_1_Accounting_Equation/Accounting_Equation",
+            "item-code": "Chapter_1_Introduction/Accounting_Equation",
             "tracking": true,
              "embedded": [
               {
-                "item-code": "Chapter_1_Accounting_Equation/Accounting_Equation/test-Emded",
+                "item-code": "Chapter_1_Introduction/Accounting_Equation/test-Emded",
                 "resource": "RE_CH_1_SEC_3_EM",
                 "item-type": "resource",
                 "name": "Emb Test 1",
@@ -195,7 +195,7 @@
             "name": "Common Accounting Transactions",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_4",
-            "item-code": "Chapter_1_Common_Accounting_Transactions/Common_Accounting_Transactions",
+            "item-code": "Chapter_1_Introduction/Common_Accounting_Transactions",
             "tracking": true,           
             "attribs": {
               "mark-as-complete": {
@@ -208,7 +208,7 @@
             "name": "Summary",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_5",
-            "item-code": "Chapter_1_Summary/Summary",
+            "item-code": "Chapter_1_Introduction/Summary",
             "tracking": true,           
             "attribs": {
               "mark-as-complete": {
