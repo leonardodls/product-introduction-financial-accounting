@@ -1,6 +1,6 @@
 Learning Objectives
 
-  - > Define commonly used business accounts and classify each into one of five account types
+  - *Define commonly used business accounts and classify each into one of five account types*
 
 The items that a business keeps track of are called **accounts**. Each of these accounts is one of five main types.
 

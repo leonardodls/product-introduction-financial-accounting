@@ -1,10 +1,10 @@
 Learning Objectives
 
-  - > Express the five account types in a mathematical equation
+  - *Express the five account types in a mathematical equation*
 
-  - > Describe and illustrate how net income impacts retained earnings
+  - *Describe and illustrate how net income impacts retained earnings*
 
-  - > Classify accounts as either temporary or permanent based on the category each falls into
+  - *Classify accounts as either temporary or permanent based on the category each falls into*
 
 The **accounting equation** is the basis for all reporting in accounting. It must balance for a business’s financial records to be correct.
 
