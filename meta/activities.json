@@ -684,7 +684,7 @@
                 "choiceB": "Sell to customers on account    =>    Accounts Receivable increases AND Retained Earnings decreases (for revenue)"
               },
               {
-                "choiceC": "Revenue – Expenses = Net Income"
+                "choiceC": "Pay cash on account  =>  Account Payable decreases AND Cash decreases"
               },
               {
                 "choiceD": "Receive cash on account    =>    Cash decreases AND Accounts Receivable increases"
