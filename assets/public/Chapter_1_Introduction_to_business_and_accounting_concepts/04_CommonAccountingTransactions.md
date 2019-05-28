@@ -148,16 +148,5 @@ PLACEHOLDER - Final image. Insert 0402\_IE\_05\_Final
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/04_CommonAccountingTransactions/image25.png)
 
-### Test Your Understanding 1
+### Test Your Understanding
 
-Which transaction in column A correctly matches with the corresponding account changes in column B?
-
-   *Column A*                                        *Column B*
-
-a. Purchase supplies on account      *Retained Earnings* increases (for expense) AND *Accounts Payable* decreases
-
-b. Sell to customers on account        *Accounts Receivable* increases AND *Retained Earnings* decreases (for revenue)
-
-c. Pay cash on account              *Accounts Payable* decreases AND *Cash* decreases
-
-d. Receive cash on account *Cash* decreases AND *Accounts Receivable* increases
