@@ -684,10 +684,10 @@
                 "choiceB": "Sell to customers on account    =>    Accounts Receivable increases AND Retained Earnings decreases (for revenue)"
               },
               {
-                "choiceC": "Pay cash on account  =>  Account Payable decreases AND Cash decreases"
+                "choiceC": "ddss"
               },
               {
-                "choiceD": "Receive cash on account    =>    Cash decreases AND Accounts Receivable increases"
+                "choiceD": "Pay cash on account  =>  Account Payable decreases AND Cash decreases"
               }
             ]
           }
