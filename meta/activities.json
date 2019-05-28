@@ -678,16 +678,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "Purchase supplies on account    =>    Retained Earnings increases (for expense) AND Accounts Payable decreases"
+                "choiceA": "Assets - Liabilities = Net Income"
               },
               {
-                "choiceB": "Sell to customers on account    =>    Accounts Receivable increases AND Retained Earnings decreases (for revenue)"
+                "choiceB": "Common Stock + Retained Earnings = Stockholders’ Equity"
               },
               {
-                "choiceC": "Pay cash on account    =>    Accounts Payable decreases AND Cash decreases"
+                "choiceC": "Revenue – Expenses = Net Income"
               },
               {
-                "choiceD": "Receive cash on account    =>    Cash decreases AND Accounts Receivable increases"
+                "choiceD": "Assets = Liabilities + Stockholders’ Equity"
               }
             ]
           }
