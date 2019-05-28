@@ -681,13 +681,13 @@
                 "choiceA": "<b>Purchase supplies on account</b> | Retained Earnings increases (for expense) AND Accounts Payable decreases"
               },
               {
-                "choiceB": "Sell to customers on account | Accounts Receivable increases AND Retained Earnings decreases (for revenue)"
+                "choiceB": "<b>Sell to customers on account</b> : Accounts Receivable increases AND Retained Earnings decreases (for revenue)"
               },
               {
-                "choiceC": "Pay cash on account | Accounts Payable decreases AND Cash decreases"
+                "choiceC": "<b>Pay cash on account</b> - Accounts Payable decreases AND Cash decreases"
               },
               {
-                "choiceD": "Receive cash on account | Cash decreases AND Accounts Receivable increases"
+                "choiceD": "<b>Receive cash on account</b> -- Cash decreases AND Accounts Receivable increases"
               }
             ]
           }
