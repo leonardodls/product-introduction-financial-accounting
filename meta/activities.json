@@ -678,7 +678,7 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "Assets - Liabilities = Net Income"
+                "choiceA": "Purchase supplies on account    =>    Retained Earnings increases (for expense) AND Accounts Payable decreases"
               },
               {
                 "choiceB": "Common Stock + Retained Earnings = Stockholders’ Equity"
