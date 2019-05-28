@@ -71,6 +71,20 @@
           "resource": "RE_00008"
         }
       ]
+    },
+    {
+      "name": "Common-Accounting-test-Emded",
+      "item-code": "Common-Accounting-test-Emded",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00009"
+        }
+      ]
     }
   ],
   "resources": {
@@ -621,6 +635,75 @@
       "responses": {
         "i1": {
           "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00009": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  "Which transaction correctly matches with the corresponding account changes?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Purchase supplies on account  =>  Retained Earnings increases (for expense) AND Accounts Payable decreases"
+              },
+              {
+                "choiceB": "Sell to customers on account  =>  Accounts Receivable increases AND Retained Earnings decreases (for revenue)"
+              },
+              {
+                "choiceC": "Pay cash on account  =>  Accounts Payable decreases AND Cash decreases"
+              },
+              {
+                "choiceD": "Receive cash on account  =>  Cash decreases AND Accounts Receivable increases"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
         }
       },
       "learning-objectives": [],
