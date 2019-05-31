@@ -627,13 +627,52 @@
       {
         "name": "Liabilities",
         "item-type": "folder",
-        "item-code": "Chapter_8_Introduction",
+        "item-code": "Chapter_9_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "Introduction",
+            "name": "Sales Taxes",
             "item-type": "resource",
             "resource": "RE_CH_8_SEC_1",
-            "item-code": "Chapter_8_Introduction/Introduction",
+            "item-code": "Chapter_9_Introduction/SalesTaxes",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Payroll",
+            "item-type": "resource",
+            "resource": "RE_CH_8_SEC_1",
+            "item-code": "Chapter_9_Introduction/Payroll",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Notes Payable",
+            "item-type": "resource",
+            "resource": "RE_CH_8_SEC_1",
+            "item-code": "Chapter_9_Introduction/NotesPayable",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Bonds",
+            "item-type": "resource",
+            "resource": "RE_CH_8_SEC_1",
+            "item-code": "Chapter_9_Introduction/Bonds",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
@@ -648,13 +687,78 @@
       {
         "name": "Stockholders Equity",
         "item-type": "folder",
-        "item-code": "Chapter_9_Introduction",
+        "item-code": "Chapter_10_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "Introduction",
+            "name": "Issuing Stock",
             "item-type": "resource",
-            "resource": "RE_CH_9_SEC_1",
-            "item-code": "Chapter_9_Introduction/Introduction",
+            "resource": "RE_CH_10_SEC_1",
+            "item-code": "Chapter_10_Introduction/IssuingStock",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Treasury Stock",
+            "item-type": "resource",
+            "resource": "RE_CH_10_SEC_1",
+            "item-code": "Chapter_10_Introduction/TreasuryStock",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Cash Dividends",
+            "item-type": "resource",
+            "resource": "RE_CH_10_SEC_1",
+            "item-code": "Chapter_10_Introduction/CashDividends",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Stock Dividends",
+            "item-type": "resource",
+            "resource": "RE_CH_10_SEC_1",
+            "item-code": "Chapter_10_Introduction/StockDividends",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Stock Splits",
+            "item-type": "resource",
+            "resource": "RE_CH_10_SEC_1",
+            "item-code": "Chapter_10_Introduction/StockSplits",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Stockholders' Equity Section of the Balance Sheet",
+            "item-type": "resource",
+            "resource": "RE_CH_10_SEC_1",
+            "item-code": "Chapter_10_Introduction/StockholdersEquity",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
@@ -669,13 +773,52 @@
       {
         "name": "Statement of Cash Flows",
         "item-type": "folder",
-        "item-code": "Chapter_10_Introduction",
+        "item-code": "Chapter_11_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "Introduction",
+            "name": "Types of Business Activities",
             "item-type": "resource",
-            "resource": "RE_CH_10_SEC_1",
-            "item-code": "Chapter_10_Introduction/Introduction",
+            "resource": "RE_CH_11_SEC_1",
+            "item-code": "Chapter_11_Introduction/TypeBusinessActivities",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Cash Inflows and Outflows",
+            "item-type": "resource",
+            "resource": "RE_CH_11_SEC_1",
+            "item-code": "Chapter_11_Introduction/CashInflowsOutflows",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Statement of Cash Flows: Direct Method",
+            "item-type": "resource",
+            "resource": "RE_CH_11_SEC_1",
+            "item-code": "Chapter_11_Introduction/StatementCashFlowsDirect",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Statement of Cash Flows: Indirect Method",
+            "item-type": "resource",
+            "resource": "RE_CH_11_SEC_1",
+            "item-code": "Chapter_11_Introduction/StatementCashFlowsIndirect",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
@@ -690,13 +833,112 @@
       {
         "name": "Financial Statement Analysis",
         "item-type": "folder",
-        "item-code": "Chapter_11_Introduction",
+        "item-code": "Chapter_12_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Horizontal Analysis",
+            "item-type": "resource",
+            "resource": "RE_CH_12_SEC_1",
+            "item-code": "Chapter_12_Introduction/HorizontalAnalysis",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Vertical Analysis",
+            "item-type": "resource",
+            "resource": "RE_CH_12_SEC_1",
+            "item-code": "Chapter_12_Introduction/VerticalAnalysis",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Common-size Statements",
+            "item-type": "resource",
+            "resource": "RE_CH_12_SEC_1",
+            "item-code": "Chapter_12_Introduction/CommonSizeStatements",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Ratio Analysis",
+            "item-type": "resource",
+            "resource": "RE_CH_12_SEC_1",
+            "item-code": "Chapter_12_Introduction/RatioAnalysis",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Liquidity Measures",
+            "item-type": "resource",
+            "resource": "RE_CH_12_SEC_1",
+            "item-code": "Chapter_12_Introduction/LiquidityMeasures",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Solvency Measures",
+            "item-type": "resource",
+            "resource": "RE_CH_12_SEC_1",
+            "item-code": "Chapter_12_Introduction/SolvencyMeasures",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Profitability Measures",
+            "item-type": "resource",
+            "resource": "RE_CH_12_SEC_1",
+            "item-code": "Chapter_12_Introduction/ProfitabilityMeasures",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Valuation Analysis",
+        "item-type": "folder",
+        "item-code": "Chapter_13_Introduction",
         "sub-type": "default",
         "items": [{
             "name": "Introduction",
             "item-type": "resource",
-            "resource": "RE_CH_11_SEC_1",
-            "item-code": "Chapter_11_Introduction/Introduction",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_12_Introduction/Introduction",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
@@ -929,6 +1171,28 @@
         "learning-objectives": []
       },
       "RE_CH_11_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_11_Financial_Statement_Analysis/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_12_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_11_Financial_Statement_Analysis/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_13_SEC_1": {
         "sub-type": "md",
         "tags": [
           "Reading"
