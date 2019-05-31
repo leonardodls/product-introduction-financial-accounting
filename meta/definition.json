@@ -235,10 +235,49 @@
         "item-code": "Chapter_2_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "Introduction",
+            "name": "Accounting Journal",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1",
-            "item-code": "Chapter_2_Introduction/Introduction",
+            "item-code": "Chapter_2_Introduction/AccountingJournal",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Accounting Ledgers",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "Chapter_2_Introduction/AccountingLedgers",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Trial Balance",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "Chapter_2_Introduction/TrialBalance",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Additional Accounting Transactions",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_1",
+            "item-code": "Chapter_2_Introduction/AdditionalAccountingTransactions",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
@@ -256,10 +295,62 @@
         "item-code": "Chapter_3_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "Introduction",
+            "name": "Income statement",
             "item-type": "resource",
             "resource": "RE_CH_3_SEC_1",
-            "item-code": "Chapter_3_Introduction/Introduction",
+            "item-code": "Chapter_3_Introduction/IncomeStatement",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Retained Earnings Statement",
+            "item-type": "resource",
+            "resource": "RE_CH_3_SEC_1",
+            "item-code": "Chapter_3_Introduction/RetainedSarningsStatement",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Balance Sheet",
+            "item-type": "resource",
+            "resource": "RE_CH_3_SEC_1",
+            "item-code": "Chapter_3_Introduction/BalanceSheet",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Financial Statement Interrelationships",
+            "item-type": "resource",
+            "resource": "RE_CH_3_SEC_1",
+            "item-code": "Chapter_3_Introduction/FinancialStatementInterrelationships",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Comparative Income Statements",
+            "item-type": "resource",
+            "resource": "RE_CH_3_SEC_1",
+            "item-code": "Chapter_3_Introduction/ComparativeIncomeStatements",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
@@ -277,10 +368,23 @@
         "item-code": "Chapter_4_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "Introduction",
+            "name": "Practice - Solving a Comprehensive Problem",
             "item-type": "resource",
             "resource": "RE_CH_4_SEC_1",
-            "item-code": "Chapter_4_Introduction/Introduction",
+            "item-code": "Chapter_4_Introduction/PracticeSolvingComprehensive",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Assessment - Comprehensive Problem",
+            "item-type": "resource",
+            "resource": "RE_CH_4_SEC_1",
+            "item-code": "Chapter_4_Introduction/AssessmentComprehensiveProblem",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
