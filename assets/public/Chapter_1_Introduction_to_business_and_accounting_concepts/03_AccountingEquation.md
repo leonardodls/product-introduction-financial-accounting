@@ -1,11 +1,3 @@
-Learning Objectives
-
-  - *Express the five account types in a mathematical equation*
-
-  - *Describe and illustrate how net income impacts retained earnings*
-
-  - *Classify accounts as either temporary or permanent based on the category each falls into*
-
 The **accounting equation** is the basis for all reporting in accounting. It must balance for a business’s financial records to be correct.
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/03_AccountingEquation/image1.png)
@@ -24,11 +16,11 @@ The difference between the total revenue and total expense amounts for a particu
 
 Revenue and expense accounts are considered **temporary** accounts. They are used to record operational transactions for a period of time. At the end of the accounting period, temporary account balances are set back to zero by transferring them to the *Retained Earnings* stockholders’ equity account for the period’s net income amount. This results in a change in stockholders’ equity. When the next accounting period begins, the beginning balances of the temporary accounts are zero again, for a fresh start.
 
-For example, Core Fit records its revenue and expense accounts monthly.  Therefore, at the beginning of each month, say July, Core Fit sets its revenue and expense accounts to $0.  Over the course of the month, the company earns ~$30,000 on class sales. Similarly, all expenses (such as wages, rent, utilities, and other costs that directly generate revenue) incurred in July are added up and amount to $22,500. Therefore, Core Fit earns $7,500 in profits for the month of July, which is transferred to the Retained Earnings account. Then, on July 31, Core Fit resets the revenue and expense accounts to $0.  
+# For example, Core Fitness records its revenue and expense accounts monthly.  Therefore, at the beginning of each month, say July, Core Fitness sets its revenue and expense accounts to $0.  Over the course of the month, the company earns ~$30,000 on class sales. Similarly, all expenses (such as wages, rent, utilities, and other costs that directly generate revenue) incurred in July are added up and amount to $22,500. Therefore, Core Fitness earns $7,500 in profits for the month of July, which is transferred to the Retained Earnings account. Then, on July 31, Core Fitness resets the revenue and expense accounts to $0.  
 
 The three other categories of accounts – assets, liabilities, and stockholders' equity – are called **permanent** accounts because they are not closed out at the end of the accounting period. Instead, these account balances at the end of the period are carried forward and become the starting balances at the beginning of the next period.
 
-For example, Core Fit ended July with $100,000 of cash in the bank. When we begin August, the beginning cash balance is kept at $100,000.
+# For example, Core Fit ended July with $100,000 of cash in the bank. When we begin August, the beginning cash balance is kept at $100,000. 
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/03_AccountingEquation/image3.png)
 
