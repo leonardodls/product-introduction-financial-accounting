@@ -214,9 +214,22 @@
             }
           },
           {
-            "name": "Summary",
+            "name": "Accounting Transactions Grid",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_5",
+            "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid",
+            "tracking": true,           
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Summary",
+            "item-type": "resource",
+            "resource": "RE_CH_1_SEC_6",
             "item-code": "Chapter_1_Introduction/Summary",
             "tracking": true,           
             "attribs": {
@@ -1022,7 +1035,18 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/05_Summary.md"
+          "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/05_AccountingTransactionsGrid.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_6": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/06_Summary.md"
         },
         "description": "",
         "learning-objectives": []
