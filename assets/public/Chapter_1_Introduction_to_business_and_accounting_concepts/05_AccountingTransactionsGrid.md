@@ -4,9 +4,9 @@ PLACEHOLDER – INSERT *05* from resources folder
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/05_AccountingTransactionsGrid/image1.png)
 
-# You will notice that each Core Fitness transaction in the first column impacts two accounts. For the asset, liability, and stockholders’ equity amounts, positive numbers represent increases and negative amounts indicate decreases. The ending balances prove that total assets of $2,500 ($2,500 + $0) equal total liabilities and stockholders’ equity of $2,500 ($0 + $5,000 - $2,500).
+You will notice that each Core Fitness transaction in the first column impacts two accounts. For the asset, liability, and stockholders’ equity amounts, positive numbers represent increases and negative amounts indicate decreases. The ending balances prove that total assets of $2,500 ($2,500 + $0) equal total liabilities and stockholders’ equity of $2,500 ($0 + $5,000 - $2,500).
 
-# The revenue and expense accounts are used temporarily during the period to record operational transactions. At the end of the period, these accounts’ ending balances are set back to zero by transferring them to the Retained Earnings account under Closed revenue account and Closed expense accounts. As a result, the Retained Earnings balance for Core Fitness decreased by the net loss of $2,500.
+The revenue and expense accounts are used temporarily during the period to record operational transactions. At the end of the period, these accounts’ ending balances are set back to zero by transferring them to the Retained Earnings account under Closed revenue account and Closed expense accounts. As a result, the Retained Earnings balance for Core Fitness decreased by the net loss of $2,500.
 
 ### Interactive Exercise 2: Accounting Transaction Grid
 
