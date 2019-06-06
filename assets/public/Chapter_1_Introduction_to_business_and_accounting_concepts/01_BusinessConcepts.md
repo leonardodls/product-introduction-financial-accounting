@@ -30,7 +30,7 @@ Throughout this course, we will use the operations of *Core Fitness* to understa
 
 Stella and Eddie met when they were both personal trainers at a neighborhood gym. Eddie specializes in cardio and strength training while Stella specializes in yoga and pilates. A few years ago, the two friends decided to quit their jobs and start Core Fitness, an exercise studio that offers individual and group Core Fitness classes – a work out class they designed which combines cardio, strength and flexibility. People can either join Core Fitness as monthly members or pay for a single class.
 
-> ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image4.png)
+![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image4.png)
 
 *Core Fitness is a corporation. Stella and Eddie are the owners or stockholders. They invested $40,000 each in the business, which is the maximum amount they could lose if the business doesn’t do well and shuts down. *
 
