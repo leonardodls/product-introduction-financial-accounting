@@ -13,7 +13,7 @@ function convertImgtoEMF(moduleBasepath, presentationPath, altText, imageName) {
   var presentationName = altText.split("~")[0];
   var slideNumber = parseInt(altText.split("~")[1]) - 1;
 
-
+  
 
   try {
     if (!presentation) {
@@ -79,6 +79,11 @@ function Image_filter(value, docPath) {
     } else {
       altText = altText + imageAltDes[str].c;
     }
+  }
+
+  if(imageName == "" || imageName == undefined || imageName == null){
+    var imagePathName = value[2][0].split("/");
+    imageName = (imagePathName[imagePathName.length - 1]).split(".")[0];
   }
 
   var docPathAry = docPath.split("/");
