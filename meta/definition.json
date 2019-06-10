@@ -196,16 +196,7 @@
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_4",
             "item-code": "Chapter_1_Introduction/Common_Accounting_Transactions",
-            "tracking": true,
-            "embedded": [
-              {
-                "item-code": "Chapter_1_Introduction/Common_Accounting_Transactions/test-Emded",
-                "resource": "RE_CH_1_SEC_4_EM",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],             
+            "tracking": true,                     
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -218,7 +209,16 @@
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_5",
             "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid",
-            "tracking": true,           
+            "tracking": true,   
+            "embedded": [
+              {
+                "item-code": "Chapter_1_Introduction/Common_Accounting_Transactions/test-Emded",
+                "resource": "RE_CH_1_SEC_5_EM",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],            
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -1084,7 +1084,7 @@
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
       },  
-      "RE_CH_1_SEC_4_EM": {
+      "RE_CH_1_SEC_5_EM": {
         "sub-type": "test",
         "tags": [
           "Practice"

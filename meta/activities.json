@@ -253,7 +253,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Asset'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select the account that falls in the Asset account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -322,7 +322,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Liability'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select the account that falls in the Liability account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -391,7 +391,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Stockholders’ Equity'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select the account that falls in the Stockholders’ Equity account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -460,7 +460,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Revenue'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select the account that falls in the Revenue account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -529,7 +529,7 @@
             "questiondata": [
               {
                 "text":
-                  "Select an account for type 'Expense'.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                  "Select the account that falls in the Expense account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
