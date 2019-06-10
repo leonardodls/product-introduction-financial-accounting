@@ -10,7 +10,7 @@ Core Fitness owns a number of valuable things including cash in its bank account
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/02_Accounts/image2.png)
 
-*The money Core Fitness owes to others, such as the monthly rent for the studio, fall in the Accounts Payable account. In addition, if Core Fitness took out a loan to help buy some new machinery or open a new location, the dues of that loan would be a liability that would fall in the Notes Payable account. *
+The money Core Fitness owes to others, such as the monthly rent for the studio, fall in the Accounts Payable account. In addition, if Core Fitness took out a loan to help buy some new machinery or open a new location, the dues of that loan would be a liability that would fall in the Notes Payable account.
 
 ### Stockholders’ Equity
 

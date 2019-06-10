@@ -30,11 +30,11 @@ Stella and Eddie met when they were both personal trainers at a neighborhood gym
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image4.png)
 
-*Core Fitness is a corporation. Stella and Eddie are the owners or stockholders. They invested $40,000 each in the business, which is the maximum amount they could lose if the business doesn’t do well and shuts down. *
+Core Fitness is a corporation. Stella and Eddie are the owners or stockholders. They invested $40,000 each in the business, which is the maximum amount they could lose if the business doesn’t do well and shuts down.
 
 A service business sells expertise, advice, professional skills, or experiences rather than a physical product. Consultants, dry cleaners, airlines, attorneys, and repair shops are service-oriented businesses.
 
-*Core Fitness is a services business. It sells unique fitness classes, which is an experience. *
+Core Fitness is a services business. It sells unique fitness classes, which is an experience.
 
 A business must keep track of its financial activities and summarize this information in reports for managers, investors, creditors, and tax reporting entities.
 
@@ -46,15 +46,15 @@ A business must keep track of its financial activities and summarize this inform
 > 
 > The word “Accounting” comes from the Latin word computare meaning “to count” or “to score”.
 
-*As Core Fitness has started generating profits, Stella and Eddie are thinking about how to spend the cash they are generating. Some of the questions they are trying to answer include: *
+As Core Fitness has started generating profits, Stella and Eddie are thinking about how to spend the cash they are generating. Some of the questions they are trying to answer include:
 
-  - *Should they start selling healthy snacks, like smoothies or protein bars, in their studio? *
+  - Should they start selling healthy snacks, like smoothies or protein bars, in their studio?
 
-  - *Does it make sense to sell Core Fitness branded clothing or water bottles? *
+  - Does it make sense to sell Core Fitness branded clothing or water bottles?
 
-  - *Could they start online video access of their classes for people that want to access the classes remotely? *
+  - Could they start online video access of their classes for people that want to access the classes remotely?
 
-  - *Is it a good idea to open up a second location? *
+  - Is it a good idea to open up a second location?
 
 While these decisions may seem like good business ideas, we need Accounting to help answer if they are financially viable.
 
