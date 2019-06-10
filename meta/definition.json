@@ -212,7 +212,7 @@
             "tracking": true,   
             "embedded": [
               {
-                "item-code": "Chapter_1_Introduction/Common_Accounting_Transactions/test-Emded",
+                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded",
                 "resource": "RE_CH_1_SEC_5_EM",
                 "item-type": "resource",
                 "name": "Emb Test 1",
