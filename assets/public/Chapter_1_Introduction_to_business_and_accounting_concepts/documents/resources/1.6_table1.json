@@ -1,0 +1,22 @@
+{
+    "type": "spreadsheet-DLSleonardo-v2",
+    "options": {
+      "data": {
+        "itemId": "leo-leo-demo1-1755",
+        "meta": {
+	        "renderOverrides": {
+	        },
+          "enableframeButton": true
+      	},
+      	"cssOverrides": {
+          "div.cosmatt-widget": {
+            "height": "635px",
+            "padding-top": 0
+          },
+          "div.cosmatt-widget > div.leonardoPlayerContainer": {
+            "padding-bottom": 0
+          }
+      	}
+      }
+    }
+  }
