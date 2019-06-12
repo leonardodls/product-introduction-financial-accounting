@@ -1,8 +1,8 @@
+##### ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/documents/resources/1.1_learningObj.svg)
+
 ## Introduction
 
 A **business** is an organization that exists to make a profit by selling goods and/or services to customers.
-
-![](./Chapter_1_Introduction_to_business_and_accounting_concepts/documents/resources/1.1_learningObj.svg)
 
 The goal of a business is to make a profit through its operations. It does this by generating sales to customers that are greater in dollar amount than the costs associated with producing those sales in the same time period. If the costs are greater than the sales, the result is an operating loss.
 
