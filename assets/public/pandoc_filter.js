@@ -73,7 +73,10 @@ function convertPPTImgtoSVG(presentationName, imageName, slideNumber){
     var resultSVG = convertEMFtoSVG(EMFimgDesPath);
 
     if (resultSVG) {
-      outputFileName = "./" + moduleName + "/media/" + subModuleName + "/" + imageName + ".svg";
+      if(imageName.indexOf(".") == -1){
+        imageName = imageName + ".svg";
+      }
+      outputFileName = "./" + moduleName + "/media/" + subModuleName + "/" + imageName;
     }
     return outputFileName
   }
@@ -171,10 +174,13 @@ function Image_filter(value, docPath) {
   } else {
     var altTextArray = altText.split("~");
     presentationName = altTextArray[0];
-    presentationPath = path.join(docxPath, presentationName + '.pptx');
+    if(presentationName && presentationName.indexOf(".") == -1){
+      presentationName = presentationName + '.pptx';
+    } 
+    presentationPath = path.join(docxPath, presentationName);
     slideNumber = parseInt(altTextArray[1]) - 1;
     if(altTextArray.length > 2){
-      imageName = altTextArray[2];
+      imageName = altTextArray[2].trim();
     }
     if (imageName != undefined && altText != "" && fs.existsSync(docxPath) && fs.existsSync(presentationPath)) {
       
