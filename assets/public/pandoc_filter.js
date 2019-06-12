@@ -6,15 +6,12 @@ var pandoc = require('pandoc-filter');
 var Image = pandoc.Image;
 var Para = pandoc.Para;
 var Str = pandoc.Str;
-var presentation, moduleName, subModuleName, imgDesPath, docPath;
+var presentation, moduleName, subModuleName, EMFimgDesPath, docPath, moduleBasepath, docxPath;
 
-function convertImgtoEMF(moduleBasepath, presentationPath, altText, imageName) {
+function convertImgtoEMF(presentationName, imageName, slideNumber) {
+
+  var presentationPath = path.join(docxPath, presentationName);
   var result = false;
-  var presentationName = altText.split("~")[0];
-  var slideNumber = parseInt(altText.split("~")[1]) - 1;
-
-  
-
   try {
     if (!presentation) {
       presentation = new Presentation(presentationPath);
@@ -23,7 +20,7 @@ function convertImgtoEMF(moduleBasepath, presentationPath, altText, imageName) {
     var shapes = slides[slideNumber] ? slides[slideNumber].shapes() : undefined;
     var mediaPath = path.join(moduleBasepath, "media");
     var desfolderPath = path.join(moduleBasepath, "/media/" + subModuleName);
-    imgDesPath = path.join(desfolderPath, imageName + '.emf');
+    EMFimgDesPath = path.join(desfolderPath, imageName + '.emf');
 
     var isExist = fs.existsSync(mediaPath);
     if (!isExist) {
@@ -38,7 +35,7 @@ function convertImgtoEMF(moduleBasepath, presentationPath, altText, imageName) {
     if (shapes[0] && shapes != undefined) {
 
       shapes[0].exportAs({
-        path: imgDesPath,
+        path: EMFimgDesPath,
         type: 'emf'
       });
       result = true;
@@ -48,29 +45,45 @@ function convertImgtoEMF(moduleBasepath, presentationPath, altText, imageName) {
   } catch (e) {}
 
   return result;
-};
+}
 
-function convertEMFtoSVG(imgDesPath) {
+function convertEMFtoSVG(EMFimgDesPath) {
   var result = false;
-  if (fs.existsSync(imgDesPath)) {
-    var svgPath = imgDesPath.substr(0, imgDesPath.lastIndexOf('.'));
+  if (fs.existsSync(EMFimgDesPath)) {
+    var svgPath = EMFimgDesPath.substr(0, EMFimgDesPath.lastIndexOf('.'));
 
 
-    var args = ['-z', '-f', imgDesPath, '-l', svgPath + '.svg'];
+    var args = ['-z', '-f', EMFimgDesPath, '-l', svgPath + '.svg'];
     var bat = spawn('inkscape', args);
     if (bat.status != null && fs.existsSync(svgPath + ".svg")) {
       result = true;
 
     }
-    fs.unlink(imgDesPath);
+    fs.unlink(EMFimgDesPath);
 
     return result;
   }
-};
+}
+
+function convertPPTImgtoSVG(presentationName, imageName, slideNumber){
+ 
+  var outputFileName = null;
+  var resultEMF = convertImgtoEMF(presentationName, imageName, slideNumber);
+  if (resultEMF) {
+    var resultSVG = convertEMFtoSVG(EMFimgDesPath);
+
+    if (resultSVG) {
+      outputFileName = "./" + moduleName + "/media/" + subModuleName + "/" + imageName + ".svg";
+    }
+    return outputFileName
+  }
+}
 
 function Image_filter(value, docPath) {
   var imageName = value[2][1];
   var imageAltDes = value[1];
+  var isAltTextJson = true;
+  var altTextJson = null;
   var altText = "";
   for (var str = 0; str < imageAltDes.length; str++) {
 
@@ -80,10 +93,17 @@ function Image_filter(value, docPath) {
       altText = altText + imageAltDes[str].c;
     }
   }
+  try{
+    altTextJson = JSON.parse(altText)
+    isAltTextJson = true;
+  }
+  catch(e){
+    isAltTextJson = false;
+  }
 
   if(imageName == "" || imageName == undefined || imageName == null){
-    var imagePathName = value[2][0].split("/");
-    imageName = (imagePathName[imagePathName.length - 1]).split(".")[0];
+    var defaultImageName = value[2][0].split("/");
+    imageName = (defaultImageName[defaultImageName.length - 1]).split(".")[0];
   }
 
   var docPathAry = docPath.split("/");
@@ -97,12 +117,50 @@ function Image_filter(value, docPath) {
   if (subModuleName == undefined || subModuleName == "") {
     subModuleName = moduleName;
   }
-  var moduleBasepath = path.join(__dirname, moduleName);
-  var docxPath = path.join(moduleBasepath, "documents/resources");
-
+  moduleBasepath = path.join(__dirname, moduleName);
+  docxPath = path.join(moduleBasepath, "documents/resources");
+  var presentationPath ="";
+  var presentationName = "";
+  var imagePath ="";
+  var slideNumber = 0;
   // for image
+  if(isAltTextJson && altTextJson && altTextJson.Format){
+    var outputFileName = "";
+    if(altTextJson.Format.toLowerCase() =="ppt"){
+      presentationName = altTextJson.PPTName;
+      if(presentationName && presentationName.indexOf(".") == -1){
+        presentationName = presentationName + '.pptx';
+      }  
+      presentationPath = path.join(docxPath, presentationName);
+      if(altTextJson.OutputFileName){
+        imageName = altTextJson.OutputFileName;
+      }
+      if(altTextJson.PPTSlide){
+        slideNumber = parseInt(altTextJson.PPTSlide)-1;
+      }
+      if (imageName != undefined && altText != "" && fs.existsSync(docxPath) && fs.existsSync(presentationPath)) {
+        outputFileName = convertPPTImgtoSVG(presentationName, imageName, slideNumber );
+      }
+    }else if(altTextJson.Format.toLowerCase() =="svg"){
+      if(altTextJson.ResourceName){
+        
+        imageName = altTextJson.ResourceName;
+        if(imageName.indexOf(".") == -1){
+          imageName = imageName + ".svg";
+        }
+      }
+      outputFileName = "./" + moduleName + "/" + "documents/resources" +"/" + imageName;
 
-  if (altText.split(".").pop() == "json") {
+    }else{
+      //default handling for PNG /JPEG if required
+    }
+    value[2][0] = outputFileName;
+    value[1] = [];
+    value[2][1] = "";
+    value[1].length = 0;
+    return Image(value[0], value[1], value[2]);
+  }
+  else if (altText.split(".").pop() == "json") {
     var jsonPath = path.join(docxPath, altText);
     if (imageName != undefined && altText != "" && fs.existsSync(docxPath) && fs.existsSync(jsonPath)) {
       var widgetConfigJson = fs.readFileSync(docxPath + '/' + altText);
@@ -111,21 +169,16 @@ function Image_filter(value, docPath) {
       return Str(convertedString);
     }
   } else {
-
-    var presentationName = altText.split("~")[0];
-    var presentationPath = path.join(docxPath, presentationName + '.pptx');
-    var imagePath;
+    var altTextArray = altText.split("~");
+    presentationName = altTextArray[0];
+    presentationPath = path.join(docxPath, presentationName + '.pptx');
+    slideNumber = parseInt(altTextArray[1]) - 1;
+    if(altTextArray.length > 2){
+      imageName = altTextArray[2];
+    }
     if (imageName != undefined && altText != "" && fs.existsSync(docxPath) && fs.existsSync(presentationPath)) {
-
-      var resultEMF = convertImgtoEMF(moduleBasepath, presentationPath, altText, imageName);
-      if (resultEMF) {
-        var resultSVG = convertEMFtoSVG(imgDesPath);
-
-        if (resultSVG) {
-          imagePath = "./" + moduleName + "/media/" + subModuleName + "/" + imageName + ".svg";
-          value[2][0] = imagePath;
-        }
-      }
+      
+      value[2][0] = convertPPTImgtoSVG(presentationName, imageName, slideNumber);
       value[1] = [];
       value[2][1] = "";
       value[1].length = 0;
@@ -133,7 +186,7 @@ function Image_filter(value, docPath) {
 
     }
     var imagePathName = value[2][0].split("/");
-    var imageName = imagePathName[imagePathName.length - 1];
+    imageName = imagePathName[imagePathName.length - 1];
     fs.createReadStream(moduleName + "/media/" + subModuleName + "/media/" + imageName).pipe(fs.createWriteStream(moduleName + "/media/" + subModuleName + "/" + imageName));
     imagePath = "./" + moduleName + "/media/" + subModuleName + "/" + imageName;
     value[2][0] = imagePath;
@@ -142,7 +195,7 @@ function Image_filter(value, docPath) {
     value[1].length = 0;
     return Image(value[0], value[1], value[2]);
   }
-};
+}
 
 function Table_filter(value, docPath) {
 
@@ -169,7 +222,7 @@ function Table_filter(value, docPath) {
   if (subModuleName == undefined || subModuleName == "") {
     subModuleName = moduleName;
   }
-  var moduleBasepath = path.join(__dirname, moduleName);
+  moduleBasepath = path.join(__dirname, moduleName);
   var docxPath = path.join(moduleBasepath, "documents/resources");
 
 
@@ -189,7 +242,7 @@ function Table_filter(value, docPath) {
       return res;
     }
   }
-};
+}
 
 function exportDocxMedia(docPath) {
 
@@ -208,7 +261,7 @@ function exportDocxMedia(docPath) {
   //var args = ['-S', docPath, '--extract-media=\"'+exportAsPath+'\"', "-t json"];
   var args = ['-S', docPath, '--extract-media=./' + moduleName + '/media/' + subModuleName, "-t", "json"];
   var bat = spawn('pandoc', args);
-};
+}
 
 function para_filter(value) {
 
@@ -249,7 +302,7 @@ function para_filter(value) {
   };
 
   return modified_value;
-};
+}
 
 function action(type, value, format, meta) {
   if (meta.docPath && meta.docPath.c && docPath == undefined) {
@@ -269,9 +322,7 @@ function action(type, value, format, meta) {
 
       break;
   }
-
-
-};
+}
 setTimeout(function() {
   pandoc.stdio(action);
 }, 0);
@@ -289,8 +340,7 @@ function deleteFolderRecursive(mediaPath) {
     });
     fs.rmdirSync(mediaPath);
   }
-};
-
+}
 
 process.on('exit', function() {
   if (presentation) {
