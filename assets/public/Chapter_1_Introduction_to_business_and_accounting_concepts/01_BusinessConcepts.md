@@ -1,4 +1,4 @@
-## ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image2.svg)
+## ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/documents/resources/1.1_learningObj.svg)
 
 ## Introduction
 
