@@ -12,7 +12,10 @@ Stella and Eddie raise $5,000 from a friend of theirs, Marie, who becomes an inv
 
 *(Placeholder)*
 
-![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/04_CommonAccountingTransactions/image2.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-258","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"height":"635px","padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 **2. Pay Cash for Rent**
 
