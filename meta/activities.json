@@ -83,7 +83,15 @@
           "item-code": "Common-Accounting-test-Emded/Question-1",
           "item-type": "resource",
           "resource": "RE_00009"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Common-Accounting-test-Emded_01",
+      "item-code": "Common-Accounting-test-Emded_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [      
         {
           "name": "Question 2",
           "item-code": "Common-Accounting-test-Emded/Question-2",
