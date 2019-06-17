@@ -16,7 +16,10 @@ The revenue and expense accounts are used temporarily during the period to recor
 
 PLACEHOLDER - Initial image. Insert 05\_IE\_01\_Initial
 
-![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/05_AccountingTransactionsGrid/image2.png)
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"leonardo-demo-441","data":{}}} 
+```
 
 *\[Hint: Stock is issued when an investor contributes cash to the business.\] *
 
