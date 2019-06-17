@@ -18,7 +18,7 @@ PLACEHOLDER - Initial image. Insert 05\_IE\_01\_Initial
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"leonardo-demo-441","data":{}}} 
+ {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded","data":{}}} 
 ```
 
 *\[Hint: Stock is issued when an investor contributes cash to the business.\] *
