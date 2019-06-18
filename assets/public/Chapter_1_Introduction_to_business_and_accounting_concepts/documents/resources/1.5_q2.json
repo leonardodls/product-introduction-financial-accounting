@@ -1,1 +1,21 @@
-{"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01","data":{}}}
+{
+    "type": "spreadsheet-DLSleonardo-v2",
+    "options": {
+      "data": {
+        "itemId": "leo-leonardo-demo-261",
+        "meta": {
+	        "renderOverrides": {
+	        },
+          "enableframeButton": true
+      	},
+      	"cssOverrides": {
+          "div.cosmatt-widget": {
+            "padding-top": 0
+          },
+          "div.cosmatt-widget > div.leonardoPlayerContainer": {
+            "padding-bottom": 0
+          }
+      	}
+      }
+    }
+}
