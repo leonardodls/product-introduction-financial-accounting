@@ -4,16 +4,12 @@ An economic event that affects two or more accounts is called a **transaction**.
 
 *Cash* increases AND *Common Stock* increases
 
-*(Placeholder)*
-
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-261","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 Stella and Eddie raise $5,000 from a friend of theirs, Marie, who becomes an investor in Core Fitness.  When stock is issued to Marie, Common Stock increases by $5,000 and Core Fitness receives cash of $5,000.
-
-*(Placeholder)*
 
 ```
 [cosmatt-widget]
@@ -24,16 +20,12 @@ Stella and Eddie raise $5,000 from a friend of theirs, Marie, who becomes an inv
 
 *Retained Earnings* decreases (for expense incurred) AND *Cash* decreases
 
-*(Placeholder)*
-
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-263","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 Core Fitness pays $3,000 cash immediately to its landlord for January’s rent. Since this is a rent expense, net income decreases and therefore Retained Earnings decreases.  Expenses are shown as negative, as they are deductions that offset revenue and decrease net income.
-
-*(Placeholder)*
 
 ```
 [cosmatt-widget]
@@ -44,16 +36,12 @@ Core Fitness pays $3,000 cash immediately to its landlord for January’s rent. 
 
 *Cash* increases AND *Retained Earnings* increases (for revenue generated)
 
-*(Placeholder)*
-
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-265","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 Core Fitness sells an annual membership for $1,000 to a customer so Revenue increases.  Cash comes into the company immediately and the cash account increases.
-
-*(Placeholder)*
 
 ```
 [cosmatt-widget]
@@ -64,16 +52,12 @@ Core Fitness sells an annual membership for $1,000 to a customer so Revenue incr
 
 *Retained Earnings* decreases (for expense incurred) AND *Accounts Payable* increases
 
-*(Placeholder)*
-
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-267","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 Core Fitness buys $1,000 of gym supplies that the vendor invoices now, but Core Fitness doesn’t pay until 30 days later. This increases the amount due or Account Payable by $1,000. This will decrease once Core Fitness pays the cash owed for the supplies. Since buying supplies is an expense, the expense Account changes by -$1,000.
-
-*(Placeholder)*
 
 ```
 [cosmatt-widget]
@@ -84,16 +68,12 @@ Core Fitness buys $1,000 of gym supplies that the vendor invoices now, but Core 
 
 *Accounts Payable* decreases AND *Cash* decreases
 
-*(Placeholder)*
-
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-269","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 Core Fitness pays cash for the $1,000 supplies it bought earlier but had not paid for.  Therefore, the cash account decreases by $1,000 and the Account Payable decreases by $1,000.  
-
-*(Placeholder)*
 
 ```
 [cosmatt-widget]
@@ -104,16 +84,12 @@ Core Fitness pays cash for the $1,000 supplies it bought earlier but had not pai
 
 *Accounts Receivable* increases AND *Retained Earnings* increases (for revenue generated)
 
-*(Placeholder)*
-
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-271","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 Core Finess sells a 6-monthly membership for $500 so Revenue increases by $500.  Core Fitness invoices the customer now but receives cash later. Since the customer buys this on credit, Account Receivable increases by $500.  
-
-*(Placeholder)*
 
 ```
 [cosmatt-widget]
@@ -124,16 +100,12 @@ Core Finess sells a 6-monthly membership for $500 so Revenue increases by $500. 
 
 *Accounts Receivable* decreases AND *Cash* increases
 
-*(Placeholder)*
-
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-273","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 Core Fitness ultimately receives $500 in cash for the membership sold on credit.  Therefore Cash increases and Account Receivable decreases.
-
-*(Placeholder)*
 
 ```
 [cosmatt-widget]
