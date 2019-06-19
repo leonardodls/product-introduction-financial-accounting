@@ -112,7 +112,7 @@ Core Fitness ultimately receives $500 in cash for the membership sold on credit.
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-274","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-### The following transaction grid illustrates how an aggregated picture of Core Fitness’ common business transactions we just learnt about fit into the accounting equation. 
+The following transaction grid illustrates how an aggregated picture of Core Fitness’ common business transactions we just learnt about fit into the accounting equation.
 
 ```
 [cosmatt-widget]
