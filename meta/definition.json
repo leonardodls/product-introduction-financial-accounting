@@ -220,16 +220,38 @@
             "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid",
             "tracking": true,   
             "embedded": [
+              
               {
-                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded",
-                "resource": "RE_CH_1_SEC_5_EM",
+                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01",
+                "resource": "RE_CH_1_SEC_5_EM_01",
                 "item-type": "resource",
                 "name": "Emb Test 1",
                 "tracking": false
               },
               {
-                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01",
-                "resource": "RE_CH_1_SEC_5_EM_01",
+                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_02",
+                "resource": "RE_CH_1_SEC_5_EM_02",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              },
+              {
+                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_03",
+                "resource": "RE_CH_1_SEC_5_EM_03",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              },
+              {
+                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_04",
+                "resource": "RE_CH_1_SEC_5_EM_04",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              },
+              {
+                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_05",
+                "resource": "RE_CH_1_SEC_5_EM_05",
                 "item-type": "resource",
                 "name": "Emb Test 1",
                 "tracking": false
@@ -1118,6 +1140,50 @@
         ],
         "test": {
           "url": "Common-Accounting-test-Emded_01"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },  
+      "RE_CH_1_SEC_5_EM_02": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Common-Accounting-test-Emded_02"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },  
+      "RE_CH_1_SEC_5_EM_03": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Common-Accounting-test-Emded_03"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },  
+      "RE_CH_1_SEC_5_EM_04": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Common-Accounting-test-Emded_04"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      }, 
+      "RE_CH_1_SEC_5_EM_05": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Common-Accounting-test-Emded_05"
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
