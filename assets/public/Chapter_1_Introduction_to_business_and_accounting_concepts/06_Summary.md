@@ -8,7 +8,7 @@ Accounting is a system of recording and summarizing financial transactions in su
 
 #### 2\.    How are accounts classified?
 
-Accounts are classified as of one five types: assets, liabilities, stockholders’ equity, revenue, or expenses.
+Accounts are classified as one of five types: assets, liabilities, stockholders’ equity, revenue, or expenses.
 
 #### 3\.    What is the accounting equation?
 
@@ -20,7 +20,7 @@ Assets = Liabilities + Stockholders’ Equity
 
 Temporary account balances are reset to zero when the new accounting period starts -the balances in permanent accounts carry over from one period to the next.
 
-Revenue and expenses are temporary accounts.  Assets, liabilities and stockholders’ equity are permanent accounts
+Revenue and expenses are temporary accounts.  Assets, liabilities and stockholders’ equity are permanent accounts.
 
 #### 5\.    What are a few common business transactions and how does each one affect the accounts?
 

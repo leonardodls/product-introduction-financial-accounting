@@ -9,7 +9,7 @@ Now we will use our understanding of common accounting transactions that we lear
  {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01","data":{}}} 
 ```
 
-1.  Complete the accounting transactions grid for the following transactions related to sales to customers
+1.  Complete the accounting transactions grid for the following transactions related to sales to customers.
 
 ```
 [cosmatt-widget]
