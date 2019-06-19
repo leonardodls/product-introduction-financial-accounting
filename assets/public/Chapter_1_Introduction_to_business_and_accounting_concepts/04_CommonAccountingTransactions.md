@@ -114,7 +114,10 @@ Core Fitness ultimately receives $500 in cash for the membership sold on credit.
 
 ### The following transaction grid illustrates how an aggregated picture of Core Fitness’ common business transactions we just learnt about fit into the accounting equation. 
 
-![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/04_CommonAccountingTransactions/image15.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-311","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 You will notice that each Core Fitness transaction in the first column impacts two accounts. For the asset, liability, and stockholders’ equity amounts, positive numbers represent increases and negative amounts indicate decreases. The ending balances prove that total assets of $2,500 ($2,500 + $0) equal total liabilities and stockholders’ equity of $2,500 ($0 + $5,000 - $2,500).
 
