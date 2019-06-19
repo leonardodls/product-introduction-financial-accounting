@@ -192,7 +192,7 @@
             }
           },
           {
-            "name": "Common Accounting Transactions",
+            "name": "Accounting Transactions",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_4",
             "item-code": "Chapter_1_Introduction/Common_Accounting_Transactions",
@@ -214,7 +214,7 @@
             }
           },
           {
-            "name": "Accounting Transactions Grid",
+            "name": "Accounting Transactions Grid - Interactive Exercise",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_5",
             "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid",
