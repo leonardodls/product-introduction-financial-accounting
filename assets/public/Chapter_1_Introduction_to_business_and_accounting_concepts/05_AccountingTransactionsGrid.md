@@ -1,7 +1,5 @@
 Now we will use our understanding of common accounting transactions that we learned in Section 1.4 to complete an accounting transactions grid.
 
-### 
-
 ### Interactive Exercise
 
 1.  Complete the accounting transactions grid for the $4,000 investment transaction below.
