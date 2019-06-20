@@ -2,35 +2,35 @@ Now we will use our understanding of common accounting transactions that we lear
 
 ### Interactive Exercise
 
-Step 1: Complete the accounting transactions grid for the $4,000 investment transaction below.
+1: Complete the accounting transactions grid for the $4,000 investment transaction below.
 
 ```
 [cosmatt-widget]
  {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01","data":{}}} 
 ```
 
-Step 2: Complete the accounting transactions grid for the following transactions related to sales to customers.
+2: Complete the accounting transactions grid for the following transactions related to sales to customers.
 
 ```
 [cosmatt-widget]
  {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_02","data":{}}} 
 ```
 
-Step 3: Complete the accounting transactions grid for the following transactions related to purchases from vendors.
+3: Complete the accounting transactions grid for the following transactions related to purchases from vendors.
 
 ```
 [cosmatt-widget]
  {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_03","data":{}}} 
 ```
 
-Step 4: The following accounting transactions grid summarizes your entries from the previous three parts. Enter the totals for each account column in the last row.
+4: The following accounting transactions grid summarizes your entries from the previous three parts. Enter the totals for each account column in the last row.
 
 ```
 [cosmatt-widget]
  {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_04","data":{}}} 
 ```
 
-> Step 5: Based on the correct entries for part 4, complete the closing entries and ending balances after closing.
+5: Based on the correct entries for part 4, complete the closing entries and ending balances after closing.
 
 ```
 [cosmatt-widget]
