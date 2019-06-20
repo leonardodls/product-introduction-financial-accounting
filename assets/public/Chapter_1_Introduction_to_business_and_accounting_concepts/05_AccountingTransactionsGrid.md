@@ -1,4 +1,4 @@
-Now we will use our understanding of common accounting transactions that we learned in Section 1.4 to complete an accounting transactions grid.
+Now we will use our understanding of common accounting transactions that we learned in <a routerlink='Chapter_1_Introduction/Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> to complete an accounting transactions grid.
 
 ### Interactive Exercise
 
