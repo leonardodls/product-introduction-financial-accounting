@@ -39,4 +39,7 @@ Now we will use our understanding of common accounting transactions that we lear
 
 **The following grid shows an aggregated picture of all the transactions just completed. **
 
-![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/05_AccountingTransactionsGrid/image6.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-388","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
