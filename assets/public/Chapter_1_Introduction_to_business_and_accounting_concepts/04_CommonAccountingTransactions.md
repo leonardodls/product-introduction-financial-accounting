@@ -89,7 +89,7 @@ Core Fitness pays cash for the $1,000 supplies it bought earlier but had not pai
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-271","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-Core Finess sells a 6-monthly membership for $500 so Revenue increases by $500.  Core Fitness invoices the customer now but receives cash later. Since the customer buys this on credit, Account Receivable increases by $500.  
+Core Fitness sells a 6-monthly membership for $500 so Revenue increases by $500.  Core Fitness invoices the customer now but receives cash later. Since the customer buys this on credit, Account Receivable increases by $500.  
 
 ```
 [cosmatt-widget]
@@ -105,7 +105,7 @@ Core Finess sells a 6-monthly membership for $500 so Revenue increases by $500. 
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-273","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-Core Fitness ultimately receives $500 in cash for the membership sold on credit.  Therefore Cash increases and Account Receivable decreases.
+Core Fitness ultimately receives $500 in cash for the membership sold on credit.  Therefore, Cash increases and Account Receivable decreases.
 
 ```
 [cosmatt-widget]
