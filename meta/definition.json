@@ -419,10 +419,10 @@
         "item-code": "Chapter_4_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "Practice - Solving a Comprehensive Problem",
+            "name": "Introduction",
             "item-type": "resource",
             "resource": "RE_CH_4_SEC_1",
-            "item-code": "Chapter_4_Introduction/PracticeSolvingComprehensive",
+            "item-code": "Chapter_4_Introduction/Introduction",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
@@ -432,10 +432,49 @@
             }
           },
           {
-            "name": "Assessment - Comprehensive Problem",
+            "name": "Journalize the transactions for June",
             "item-type": "resource",
-            "resource": "RE_CH_4_SEC_1",
-            "item-code": "Chapter_4_Introduction/AssessmentComprehensiveProblem",
+            "resource": "RE_CH_4_SEC_2",
+            "item-code": "Chapter_4_Introduction/JournalizeTheTransactions",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Post the June journal entries to the ledgers",
+            "item-type": "resource",
+            "resource": "RE_CH_4_SEC_3",
+            "item-code": "Chapter_4_Introduction/PostEntriesToTheLedgers",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Prepare the June trial balance",
+            "item-type": "resource",
+            "resource": "RE_CH_4_SEC_4",
+            "item-code": "Chapter_4_Introduction/PrepareTrialBalance",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Prepare the June income statement, retained earnings statement, and balance sheet",
+            "item-type": "resource",
+            "resource": "RE_CH_4_SEC_5",
+            "item-code": "Chapter_4_Introduction/incomeStatementRetainedEarningsBalanceSheet",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
@@ -1216,7 +1255,51 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_4_Comprehensive Problem/ComingSoon.md"
+          "url": "Chapter_4_Comprehensive_Problem/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_4_SEC_2": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_4_Comprehensive_Problem/02_Journalize_the_transactions_for_June.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_4_SEC_3": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_4_Comprehensive_Problem/03_Post_the_June_journal_entries_to_the_ledgers.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_4_SEC_4": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_4_Comprehensive_Problem/04_Prepare_the _June_trial_balance.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_4_SEC_5": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_4_Comprehensive_Problem/04_Prepare_the _June_trial_balance.md"
         },
         "description": "",
         "learning-objectives": []
