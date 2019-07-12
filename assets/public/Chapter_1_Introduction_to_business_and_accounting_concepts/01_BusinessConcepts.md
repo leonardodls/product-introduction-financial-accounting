@@ -18,7 +18,7 @@ The goal of a business is to make a profit through its operations. It does this 
 \[Revenue\  < \ Costs\  = \ Loss\]
 ```
 
-Take the example of a fitness studio, Core Fitness. Core Fitness’ revenue from membership fees and single-classes is approximately $30,000 per month. Core Fitness incurs a number of monthly costs such as the rent of the premises, the utilities (electricity and water), the maintenance of the equipment, insurance, and the salaries of its employees. These costs total approximately $22,500 per month. Therefore, Core Fitness’ revenue exceeds its costs by approximately $7,500 per month, and the business is profitable.
+Take the example of a fitness studio, Core Fitness. Core Fitness’ revenue from membership fees is approximately $30,000 per month. Core Fitness incurs a number of monthly costs. A large percentage of these are fixed costs such as the rent of the premises, insurance and salaries. A few of the costs such as laundry services and utilities are variable costs and depend on the number of members at the gym. Total costs (fixed + variable) are approximately $22,500 per month. Core Fitness’ revenue exceeds its costs by approximately $7,500 per month and therefore, the business is profitable.
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image3.png)
 
