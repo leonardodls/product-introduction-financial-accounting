@@ -1,3 +1,6 @@
 Prepare the June trial balance.
 
-![4.2\_Q2.json](media/image2.png)
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/PostEntriesToTheLedgers/test-Emded_01","data":{}}} 
+```
