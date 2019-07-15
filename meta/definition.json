@@ -74,12 +74,13 @@
   "definition": {
     "learning-objectives": {
       "Describe the nature of business and the role of accounting in business": {
-        "learning-objectives": {
-          "Articulate basic business concepts": {
-            "learning-objectives": {}
-          },
-          "Define commonly used business accounts and classify each into one of five account types": {
-            "learning-objectives": {}
+          "learning-objectives": {
+             "Articulate basic business concepts": {
+                "learning-objectives": {}
+              },
+              "Define commonly used business accounts and classify each into one of five account types": {
+                "learning-objectives": {}
+              }
           }
       },
       "Present the accounting equation and define each component of the equation": {
@@ -93,6 +94,7 @@
           "Classify accounts as either temporary or permanent based on the category each falls into": {
             "learning-objectives": {}
           }
+        }  
       },
       "Describe and illustrate how business transactions are classified and recorded and how they impact the components of the accounting equation": {
         "learning-objectives": {
@@ -105,6 +107,7 @@
           "Illustrate accounts affected and the nature of the impact for common business events in a tabular format": {
             "learning-objectives": {}
           }
+        }  
       }     
     },
     "tags": {
