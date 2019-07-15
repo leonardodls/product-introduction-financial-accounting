@@ -73,6 +73,39 @@
   },
   "definition": {
     "learning-objectives": {
+      "Describe the nature of business and the role of accounting in business": {
+        "learning-objectives": {
+          "Articulate basic business concepts": {
+            "learning-objectives": {}
+          },
+          "Define commonly used business accounts and classify each into one of five account types": {
+            "learning-objectives": {}
+          }
+      },
+      "Present the accounting equation and define each component of the equation": {
+        "learning-objectives": {
+          "Express the five account types in a mathematical equation": {
+            "learning-objectives": {}
+          },
+          "Describe and illustrate how net income impacts retained earnings": {
+            "learning-objectives": {}
+          },
+          "Classify accounts as either temporary or permanent based on the category each falls into": {
+            "learning-objectives": {}
+          }
+      },
+      "Describe and illustrate how business transactions are classified and recorded and how they impact the components of the accounting equation": {
+        "learning-objectives": {
+          "Express transactions in the double-entry accounting format": {
+            "learning-objectives": {}
+          },
+          "Determine accounts affected and the nature of the impact for common business events": {
+            "learning-objectives": {}
+          },
+          "Illustrate accounts affected and the nature of the impact for common business events in a tabular format": {
+            "learning-objectives": {}
+          }
+      }     
     },
     "tags": {
       "Reading": {
@@ -1090,7 +1123,7 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/01_BusinessConcepts.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Describe the nature of business and the role of accounting in business/Articulate basic business concepts"]
       },
       "RE_CH_1_SEC_2": {
         "sub-type": "md",
@@ -1101,7 +1134,7 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/02_Accounts.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["Describe the nature of business and the role of accounting in business/Define commonly used business accounts and classify each into one of five account types"]
       },
       "RE_CH_1_SEC_3": {
         "sub-type": "md",
@@ -1112,7 +1145,11 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/03_AccountingEquation.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": [
+        "Present the accounting equation and define each component of the equation/Express the five account types in a mathematical equation",
+        "Present the accounting equation and define each component of the equation/Describe and illustrate how net income impacts retained earnings",
+        "Present the accounting equation and define each component of the equation/Classify accounts as either temporary or permanent based on the category each falls into"
+        ]
       },
       "RE_CH_1_SEC_4": {
         "sub-type": "md",
@@ -1123,7 +1160,11 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/04_CommonAccountingTransactions.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": [
+          "Describe and illustrate how business transactions are classified and recorded and how they impact the components of the accounting equation/Express transactions in the double-entry accounting format",
+          "Describe and illustrate how business transactions are classified and recorded and how they impact the components of the accounting equation/Determine accounts affected and the nature of the impact for common business events",
+          "Describe and illustrate how business transactions are classified and recorded and how they impact the components of the accounting equation/Illustrate accounts affected and the nature of the impact for common business events in a tabular format"
+        ]
       },
       "RE_CH_1_SEC_5": {
         "sub-type": "md",
@@ -1134,7 +1175,11 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/05_AccountingTransactionsGrid.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": [
+          "Describe and illustrate how business transactions are classified and recorded and how they impact the components of the accounting equation/Express transactions in the double-entry accounting format",
+          "Describe and illustrate how business transactions are classified and recorded and how they impact the components of the accounting equation/Determine accounts affected and the nature of the impact for common business events",
+          "Describe and illustrate how business transactions are classified and recorded and how they impact the components of the accounting equation/Illustrate accounts affected and the nature of the impact for common business events in a tabular format"
+        ]
       },
       "RE_CH_1_SEC_6": {
         "sub-type": "md",
