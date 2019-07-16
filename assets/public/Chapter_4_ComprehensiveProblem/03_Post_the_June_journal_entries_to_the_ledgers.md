@@ -1,4 +1,4 @@
-Prepare the June trial balance.
+## PART 2: POST JOURNAL ENTRIES TO THE LEDGERS FOR JUNE
 
 ```
 [cosmatt-widget]

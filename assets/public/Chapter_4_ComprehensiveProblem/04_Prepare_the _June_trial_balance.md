@@ -1,6 +1,4 @@
-**Test Your Understanding**
-
-**Question**: Prepare the June trial balance.
+## PART 3: PREPARE TRIAL BALANCE FOR JUNE
 
 **Question Input:**
 
@@ -10,4 +8,4 @@
 
 ![](./Chapter_4_ComprehensiveProblem/media/04_Prepare_the%20_June_trial_balance/image3.png)
 
-*Sample Sheets:*
+*Sample Sheets: *
