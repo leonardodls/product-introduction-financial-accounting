@@ -471,12 +471,12 @@
             "name": "Journalize the transactions for June - Option 1",
             "item-type": "resource",
             "resource": "RE_CH_4_SEC_2",
-            "item-code": "Chapter_4_Introduction/JournalizeTheTransactions",
+            "item-code": "Chapter_4_Introduction/JournalizeTheTransactions1",
             "tracking": true,    
             "embedded": [
               
               {
-                "item-code": "Chapter_4_Introduction/JournalizeTheTransactions/test-Emded_01",
+                "item-code": "Chapter_4_Introduction/JournalizeTheTransactions1/test-Emded_01",
                 "resource": "RE_CH_4_SEC_2_EM_01",
                 "item-type": "resource",
                 "name": "Emb Test 1",
@@ -493,13 +493,13 @@
           {
             "name": "Journalize the transactions for June - Option 2",
             "item-type": "resource",
-            "resource": "RE_CH_4_SEC_2.1",
+            "resource": "RE_CH_4_SEC_2_1",
             "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2",
             "tracking": true,    
             "embedded": [              
               {
                 "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2/test-Emded_01.1",
-                "resource": "RE_CH_4_SEC_2_EM_01.1",
+                "resource": "RE_CH_4_SEC_2_EM_01_1",
                 "item-type": "resource",
                 "name": "Emb Test 1",
                 "tracking": false
@@ -1360,7 +1360,7 @@
         "description": "",
         "learning-objectives": []
       },
-      "RE_CH_4_SEC_2.1": {
+      "RE_CH_4_SEC_2_1": {
         "sub-type": "md",
         "tags": [
           "Reading"
@@ -1382,7 +1382,7 @@
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
       },
-      "RE_CH_4_SEC_2_EM_01.1": {
+      "RE_CH_4_SEC_2_EM_01_1": {
         "sub-type": "test",
         "tags": [
           "Practice"
