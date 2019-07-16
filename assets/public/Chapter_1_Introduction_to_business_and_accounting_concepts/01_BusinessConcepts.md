@@ -20,11 +20,27 @@ The goal of a business is to make a profit through its operations. It does this 
 
 Take the example of a fitness studio, Core Fitness. Core Fitness’ revenue from membership fees is approximately $30,000 per month. Core Fitness incurs a number of monthly costs. A large percentage of these are fixed costs such as the rent of the premises, insurance and salaries. A few of the costs such as laundry services and utilities are variable costs and depend on the number of members at the gym. Total costs (fixed + variable) are approximately $22,500 per month. Core Fitness’ revenue exceeds its costs by approximately $7,500 per month and therefore, the business is profitable.
 
+Below is an interactive chart with three lines: revenue, fixed cost and total cost. The chart shows the amount of profit and loss for a given number of members. The chart also shows the **breakeven point** – the point at which revenue = costs.
+
+In order to see the affect on the profit, loss and break-even point, when our inputs change, you can use the sliders on the left to change:
+
+  - Fixed costs
+
+  - Variable costs per member
+
+  - Membership fee per member
+
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image3.png)
 
-Throughout this course, we will use the operations of *Core Fitness* to understand key accounting concepts.
+You will notice that as our fixed costs increase, our fixed cost and total cost curves move up and our break-even point increases.
+
+As our variable costs per member increase, the slope of the total cost curve changes and, again, our break-even point increases.
+
+As the membership fee (per member) increases, the slope of the total revenue line becomes steeper and the number of members we need to reach break-even decreases.
 
 ## Core Fitness Overview
+
+Throughout this course, we will use the operations of *Core Fitness* to understand key accounting concepts.
 
 Stella and Eddie met when they were both personal trainers at a neighborhood gym. Eddie specializes in cardio and strength training while Stella specializes in yoga and pilates. A few years ago, the two friends decided to quit their jobs and start Core Fitness, an exercise studio that offers individual and group Core Fitness classes – a work out class they designed which combines cardio, strength and flexibility. People can either join Core Fitness as monthly members or pay for a single class.
 

@@ -2,8 +2,7 @@
 
 Create a Journal for the month of June in the template provided on the right using the following Transactions. Click Submit button once you complete.
 
-\`\`\` 
- \[cosmatt-widget\] 
- {"type":"assessment","options":{"id":"Chapter\_4\_Introduction/JournalizeTheTransactions/test-Emded\_01","data":{}}} 
- \`\`\`
-
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/JournalizeTheTransactions/test-Emded_01","data":{}}} 
+```
