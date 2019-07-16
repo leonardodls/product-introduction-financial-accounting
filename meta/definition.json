@@ -498,7 +498,7 @@
             "tracking": true,    
             "embedded": [              
               {
-                "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2/test-Emded_01.1",
+                "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2/test-Emded_01_1",
                 "resource": "RE_CH_4_SEC_2_EM_01_1",
                 "item-type": "resource",
                 "name": "Emb Test 1",
