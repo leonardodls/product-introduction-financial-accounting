@@ -2,12 +2,7 @@
 
 ## PART 3: PREPARE TRIAL BALANCE FOR JUNE
 
-**Question Input:**
-
-![](./Chapter_4_ComprehensiveProblem/media/04_Prepare_the%20_June_trial_balance/image2.png)
-
-**Student Answer Sheet:**
-
-![](./Chapter_4_ComprehensiveProblem/media/04_Prepare_the%20_June_trial_balance/image3.png)
-
-*Sample Sheets: *
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/PrepareTrialBalance/test-Emded_01","data":{}}} 
+```
