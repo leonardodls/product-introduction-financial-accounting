@@ -555,19 +555,6 @@
                 "visible": true
               }
             }
-          },
-          {
-            "name": "Prepare the June income statement, retained earnings statement, and balance sheet",
-            "item-type": "resource",
-            "resource": "RE_CH_4_SEC_5",
-            "item-code": "Chapter_4_Introduction/incomeStatementRetainedEarningsBalanceSheet",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
           }
         ],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
@@ -1446,17 +1433,7 @@
         "description": "",
         "learning-objectives": []
       },
-      "RE_CH_4_SEC_5": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "Chapter_4_ComprehensiveProblem/05_Prepare_the _June_income_statement_retained_earnings_statement_and_balance_sheet.md"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
+     
       "RE_CH_5_SEC_1": {
         "sub-type": "md",
         "tags": [
