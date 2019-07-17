@@ -197,6 +197,20 @@
           "resource": "RE_00016"
         }
       ]
+    },
+    {
+      "name": "Comprehensive-Problem-TrialBalance",
+      "item-code": "Comprehensive-Problem-TrialBalance",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Comprehensive-Problem-TrialBalance/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00018"
+        }
+      ]
     }
   ],
   "resources": {
@@ -1226,6 +1240,62 @@
         "type": "spreadsheet-DLSleonardo",
         "options": {
           "itemId": "leo-leonardo-demo-499"
+        }
+      },
+      "content": {
+        "instructions": [{
+          "tag": "html",
+          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+        }],
+        "stimulus": [{
+          "tag": "",
+          "image": ""
+        }],
+        "canvas": {
+          "layout": "LEONARDODLS",
+          "data": {
+            "questiondata": [{
+              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+            }]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00018": {
+      "meta": {
+        "type": "LEONARDODLS",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "spreadsheet-DLSleonardo",
+        "options": {
+          "itemId": "leo-leonardo-demo-507"
         }
       },
       "content": {
