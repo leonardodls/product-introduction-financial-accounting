@@ -34,7 +34,7 @@ Now we will use our understanding of common accounting transactions that we lear
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_05","data":{}}} 
+ {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_05","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #000000","box-shadow":"6px 6px 9px #ddd"},"horizontalAlignment":"center"}}}}} 
 ```
 
 **The following grid shows an aggregated picture of all the transactions just completed. **
