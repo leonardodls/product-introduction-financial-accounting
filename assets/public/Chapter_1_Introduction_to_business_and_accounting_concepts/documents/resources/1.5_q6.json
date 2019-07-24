@@ -6,7 +6,7 @@
       "meta": {
         "renderOverrides": {
           "widgetStyles": {
-            "border": "1px solid #000000",
+            "border": "1px solid #ddd",
             "box-shadow": "6px 6px 9px #ddd"
           },
           "horizontalAlignment": "center"
