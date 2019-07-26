@@ -6,5 +6,5 @@ Create a Journal for the month of June in the template provided on the right usi
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_4_Introduction/JournalizeTheTransactions1/test-Emded_01","data":{"meta":{"renderOverrides":{"height":"expand"}}}}} 
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/JournalizeTheTransactions1/test-Emded_01","data":{}}} 
 ```
