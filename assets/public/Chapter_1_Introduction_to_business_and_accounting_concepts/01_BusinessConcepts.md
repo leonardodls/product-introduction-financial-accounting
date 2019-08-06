@@ -18,15 +18,13 @@ The goal of a business is to make a profit through its operations. It does this 
 \[Revenue\  < \ Costs\  = \ Loss\]
 ```
 
-Take the example of a fitness studio, Core Fitness. Core Fitness’ revenue from membership fees is approximately $30,000 per month. Core Fitness incurs a number of monthly costs. A large percentage of these are fixed costs such as the rent of the premises, insurance and salaries. A few of the costs such as laundry services and utilities are variable costs and depend on the number of members at the gym. Total costs (fixed + variable) are approximately $22,500 per month. Core Fitness’ revenue exceeds its costs by approximately $7,500 per month and therefore, the business is profitable.
+Take the example of a fitness studio, Core Fitness. Core Fitness’ revenue from membership fees is approximately $30,000 per month. Core Fitness incurs a number of monthly costs such as the rent of the premises, the utilities (electricity and water), laundry services, the maintenance of the equipment, insurance, and the salaries of its employees. These costs total approximately $22,500 per month. Core Fitness’ revenue exceeds its costs by approximately $7,500 per month and therefore, the business is profitable.
 
-Below is an interactive chart with three lines: revenue, fixed cost and total cost. The chart shows the amount of profit and loss for a given number of members. The chart also shows the **breakeven point** – the point at which revenue = costs.
+Below is an interactive chart with two lines: total revenue and total cost. The chart shows the amount of profit and loss for a given number of members. The chart also shows the **breakeven point** – the point at which revenue = costs.
 
 In order to see the affect on the profit, loss and break-even point, when our inputs change, you can use the sliders on the left to change:
 
-  - Fixed costs
-
-  - Variable costs per member
+  - Total costs
 
   - Membership fee per member
 
