@@ -479,21 +479,7 @@
                 "visible": true
               }
             }
-          },
-          {
-            "name": "Comprehensive Problem (Covers Chapter 1 - 4)",
-            "item-type": "resource",
-            "resource": "RE_CH_5_SEC_1",
-            "item-code": "Chapter_5_Introduction/ComprehensiveProblem",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
           }
-
         ],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       },
