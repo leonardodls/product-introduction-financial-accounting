@@ -1344,18 +1344,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },
-      "RE_CH_4_SEC_3_EM_01": {
-        "sub-type": "test",
-        "tags": [
-          "Practice"
-        ],
-        "test": {
-          "url": "Comprehensive-Problem-Ledgers"
-        },
-        "description": "fundamentals - units - Test your understanding",
-        "learning-objectives": []
-      },
+      },     
       "RE_CH_4_SEC_5_EM_01": {
         "sub-type": "test",
         "tags": [
