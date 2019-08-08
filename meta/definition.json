@@ -455,7 +455,7 @@
         "item-code": "Chapter_4_Introduction",
         "sub-type": "default",
         "items": [{
-            "name": "DRAFT - Introduction",
+            "name": "Introduction",
             "item-type": "resource",
             "resource": "RE_CH_4_SEC_1",
             "item-code": "Chapter_4_Introduction/Introduction",
@@ -466,32 +466,9 @@
                 "visible": true
               }
             }
-          },
+          },        
           {
-            "name": "DRAFT - Journalize the transactions for June - Option 1",
-            "item-type": "resource",
-            "resource": "RE_CH_4_SEC_2",
-            "item-code": "Chapter_4_Introduction/JournalizeTheTransactions1",
-            "tracking": true,    
-            "embedded": [
-              
-              {
-                "item-code": "Chapter_4_Introduction/JournalizeTheTransactions1/test-Emded_01",
-                "resource": "RE_CH_4_SEC_2_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],          
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "DRAFT - Journalize the transactions for June - Option 2",
+            "name": "Journalize the transactions for June",
             "item-type": "resource",
             "resource": "RE_CH_4_SEC_2_1",
             "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2",
@@ -511,31 +488,9 @@
                 "visible": true
               }
             }
-          },
+          },        
           {
-            "name": "DRAFT - Post the June journal entries to the ledgers",
-            "item-type": "resource",
-            "resource": "RE_CH_4_SEC_3",
-            "item-code": "Chapter_4_Introduction/PostEntriesToTheLedgers",
-            "tracking": true,      
-            "embedded": [              
-              {
-                "item-code": "Chapter_4_Introduction/PostEntriesToTheLedgers/test-Emded_01",
-                "resource": "RE_CH_4_SEC_3_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],       
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "DRAFT - Post the June journal entries to the ledgers - Option 2",
+            "name": "Post the June journal entries to the ledgers",
             "item-type": "resource",
             "resource": "RE_CH_4_SEC_5",
             "item-code": "Chapter_4_Introduction/PostEntriesToTheLedgersOption2",
@@ -557,7 +512,7 @@
             }
           },
           {
-            "name": "DRAFT - Prepare the June trial balance",
+            "name": "Prepare the June trial balance",
             "item-type": "resource",
             "resource": "RE_CH_4_SEC_4",
             "item-code": "Chapter_4_Introduction/PrepareTrialBalance",
@@ -1367,17 +1322,7 @@
         "description": "",
         "learning-objectives": []
       },
-      "RE_CH_4_SEC_2": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "Chapter_4_ComprehensiveProblem/02_Journalize_the_transactions_for_June.md"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
+     
       "RE_CH_4_SEC_2_1": {
         "sub-type": "md",
         "tags": [
@@ -1388,18 +1333,7 @@
         },
         "description": "",
         "learning-objectives": []
-      },
-      "RE_CH_4_SEC_2_EM_01": {
-        "sub-type": "test",
-        "tags": [
-          "Practice"
-        ],
-        "test": {
-          "url": "Comprehensive-Problem-Journal"
-        },
-        "description": "fundamentals - units - Test your understanding",
-        "learning-objectives": []
-      },
+      },      
       "RE_CH_4_SEC_2_EM_01_1": {
         "sub-type": "test",
         "tags": [
@@ -1443,18 +1377,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },
-      "RE_CH_4_SEC_3": {
-        "sub-type": "md",
-        "tags": [
-          "Reading"
-        ],
-        "md": {
-          "url": "Chapter_4_ComprehensiveProblem/03_Post_the_June_journal_entries_to_the_ledgers.md"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
+      },     
       "RE_CH_4_SEC_5": {
         "sub-type": "md",
         "tags": [
