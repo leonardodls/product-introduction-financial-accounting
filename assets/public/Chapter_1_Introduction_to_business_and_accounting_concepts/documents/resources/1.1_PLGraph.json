@@ -19,7 +19,7 @@
           "chartlinestyles": {
             "lines": [
               {
-                "display": true,
+                "display": false,
                 "linelabelname": "Fixed Cost",
                 "borderwidth": 3,
                 "bordercolor": "#D3D3D3",
