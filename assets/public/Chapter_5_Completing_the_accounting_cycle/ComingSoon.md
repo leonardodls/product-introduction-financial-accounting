@@ -1,3 +1,6 @@
 # **Coming Soon**
 
-![4.2\_Q1\_2.json](media/image1.png)
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_5_Introduction/TheAccountingCycle/test-Emded_01_2","data":{}}} 
+```
