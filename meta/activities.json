@@ -169,7 +169,21 @@
           "resource": "RE_00017"
         }
       ]
-    },    
+    }, 
+    {
+      "name": "Comprehensive-Problem-Journal_2",
+      "item-code": "Comprehensive-Problem-Journal_2",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [        
+        {
+          "name": "Question 1",
+          "item-code": "Comprehensive-Problem-Journal_1/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00020"
+        }
+      ]
+    },   
     {
       "name": "Comprehensive-Problem-Ledgers-Option2",
       "item-code": "Comprehensive-Problem-Ledgers-Option2",
@@ -1244,6 +1258,140 @@
           "data": {
             "questiondata": [{
               "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+            }]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00020": {
+      "meta": {
+        "type": "COSMATTPLGRAPH",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "COSMATTPLGRAPH",
+        "options": {
+           "data":{
+
+            "chart": {
+              "chartelements": {
+                  "title": {
+                    "display": true,
+                    "text": "Monthly Profit and Loss Chart",
+                    "style": {
+                      "fontstyle": "bold",
+                      "fontcolor": "#3c3c3c",
+                      "fontsize": 16,
+                      "fontfamily": "Open Sans, sans-serif",
+                      "padding": 15,
+                      "backgroundcolor": "#993333"
+                    }
+                  },
+                  "chartlinestyles": {
+                    "lines": [
+                      {
+                        "display": true,
+                        "linelabelname": "Fixed Cost",
+                        "borderwidth": 3,
+                        "bordercolor": "#D3D3D3",
+                        "backgroundcolor": "#D3D3D3",
+                        "fill": false
+                      },
+                      {
+                        "display": true,
+                        "linelabelname": "Total Cost",
+                        "borderwidth": 3,
+                        "bordercolor": "#36a2eb",
+                        "backgroundcolor": "#36a2eb",
+                        "fill": false
+                      },
+                      {
+                        "display": true,
+                        "linelabelname": "Total Revenue",
+                        "borderwidth": 3,
+                        "bordercolor": "#ff6384",
+                        "backgroundcolor": "#ff6384",
+                        "fill": false
+                      }
+                    ]
+                  },
+                  "axes": {
+                    "xaxes": {
+                      "display": true,
+                      "label": "Number of Members",
+                      "minval": 0,
+                      "maxval": 1200,
+                      "stepsize": 100,
+                      "padding": 180
+                    },
+                    "yaxes": {
+                      "display": true,
+                      "label": "Revenue or Cost ($)",
+                      "minval": 0,
+                      "maxval": 90000,
+                      "stepsize": 10000,
+                      "padding": 180
+                    }
+                  },
+                  "legends": {
+                    "display": true,
+                    "position": "bottom",
+                    "shape": "line",
+                    "fill": true,
+                    "style": {
+                      "fontstyle": "bold",
+                      "fontcolor": "#1c5f93",
+                      "fontsize": "20",
+                      "fontfamily": "Arial",
+                      "padding": 25,
+                      "backgroundcolor": "#993333"
+                    }
+                  }
+              }
+            }
+           }
+        }
+      },
+      "content": {
+        "instructions": [{
+          "tag": "html",
+          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+        }],
+        "stimulus": [{
+          "tag": "",
+          "image": ""
+        }],
+        "canvas": {
+          "layout": "PLGraph",
+          "data": {
+            "questiondata": [{
+              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/PLGraph'>i1</a>"
             }]
           },
           "raw": ""
