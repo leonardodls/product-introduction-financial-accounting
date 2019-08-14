@@ -1183,7 +1183,7 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
       },
       {
-        "name": "Valuation Analysis",
+        "name": "Time Value of Money",
         "item-type": "folder",
         "item-code": "Chapter_13_Introduction",
         "sub-type": "default",
@@ -1191,7 +1191,54 @@
             "name": "Introduction",
             "item-type": "resource",
             "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_12_Introduction/Introduction",
+            "item-code": "Chapter_13_Introduction/Introduction",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Present Value of Future Cash Flows",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_13_Introduction/cashFlow",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Net Present Value &amp; Internal Rate of Return",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_13_Introduction/cashFlow",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          }
+        ],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+      },
+      {
+        "name": "Forecasting Cash Flows & Investment Analysis",
+        "item-type": "folder",
+        "item-code": "Chapter_14_Introduction",
+        "sub-type": "default",
+        "items": [{
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_14_Introduction/Introduction",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
