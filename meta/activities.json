@@ -863,7 +863,7 @@
           "layout": "LEONARDODLS",
           "data": {
             "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/PLGraph'>i1</a>"
+              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
             }]
           },
           "raw": ""
