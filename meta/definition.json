@@ -1336,7 +1336,7 @@
         "sub-type": "json",
         "tags": [],
         "json": {
-          "url": "LOMapping/LOMappingResource.json"
+          "url": "LOMapping/LOMappingResources.json"
         },
         "description": "",
         "learning-objectives": []

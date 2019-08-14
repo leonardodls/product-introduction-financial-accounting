@@ -1,0 +1,196 @@
+{
+  "learning-objectives": [
+    {
+      "id": "LO1",
+      "text": "Describe the nature of business and the role of accounting in business",
+      "learning-objectives": [
+        {
+          "id": "LO1.1",
+          "text": "Articulate basic business concepts",
+          "learning-objectives": []
+        },
+        {
+          "id": "LO1.2",
+          "text": "Understand and visualize the relationship among revenue, costs, and profitability",
+          "learning-objectives": []
+        }
+      ]
+    },
+    {
+      "id": "LO2",
+      "text": "Classify business transactions into account categories",
+      "learning-objectives": [
+        {
+          "id": "LO2.1",
+          "text": "Define commonly used business accounts and identify each as one of five account types"
+        },
+        {
+          "id": "LO2.2",
+          "text": "Classify accounts as either temporary or permanent based on the category each falls into"
+        }
+      ]
+    },
+    {
+      "id": "LO3",
+      "text": "Present the accounting equation and define each component of the equation",
+      "learning-objectives": [
+        {
+          "id": "LO3.1",
+          "text": "Express the five account types in a mathematical equation"
+        },
+        {
+          "id": "LO3.2",
+          "text": "Describe and illustrate how net income impacts retained earnings"
+        }
+      ]
+    },
+    {
+      "id": "LO4",
+      "text": "Record transactions and illustrate how they impact the components of the accounting equation",
+      "learning-objectives": [
+        {
+          "id": "LO4.1",
+          "text": "Determine accounts affected and the impact of common business events"
+        },
+        {
+          "id": "LO4.2",
+          "text": "Record transactions and their impact on the accounting equation in a tabular format"
+        }
+      ]
+    },
+    {
+      "id": "LO5",
+      "text": "Describe the characteristics of an account and the concept of a chart of accounts",
+      "learning-objectives": [
+        {
+          "id": "LO5.1",
+          "text": "Articulate how accounts track increases and decreases in an element of the business"
+        },
+        {
+          "id": "LO5.2",
+          "text": "Organize and number accounts according to their classifications"
+        }
+      ]
+    },
+    {
+      "id": "LO6",
+      "text": "Journalize transactions using the double-entry accounting system",
+      "learning-objectives": [
+        {
+          "id": "LO6.1",
+          "text": "Convert transactional events from narrative to corresponding accounts and amounts by applying the rules of debit and credit"
+        },
+        {
+          "id": "LO6.2",
+          "text": "Implement procedural steps for properly journalizing transactions"
+        }
+      ]
+    },
+    {
+      "id": "LO7",
+      "text": "Post transactions from the journal to the ledger accounts",
+      "learning-objectives": [
+        {
+          "id": "LO7.1",
+          "text": "Transfer amounts from the journal to the ledger and maintain account balances"
+        },
+        {
+          "id": "LO7.2",
+          "text": "Identify the column (debit or credit) where each account’s balance is typically found"
+        }
+      ]
+    },
+    {
+      "id": "LO8",
+      "text": "Prepare an unadjusted trial balance and explain how it can be used to discover errors",
+      "learning-objectives": [
+        {
+          "id": "LO8.1",
+          "text": "Transfer the running balances from all the ledger accounts onto one summary form"
+        },
+        {
+          "id": "LO8.2",
+          "text": "Verify that the total of all debit amounts equals the total of all credit amounts"
+        }
+      ]
+    },
+    {
+      "id": "LO9",
+      "text": "Describe and prepare the financial statements of a corporation",
+      "learning-objectives": [
+        {
+          "id": "LO9.1",
+          "text": "Describe and prepare an income statement to summarize a corporation’s periodic operational performance"
+        },
+        {
+          "id": "LO9.2",
+          "text": "Describe and prepare a retained earnings statement to summarize a corporation’s operational performance"
+        },
+        {
+          "id": "LO9.3",
+          "text": "Describe and prepare a balance sheet to summarize a corporation’s financial position at a point in tim"
+        }
+      ]
+    },
+    {
+      "id": "L10",
+      "text": "Describe and prepare the financial statements of a corporation",
+      "learning-objectives": [
+        {
+          "id": "L10.1",
+          "text": "Describe and prepare an income statement to summarize a corporation’s periodic operational performance"
+        },
+        {
+          "id": "L10.2",
+          "text": "Describe and prepare a retained earnings statement to summarize a corporation’s operational performance"
+        },
+        {
+          "id": "L10.3",
+          "text": "Describe and prepare a balance sheet to summarize a corporation’s financial position at a point in tim"
+        }
+      ]
+    },
+    {
+      "id": "L11",
+      "text": "Explain how the financial statements relate to one another",
+      "learning-objectives": [
+        {
+          "id": "L11.1",
+          "text": "Solve for unknown amounts on financial statements using given amounts on two or more statements, the net income equation, and the accounting equation"
+        },
+        {
+          "id": "L11.2",
+          "text": "Evaluate progress over time based on comparative income statements and present a graphical interpretation of the progress"
+        }
+      ]
+    },
+    {
+      "id": "L11",
+      "text": "Describe the steps in the accounting cycle of an organization",
+      "learning-objectives": [
+        {
+          "id": "L11.1",
+          "text": "Explain why accounting is a cyclical process from period to period"
+        },
+        {
+          "id": "L11.2",
+          "text": "Identify the sequence of events in the accounting cycle"
+        }
+      ]
+    },
+    {
+      "id": "L12",
+      "text": "Explain and prepare closing entries as the final step in the accounting cycle",
+      "learning-objectives": [
+        {
+          "id": "L12.1",
+          "text": "Journalize the entry to set revenue and expense account balances to zero at the end of the accounting period"
+        },
+        {
+          "id": "L12.2",
+          "text": "Present the ending balances from all the ledger accounts in a summary form that verifies that the total of all debit amounts equals the total of all credit amounts"
+        }
+      ]
+    }
+  ]
+}
