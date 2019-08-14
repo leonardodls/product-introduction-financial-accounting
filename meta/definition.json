@@ -1246,6 +1246,97 @@
                 "visible": true
               }
             }
+          },
+          {
+            "name": "Initial Start-up Costs & [Building a Pro Forma Balance Sheet]",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_14_Introduction/InitialStartUp",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Modeling Monthly Membership and Revenue",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_14_Introduction/ModeMonthlyMember",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Calculating Monthly Operating Costs",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_14_Introduction/CalculatingMonthlyCost",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Building a Pro Forma Income Statement",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_14_Introduction/BuildingProForma",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Modeling Annual Cash Flows",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_14_Introduction/ModelingAnnumalCash",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Calculating Net Present Value",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_14_Introduction/calNetPreValue",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Sensitivity Analysis",
+            "item-type": "resource",
+            "resource": "RE_CH_13_SEC_1",
+            "item-code": "Chapter_14_Introduction/SensitivityAnalysis",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
           }
         ],
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
