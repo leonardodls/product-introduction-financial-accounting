@@ -466,7 +466,7 @@
           {
             "name": "Closing Entries",
             "item-type": "resource",
-            "resource": "RE_CH_5_SEC_1",
+            "resource": "RE_CH_5_SEC_2",
             "item-code": "Chapter_5_Introduction/ClosingEntries",
             "tracking": true,            
             "attribs": {
@@ -1644,6 +1644,17 @@
         ],
         "md": {
           "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_5_SEC_2": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon1.md"
         },
         "description": "",
         "learning-objectives": []
