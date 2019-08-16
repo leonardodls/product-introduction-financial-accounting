@@ -446,16 +446,7 @@
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_1",
             "item-code": "Chapter_5_Introduction/TheAccountingCycle",
-            "tracking": true,      
-            "embedded": [
-              {
-                "item-code": "Chapter_5_Introduction/TheAccountingCycle/test-Emded_01_2",
-                "resource": "RE_CH_4_SEC_2_EM_01_2",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],      
+            "tracking": true,
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
