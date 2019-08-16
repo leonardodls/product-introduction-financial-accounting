@@ -1287,7 +1287,7 @@
     },
     "RE_00020": {
       "meta": {
-        "type": "COSMATTPLGRAPH",
+        "type": "COSMATTCOMPREWIDGET",
         "score": {
           "default": 0,
           "max": 1,
@@ -1295,10 +1295,9 @@
         }
       },
       "app-data": {
-        "type": "COSMATTPLGRAPH",
+        "type": "comprehensive-prob",
         "options": {
            "data":{
-
             "chart": {
               "chartelements": {
                   "title": {
@@ -1391,7 +1390,7 @@
           "layout": "PLGraph",
           "data": {
             "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattPLGraph'>i1</a>"
+              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattCompreWidget'>i1</a>"
             }]
           },
           "raw": ""
