@@ -1,5 +1,3 @@
+# **Coming Soon**
+{"type":"assessment","options":{"id":"Chapter_4_Introduction/JournalizeTheTransactions/test-Emded_01.1","data":{}}}
 
-```
-[cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_5_Introduction/ClosingEntries/test-Emded_01_2","data":{}}} 
-```
