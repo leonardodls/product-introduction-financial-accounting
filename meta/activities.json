@@ -1299,7 +1299,7 @@
         "options": {
            "data":{
             "chart": {
-              "chartelements": {
+              
                   "title": {
                     "display": true,
                     "text": "Monthly Profit and Loss Chart",
@@ -1411,8 +1411,7 @@
                       "align": "right",
                       "cssclasses": {}
                     }
-                  }
-              }
+                  }              
             }
            }
         }
