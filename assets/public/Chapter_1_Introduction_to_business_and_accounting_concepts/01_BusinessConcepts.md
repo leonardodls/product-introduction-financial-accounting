@@ -18,7 +18,7 @@ The goal of a business is to make a profit through its operations. It does this 
 \[Revenue\  < \ Costs\  = \ Loss\]
 ```
 
-Take the example of a fitness studio, Core Fitness. If monthly membership fees for Core Fitness are $50 and the studio has 600 members, then Core Fitness’ revenue from membership fees is approximately $30,000 per month ($50 x 600 members). Core Fitness also incurs a number of monthly expenses such as the rent of the premises, insurance, and the salaries of its employees. These expenses are **fixed costs** and don’t change even if more members join the gym. Some expenses, such as the utilities, laundry services and the maintenance of the equipment increase if the number of members increases. These expenses are **variable costs**.. If fixed costs are $20,000 and variable costs per member are $15, then total expenses = $29,000 ($20,000 + $15 x 600 members). With these assumptions, Core Fitness’ revenue exceeds its costs by $1,000 per month and therefore, the business is profitable.
+Take the example of a fitness studio, Core Fitness. If monthly membership fees for Core Fitness are $70 and the studio has 500 members, then Core Fitness’ revenue from membership fees is approximately $35,000 per month ($70 x 500 members). Core Fitness incurs a number of monthly expenses such as the rent of the premises, insurance, and the salaries of its employees. These expenses are **fixed costs** and don’t change even if more members join the gym. Some expenses, such as the utilities, laundry services and the maintenance of the equipment increase if the number of members increases. These expenses are **variable costs**. If fixed costs are $25,000 and variable costs per member are $15, then total expenses = $32,500 ($25,000 + $15 x 500 members). With these assumptions, Core Fitness’ revenue exceeds its costs by $2,500 per month and therefore, the business is profitable.
 
 Below is an interactive chart with two lines: total revenue and total cost (where total cost is the fixed cost + variable cost). The chart shows the amount of profit and loss for a given number of members. The chart also shows the **breakeven point** – the number of members at which revenue = costs.
 
@@ -45,7 +45,7 @@ As the membership fee (per member) increases, the slope of the total revenue lin
 
 Throughout this course, we will use the operations of *Core Fitness* to understand key accounting concepts.
 
-Stella and Eddie met when they were both personal trainers at a neighborhood gym. Eddie specializes in cardio and strength training while Stella specializes in yoga and pilates. A few years ago, the two friends decided to quit their jobs and start Core Fitness, an exercise studio that offers individual and group Core Fitness classes – a work out class they designed which combines cardio, strength and flexibility.
+Core Fitness was founded Stella and Eddie. The two founders met when they were personal trainers at a neighborhood gym. Eddie specializes in cardio and strength training while Stella specializes in yoga and pilates. A few years ago, the two friends decided to quit their jobs and start Core Fitness, an exercise studio that offers individual and group Core Fitness classes – a work out class they designed which combines cardio, strength and flexibility.
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/01_BusinessConcepts/image4.png)
 
