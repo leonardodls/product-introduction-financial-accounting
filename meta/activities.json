@@ -1371,6 +1371,46 @@
                       "padding": 25,
                       "backgroundcolor": "#993333"
                     }
+                  },
+                  "slidervalues": [
+                    {
+                      "sliderid": "fixedcost",
+                      "sliderlabel": "Fixed Cost ($)",
+                      "unit": "$",
+                      "defaultval": 20000,
+                      "minval": 15000,
+                      "maxval": 25000
+                    },
+                    {
+                      "sliderid": "variablecost",
+                      "sliderlabel": "Variable Cost ($)",
+                      "unit": "$",
+                      "defaultval": 20,
+                      "minval": 15,
+                      "maxval": 25
+                    },
+                    {
+                      "sliderid": "membershipfee",
+                      "sliderlabel": "Membership Fee ($)",
+                      "unit": "$",
+                      "defaultval": 75,
+                      "minval": 50,
+                      "maxval": 100
+                    }
+                  ],
+                  "layoutconfigurations": {
+                    "chartpane": {
+                      "height": "60%",
+                      "width": "60%",
+                      "align": "left",
+                      "cssclasses": {}
+                    },
+                    "inputoutput": {
+                      "height": "40%",
+                      "width": "40%",
+                      "align": "right",
+                      "cssclasses": {}
+                    }
                   }
               }
             }
