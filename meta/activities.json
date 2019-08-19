@@ -1387,7 +1387,7 @@
           "image": ""
         }],
         "canvas": {
-          "layout": "PLGraph",
+          "layout": "COSMATTCOMPREWIDGET",
           "data": {
             "questiondata": [{
               "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattCompreWidget'>i1</a>"
