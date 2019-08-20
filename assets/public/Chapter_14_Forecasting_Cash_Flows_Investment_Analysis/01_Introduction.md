@@ -8,7 +8,7 @@ For a refresher on NPV, you can watch the video below:
 
 \[Can Insert Video of Net Present Value that we used in HBP. I believe it was this video:
 
-*https://www.youtube.com/watch?v=HFFkFMfotT0*\]
+{video-youtube} https://www.youtube.com/watch?v=HFFkFMfotT0
 
 In order to calculate the Net Present Value, we will use spreadsheets to build out the projected cash flows for the next ten years to determine if Stella and Eddie should use their profits for opening up another fitness studio.
 
