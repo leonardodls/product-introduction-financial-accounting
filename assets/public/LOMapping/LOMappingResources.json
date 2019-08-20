@@ -165,29 +165,29 @@
       ]
     },
     {
-      "id": "L11",
+      "id": "L12",
       "text": "Describe the steps in the accounting cycle of an organization",
       "learning-objectives": [
         {
-          "id": "L11.1",
+          "id": "L12.1",
           "text": "Explain why accounting is a cyclical process from period to period"
         },
         {
-          "id": "L11.2",
+          "id": "L12.2",
           "text": "Identify the sequence of events in the accounting cycle"
         }
       ]
     },
     {
-      "id": "L12",
+      "id": "L13",
       "text": "Explain and prepare closing entries as the final step in the accounting cycle",
       "learning-objectives": [
         {
-          "id": "L12.1",
+          "id": "L13.1",
           "text": "Journalize the entry to set revenue and expense account balances to zero at the end of the accounting period"
         },
         {
-          "id": "L12.2",
+          "id": "L13.2",
           "text": "Present the ending balances from all the ledger accounts in a summary form that verifies that the total of all debit amounts equals the total of all credit amounts"
         }
       ]
