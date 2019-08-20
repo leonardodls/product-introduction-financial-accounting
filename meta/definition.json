@@ -1302,7 +1302,7 @@
           {
             "name": "Calculating Net Present Value",
             "item-type": "resource",
-            "resource": "RE_CH_13_SEC_7",
+            "resource": "RE_CH_14_SEC_7",
             "item-code": "Chapter_14_Introduction/calNetPreValue",
             "tracking": true,            
             "attribs": {
