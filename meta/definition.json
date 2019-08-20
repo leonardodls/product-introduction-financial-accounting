@@ -1224,7 +1224,7 @@
         "items": [{
             "name": "Introduction",
             "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
+            "resource": "RE_CH_14_SEC_1",
             "item-code": "Chapter_14_Introduction/Introduction",
             "tracking": true,            
             "attribs": {
@@ -1302,7 +1302,7 @@
           {
             "name": "Calculating Net Present Value",
             "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
+            "resource": "RE_CH_13_SEC_7",
             "item-code": "Chapter_14_Introduction/calNetPreValue",
             "tracking": true,            
             "attribs": {
@@ -1746,7 +1746,30 @@
         },
         "description": "",
         "learning-objectives": []
+      },
+      "RE_CH_14_SEC_1": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_14_Forecasting_Cash Flows_Investment_Analysis/01_Introduction.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_14_SEC_7": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_14_Forecasting_Cash Flows_Investment_Analysis/06_Calculating_Net_Present_Value_Sensitivity_Analysis.md"
+        },
+        "description": "",
+        "learning-objectives": []
       }
+
     },
     "test": {},
     "ebook": {}
