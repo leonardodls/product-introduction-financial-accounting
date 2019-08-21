@@ -131,63 +131,45 @@
           "text": "Describe and prepare a balance sheet to summarize a corporation’s financial position at a point in tim"
         }
       ]
-    },
+    },    
     {
       "id": "L10",
-      "text": "Describe and prepare the financial statements of a corporation",
-      "learning-objectives": [
-        {
-          "id": "L10.1",
-          "text": "Describe and prepare an income statement to summarize a corporation’s periodic operational performance"
-        },
-        {
-          "id": "L10.2",
-          "text": "Describe and prepare a retained earnings statement to summarize a corporation’s operational performance"
-        },
-        {
-          "id": "L10.3",
-          "text": "Describe and prepare a balance sheet to summarize a corporation’s financial position at a point in tim"
-        }
-      ]
-    },
-    {
-      "id": "L11",
       "text": "Explain how the financial statements relate to one another",
       "learning-objectives": [
         {
-          "id": "L11.1",
+          "id": "L10.1",
           "text": "Solve for unknown amounts on financial statements using given amounts on two or more statements, the net income equation, and the accounting equation"
         },
         {
-          "id": "L11.2",
+          "id": "L10.2",
           "text": "Evaluate progress over time based on comparative income statements and present a graphical interpretation of the progress"
         }
       ]
     },
     {
-      "id": "L12",
+      "id": "L11",
       "text": "Describe the steps in the accounting cycle of an organization",
       "learning-objectives": [
         {
-          "id": "L12.1",
+          "id": "L11.1",
           "text": "Explain why accounting is a cyclical process from period to period"
         },
         {
-          "id": "L12.2",
+          "id": "L11.2",
           "text": "Identify the sequence of events in the accounting cycle"
         }
       ]
     },
     {
-      "id": "L13",
+      "id": "L12",
       "text": "Explain and prepare closing entries as the final step in the accounting cycle",
       "learning-objectives": [
         {
-          "id": "L13.1",
+          "id": "L12.1",
           "text": "Journalize the entry to set revenue and expense account balances to zero at the end of the accounting period"
         },
         {
-          "id": "L13.2",
+          "id": "L12.2",
           "text": "Present the ending balances from all the ledger accounts in a summary form that verifies that the total of all debit amounts equals the total of all credit amounts"
         }
       ]

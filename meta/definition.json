@@ -420,7 +420,7 @@
           {
             "name": "Accounting Ledgers",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1",
+            "resource": "RE_CH_2_SEC_2",
             "item-code": "Chapter_2_Introduction/AccountingLedgers",
             "tracking": true,            
             "attribs": {
@@ -433,7 +433,7 @@
           {
             "name": "Trial Balance",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1",
+            "resource": "RE_CH_2_SEC_3",
             "item-code": "Chapter_2_Introduction/TrialBalance",
             "tracking": true,            
             "attribs": {
@@ -446,7 +446,7 @@
           {
             "name": "Additional Accounting Transactions",
             "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1",
+            "resource": "RE_CH_2_SEC_4",
             "item-code": "Chapter_2_Introduction/AdditionalAccountingTransactions",
             "tracking": true,            
             "attribs": {
@@ -480,7 +480,7 @@
           {
             "name": "Retained Earnings Statement",
             "item-type": "resource",
-            "resource": "RE_CH_3_SEC_1",
+            "resource": "RE_CH_3_SEC_2",
             "item-code": "Chapter_3_Introduction/RetainedSarningsStatement",
             "tracking": true,            
             "attribs": {
@@ -493,7 +493,7 @@
           {
             "name": "Balance Sheet",
             "item-type": "resource",
-            "resource": "RE_CH_3_SEC_1",
+            "resource": "RE_CH_3_SEC_3",
             "item-code": "Chapter_3_Introduction/BalanceSheet",
             "tracking": true,            
             "attribs": {
@@ -506,7 +506,7 @@
           {
             "name": "Financial Statement Interrelationships",
             "item-type": "resource",
-            "resource": "RE_CH_3_SEC_1",
+            "resource": "RE_CH_3_SEC_4",
             "item-code": "Chapter_3_Introduction/FinancialStatementInterrelationships",
             "tracking": true,            
             "attribs": {
@@ -519,7 +519,7 @@
           {
             "name": "Comparative Income Statements",
             "item-type": "resource",
-            "resource": "RE_CH_3_SEC_1",
+            "resource": "RE_CH_3_SEC_5",
             "item-code": "Chapter_3_Introduction/ComparativeIncomeStatements",
             "tracking": true,            
             "attribs": {
@@ -565,6 +565,19 @@
                 "tracking": false
               }
             ],
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Post-closing trial balance",
+            "item-type": "resource",
+            "resource": "RE_CH_5_SEC_3",
+            "item-code": "Chapter_5_Introduction/TheAccountingCycle",
+            "tracking": true,
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -1629,7 +1642,40 @@
           "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["LO6.1","LO6.2"]
+      },
+      "RE_CH_2_SEC_2": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": ["LO7.1","LO7.2"]
+      },
+      "RE_CH_2_SEC_3": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": ["LO8.1","LO8.2"]
+      },
+      "RE_CH_2_SEC_4": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": ["LO6.1","LO6.2"]
       },
       "RE_CH_3_SEC_1": {
         "sub-type": "md",
@@ -1640,7 +1686,51 @@
           "url": "Chapter_3_Financial_statements/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["LO9.1"]
+      },
+      "RE_CH_3_SEC_2": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_3_Financial_statements/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": ["LO9.2"]
+      },
+      "RE_CH_3_SEC_3": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_3_Financial_statements/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": ["LO9.3"]
+      },
+      "RE_CH_3_SEC_4": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_3_Financial_statements/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": ["LO10.1"]
+      },
+      "RE_CH_3_SEC_5": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_3_Financial_statements/ComingSoon.md"
+        },
+        "description": "",
+        "learning-objectives": ["LO10.2"]
       },
       "RE_CH_4_SEC_1": {
         "sub-type": "md",
@@ -1741,7 +1831,7 @@
           "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": []
+       "learning-objectives": ["LO11.1","LO11.2"]
       },
       "RE_CH_5_SEC_2": {
         "sub-type": "md",
@@ -1752,7 +1842,18 @@
           "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon1.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["LO12.1"]
+      },
+      "RE_CH_5_SEC_3": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon1.md"
+        },
+        "description": "",
+        "learning-objectives": ["LO12.2"]
       },
       "RE_CH_6_SEC_1": {
         "sub-type": "md",
