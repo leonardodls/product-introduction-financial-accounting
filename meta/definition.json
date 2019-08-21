@@ -72,15 +72,15 @@
     }
   },
   "definition": {
-   "learning-objectives": {
+    "learning-objectives": {
       "LO1.1": {
           "learning-objectives": {
           }
       },
-      "LO3.1":{
+      "LO1.2": {
           "learning-objectives": {
           }
-      },
+      },      
       "LO2.1": {
         "learning-objectives": {
         }
@@ -88,6 +88,102 @@
       "LO2.2": {
         "learning-objectives": { 
           }
+      },
+      "LO3.1":{
+          "learning-objectives": {
+          }
+      },
+      "LO3.2":{
+          "learning-objectives": {
+          }
+      },
+      "LO4.1":{
+          "learning-objectives": {
+          }
+      },
+      "LO4.2":{
+          "learning-objectives": {
+          }
+      },
+      "LO5.1":{
+          "learning-objectives": {
+          }
+      },
+      "LO5.2":{
+          "learning-objectives": {
+          }
+      },
+      "LO6.1":{
+          "learning-objectives": {
+          }
+      },
+      "LO6.2":{
+          "learning-objectives": {
+          }
+      },
+      "LO7.1":{
+          "learning-objectives": {
+          }
+      },
+      "LO7.2":{
+          "learning-objectives": {
+        }
+      },
+      "LO8.1":{
+          "learning-objectives": {
+        }
+      },
+      "LO8.2":{
+          "learning-objectives": {
+        }
+      },
+      "LO9.1":{
+          "learning-objectives": {
+        }
+      },
+      "LO9.2":{
+          "learning-objectives": {
+        }
+      },
+      "LO9.3":{
+          "learning-objectives": {
+        }
+      },
+      "LO10.1":{
+          "learning-objectives": {
+        }
+      },
+      "LO10.2":{
+          "learning-objectives": {
+        }
+      },
+      "LO10.3":{
+          "learning-objectives": {
+        }
+      },
+      "LO11.1":{
+          "learning-objectives": {
+        }
+      },
+      "LO11.2":{
+          "learning-objectives": {
+        }
+      },
+      "LO12.1":{
+          "learning-objectives": {
+        }
+      },
+      "LO12.2":{
+          "learning-objectives": {
+        }
+      },
+      "LO13.1":{
+          "learning-objectives": {
+        }
+      },
+      "LO13.2":{
+          "learning-objectives": {
+        }
       }
     },
     "tags": {
@@ -1368,7 +1464,7 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/01_BusinessConcepts.md"
         },
         "description": "",
-        "learning-objectives": ["LO1.1,LO1.2"]
+        "learning-objectives": ["LO1.1", "LO1.2"]
       },
       "RE_CH_1_SEC_2": {
         "sub-type": "md",
