@@ -1,4 +1,3 @@
-# **Coming Soon**
 
 ```
 [cosmatt-widget]
