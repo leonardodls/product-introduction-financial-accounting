@@ -1337,124 +1337,28 @@
       "app-data": {
         "type": "comprehensive-prob",
         "options": {
-           "data":{
-            "chart": {
-              "chartelements": {
-                    "title": {
-                        "display": true,
-                        "text": "Monthly Profit and Loss Chart",
-                        "style": {
-                            "fontstyle": "bold",
-                            "fontcolor": "#3c3c3c",
-                            "fontsize": 16,
-                            "fontfamily": " Open Sans, sans-serif",
-                            "padding": 0,
-                            "backgroundcolor": "#3c3c3c"
-                        }
-                    },
-                    "chartlinestyles": {
-                        "lines": [
-                           {
-                               "display": false,
-                               "linelabelname": "Fixed Cost",
-                               "borderwidth": 3,
-                               "bordercolor": "#D3D3D3",
-                               "backgroundcolor": "#D3D3D3",
-                               "fill": false
-                           },
-                           {
-                               "display": true,
-                               "linelabelname": "Total Cost",
-                               "borderwidth": 3,
-                               "bordercolor": "#36a2eb",
-                               "backgroundcolor": "#36a2eb",
-                               "fill": false
-                           },
-                           {
-                               "display": true,
-                               "linelabelname": "Total Revenue",
-                               "borderwidth": 3,
-                               "bordercolor": "#ff6384",
-                               "backgroundcolor": "#ff6384",
-                               "fill": false
-                           }
-                        ]
-                    },
-                    "axes": {
-                        "xaxes": {
-                            "display": true,
-                            "label": "Number of Members",
-                            "minval": 0,
-                            "maxval": 1200,
-                            "stepsize": 100,
-                            "padding": 20
-
-                        },
-                        "yaxes": {
-                            "display": true,
-                            "label": "Revenue or Cost ($)",
-                            "minval": 0,
-                            "maxval": 900000,
-                            "stepsize": 10000,
-                            "padding": 20
-                        }
-                    },
-                    "legends": {
-                        "display": false,
-                        "position": "bottom",
-                        "shape": "line",
-                        "fill": true,
-                        "style": {
-                            "fontstyle": "bold",
-                            "fontcolor": "#1c5f93",
-                            "fontsize": "20",
-                            "fontfamily": "Arial",
-                            "backgroundcolor": "#993333"
-                        }
-                    }
-                },
-                "slidervalues": [
-                   {
-                       "sliderid": "fixedcost",
-                       "sliderlabel": "Fixed Cost ($)",
-                       "unit": "$",
-                       "defaultval": 20000,
-                       "minval": 10000,
-                       "maxval": 25000
-                   },
-                   {
-                       "sliderid": "variablecost",
-                       "sliderlabel": "Variable Cost ($)",
-                       "unit": "$",
-                       "defaultval": 20,
-                       "minval": 15,
-                       "maxval": 25
-                   },
-                   {
-                       "sliderid": "membershipfee",
-                       "sliderlabel": "Membership Fee ($)",
-                       "unit": "$",
-                       "defaultval": 55,
-                       "minval": 50,
-                       "maxval": 60
-                   }
-                ],
-                "layoutconfigurations": {
-                    "chartpane": {
-                        "height": "60%",
-                        "width": "60%",
-                        "align": "left",
-                        "cssclasses": {}
-                    },
-                    "inputoutput": {
-                        "height": "40%",
-                        "width": "40%",
-                        "align": "right",
-                        "cssclasses": {}
-                    }
+          "data": {
+                "view": {
+                  "sidebyside": {
+                  "leftSideData": {
+                    "type": "grid",
+                    "height": "scroll",
+                    "publishedId": "leo-leonardo-demo-547"
+                  },
+                  "rightSideData": {
+                    "type": "grid",
+                    "height": "expand",
+                    "publishedId": "leo-leonardo-demo-546"
+                  },
+                  "ratio": [
+                    "46",
+                    "54"
+                  ],
+                  "resizer": true
                 }
-            }
-           }
+               }
+             }
+          }
         }
       },
       "content": {
