@@ -117,7 +117,7 @@
       "item-code": "Common-Accounting-test-Emded_01",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [      
+      "items": [
         {
           "name": "Question 1",
           "item-code": "Common-Accounting-test-Emded/Question-2",
@@ -131,7 +131,7 @@
       "item-code": "CalculatingNPValue-test-Emded_01",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [      
+      "items": [
         {
           "name": "Question 1",
           "item-code": "CalculatingNPValue-test-Emded_01/Question-1",
@@ -145,7 +145,7 @@
       "item-code": "Common-Accounting-test-Emded_02",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [      
+      "items": [
         {
           "name": "Question 2",
           "item-code": "Common-Accounting-test-Emded/Question-3",
@@ -159,7 +159,7 @@
       "item-code": "Common-Accounting-test-Emded_03",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [      
+      "items": [
         {
           "name": "Question 3",
           "item-code": "Common-Accounting-test-Emded/Question-4",
@@ -173,7 +173,7 @@
       "item-code": "Common-Accounting-test-Emded_04",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [      
+      "items": [
         {
           "name": "Question 4",
           "item-code": "Common-Accounting-test-Emded/Question-5",
@@ -187,7 +187,7 @@
       "item-code": "Common-Accounting-test-Emded_05",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [      
+      "items": [
         {
           "name": "Question 5",
           "item-code": "Common-Accounting-test-Emded/Question-6",
@@ -195,7 +195,7 @@
           "resource": "RE_00014"
         }
       ]
-    },   
+    },
     {
       "name": "Comprehensive-Problem-Journal_1",
       "item-code": "Comprehensive-Problem-Journal_1",
@@ -209,13 +209,13 @@
           "resource": "RE_00017"
         }
       ]
-    }, 
+    },
     {
       "name": "Comprehensive-Problem-Journal_2",
       "item-code": "Comprehensive-Problem-Journal_2",
       "item-type": "folder",
       "sub-type": "test",
-      "items": [        
+      "items": [
         {
           "name": "Question 1",
           "item-code": "Comprehensive-Problem-Journal_1/Question-1",
@@ -223,7 +223,7 @@
           "resource": "RE_00020"
         }
       ]
-    },   
+    },
     {
       "name": "Comprehensive-Problem-Ledgers-Option2",
       "item-code": "Comprehensive-Problem-Ledgers-Option2",
@@ -280,8 +280,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "The owners of a corporation are called<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "The owners of a corporation are called<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -321,7 +320,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00002": {
       "meta": {
@@ -349,8 +350,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "Which account does a company use to keep track of amounts owed to it by its customers?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Which account does a company use to keep track of amounts owed to it by its customers?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -390,7 +390,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00003": {
       "meta": {
@@ -418,8 +420,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "Select the account that falls in the Asset account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Select the account that falls in the Asset account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -459,7 +460,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00004": {
       "meta": {
@@ -487,8 +490,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "Select the account that falls in the Liability account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Select the account that falls in the Liability account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -528,7 +530,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00005": {
       "meta": {
@@ -556,8 +560,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "Select the account that falls in the Stockholders’ Equity account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Select the account that falls in the Stockholders’ Equity account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -597,7 +600,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00006": {
       "meta": {
@@ -625,8 +630,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "Select the account that falls in the Revenue account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Select the account that falls in the Revenue account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -666,7 +670,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00007": {
       "meta": {
@@ -694,8 +700,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "Select the account that falls in the Expense account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Select the account that falls in the Expense account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -735,7 +740,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00008": {
       "meta": {
@@ -763,8 +770,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "Which equation related to the accounting equation is incorrect?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Which equation related to the accounting equation is incorrect?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -804,7 +810,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00009": {
       "meta": {
@@ -832,8 +840,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "Which transaction correctly matches with the corresponding account changes?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Which transaction correctly matches with the corresponding account changes?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -873,7 +880,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00010": {
       "meta": {
@@ -891,20 +900,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -929,7 +944,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00011": {
       "meta": {
@@ -947,20 +964,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -985,7 +1008,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00012": {
       "meta": {
@@ -1003,20 +1028,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -1041,7 +1072,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00013": {
       "meta": {
@@ -1059,20 +1092,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -1097,7 +1136,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00014": {
       "meta": {
@@ -1115,20 +1156,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -1153,10 +1200,10 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
-    
-
     "RE_00017": {
       "meta": {
         "type": "LEONARDODLS",
@@ -1173,20 +1220,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -1211,8 +1264,10 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
-    },   
+      "tags": [
+        "test"
+      ]
+    },
     "RE_00018": {
       "meta": {
         "type": "LEONARDODLS",
@@ -1229,20 +1284,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -1267,7 +1328,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00019": {
       "meta": {
@@ -1285,20 +1348,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -1323,7 +1392,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00020": {
       "meta": {
@@ -1338,44 +1409,49 @@
         "type": "comprehensive-prob",
         "options": {
           "data": {
-                "view": {
-                  "sidebyside": {
-                  "leftSideData": {
-                    "type": "grid",
-                    "height": "scroll",
-                    "publishedId": "leo-leonardo-demo-547"
-                  },
-                  "rightSideData": {
-                    "type": "grid",
-                    "height": "expand",
-                    "publishedId": "leo-leonardo-demo-546"
-                  },
-                  "ratio": [
-                    "46",
-                    "54"
-                  ],
-                  "resizer": true
-                }
-               }
-             }
+            "view": {
+              "sidebyside": {
+                "leftSideData": {
+                  "type": "grid",
+                  "height": "scroll",
+                  "publishedId": "leo-leonardo-demo-547"
+                },
+                "rightSideData": {
+                  "type": "grid",
+                  "height": "expand",
+                  "publishedId": "leo-leonardo-demo-546"
+                },
+                "ratio": [
+                  "46",
+                  "54"
+                ],
+                "resizer": true
+              }
+            }
           }
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "COSMATTCOMPREWIDGET",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattCompreWidget'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattCompreWidget'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -1400,7 +1476,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_00021": {
       "meta": {
@@ -1418,20 +1496,26 @@
         }
       },
       "content": {
-        "instructions": [{
-          "tag": "html",
-          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-        }],
-        "stimulus": [{
-          "tag": "",
-          "image": ""
-        }],
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
         "canvas": {
           "layout": "LEONARDODLS",
           "data": {
-            "questiondata": [{
-              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-            }]
+            "questiondata": [
+              {
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+              }
+            ]
           },
           "raw": ""
         },
@@ -1456,7 +1540,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_000022": {
       "meta": {
@@ -1484,8 +1570,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "At a 15% discount rate and the current cash flow model: should Stella and Eddie open up the new studio and what is the NPV of the project:"
+                "text": "At a 15% discount rate and the current cash flow model: should Stella and Eddie open up the new studio and what is the NPV of the project:"
               }
             ]
           },
@@ -1525,7 +1610,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_000023": {
       "meta": {
@@ -1553,8 +1640,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "Looking at the data table, what is the NPV when the discount rate is 13% and the monthly churn rate of members is 6%"
+                "text": "Looking at the data table, what is the NPV when the discount rate is 13% and the monthly churn rate of members is 6%"
               }
             ]
           },
@@ -1594,7 +1680,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     },
     "RE_000024": {
       "meta": {
@@ -1622,8 +1710,7 @@
           "data": {
             "questiondata": [
               {
-                "text":
-                  "If the monthly churn rate (the rate at which members suspend membership) is expected to be 8% should Stella and Eddie open up the new studio: "
+                "text": "If the monthly churn rate (the rate at which members suspend membership) is expected to be 8% should Stella and Eddie open up the new studio: "
               }
             ]
           },
@@ -1663,7 +1750,9 @@
         }
       },
       "learning-objectives": [],
-      "tags": ["test"]
+      "tags": [
+        "test"
+      ]
     }
   },
   "test": {}
