@@ -1422,6 +1422,13 @@
                 "item-type": "resource",
                 "name": "Emb Test 1",
                 "tracking": false
+              },
+              {
+                "item-code": "Chapter_14_Introduction/calNetPreValue/test-Emded_02",
+                "resource": "RE_CH_1_SEC_14_EM_02",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
               }
             ],         
             "attribs": {
@@ -1606,6 +1613,17 @@
         ],
         "test": {
           "url": "CalculatingNPValue-test-Emded_01"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      }, 
+     "RE_CH_1_SEC_14_EM_02": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "CalculatingNPValue-test-Emded_02"
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
