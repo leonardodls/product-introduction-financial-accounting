@@ -101,6 +101,20 @@
       ]
     },
     {
+      "name": "CalculatingNPValue-test-Emded_01",
+      "item-code": "CalculatingNPValue-test-Emded_01",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [      
+        {
+          "name": "Question 1",
+          "item-code": "CalculatingNPValue-test-Emded_01/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00021"
+        }
+      ]
+    },
+    {
       "name": "Common-Accounting-test-Emded_02",
       "item-code": "Common-Accounting-test-Emded_02",
       "item-type": "folder",
@@ -1431,6 +1445,62 @@
           "data": {
             "questiondata": [{
               "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattCompreWidget'>i1</a>"
+            }]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": ["test"]
+    },
+    "RE_00021": {
+      "meta": {
+        "type": "LEONARDODLS",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "spreadsheet-DLSleonardo",
+        "options": {
+          "itemId": "leo-leonardo-demo-566"
+        }
+      },
+      "content": {
+        "instructions": [{
+          "tag": "html",
+          "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+        }],
+        "stimulus": [{
+          "tag": "",
+          "image": ""
+        }],
+        "canvas": {
+          "layout": "LEONARDODLS",
+          "data": {
+            "questiondata": [{
+              "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
             }]
           },
           "raw": ""
