@@ -1414,8 +1414,7 @@
             "resource": "RE_CH_14_SEC_7",
             "item-code": "Chapter_14_Introduction/calNetPreValue",
             "tracking": true,     
-            "embedded": [
-              
+            "embedded": [              
               {
                 "item-code": "Chapter_14_Introduction/calNetPreValue/test-Emded_01",
                 "resource": "RE_CH_1_SEC_14_EM_01",
@@ -1427,7 +1426,7 @@
                 "item-code": "Chapter_14_Introduction/calNetPreValue/test-Emded_02",
                 "resource": "RE_CH_1_SEC_14_EM_02",
                 "item-type": "resource",
-                "name": "Emb Test 1",
+                "name": "Emb Test 2",
                 "tracking": false
               }
             ],         
