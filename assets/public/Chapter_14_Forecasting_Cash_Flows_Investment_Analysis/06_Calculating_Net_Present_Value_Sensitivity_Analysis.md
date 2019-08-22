@@ -16,7 +16,7 @@ We will also create a sensitivity table to show what happens to the net present 
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-566","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+ {"type":"assessment","options":{"id":"Chapter_14_Introduction/calNetPreValue/test-Emded_01","data":{}}} 
 ```
 
 Now let us answer the following questions based on the model that we just built:

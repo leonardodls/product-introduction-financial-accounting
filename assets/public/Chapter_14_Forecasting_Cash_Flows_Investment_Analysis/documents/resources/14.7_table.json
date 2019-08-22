@@ -1,21 +1,7 @@
 {
-    "type": "spreadsheet-DLSleonardo-v2",
+    "type": "assessment",
     "options": {
-      "data": {
-        "itemId": "leo-leonardo-demo-566",
-        "meta": {
-	        "renderOverrides": {
-	        },
-          "enableframeButton": true
-      	},
-      	"cssOverrides": {
-          "div.cosmatt-widget": {
-            "padding-top": 0
-          },
-          "div.cosmatt-widget > div.leonardoPlayerContainer": {
-            "padding-bottom": 0
-          }
-      	}
-      }
+      "id": "Chapter_14_Introduction/calNetPreValue/test-Emded_01",
+      "data": {}
     }
   }
