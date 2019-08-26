@@ -66,19 +66,19 @@
       "items": [
         {
           "name": "Question 1",
-          "item-code": "CalculatingNPValue-test-Emded2/Question-1",
+          "item-code": "CalculatingNPValue-test-Emded_02/Question-1",
           "item-type": "resource",
           "resource": "RE_000022"
         },
         {
           "name": "Question 2",
-          "item-code": "CalculatingNPValue-test-Emded2/Question-2",
+          "item-code": "CalculatingNPValue-test-Emded_02/Question-2",
           "item-type": "resource",
           "resource": "RE_000023"
         },
         {
           "name": "Question 3",
-          "item-code": "CalculatingNPValue-test-Emded2/Question-3",
+          "item-code": "CalculatingNPValue-test-Emded_02/Question-3",
           "item-type": "resource",
           "resource": "RE_000024"
         }
@@ -1449,7 +1449,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "PART 2: POST JOURNAL ENTRIES TO THE LEDGERS FOR JUNE <a href='http://www.comprodls.com/m1.0/interaction/cosmattCompreWidget'>i1</a>"
+                "text": "PART 2: POST JOURNAL ENTRIES TO THE LEDGERS FOR JUNE"
               }
             ]
           },
