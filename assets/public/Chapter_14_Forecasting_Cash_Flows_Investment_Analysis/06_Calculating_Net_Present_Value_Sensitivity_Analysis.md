@@ -14,10 +14,7 @@ We will also create a sensitivity table to show what happens to the net present 
 
 \[Hint: Use the following [link](https://www.excel-easy.com/examples/data-tables.html) for a tutorial on setting up data tables\]
 
-```
-[cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_14_Introduction/calNetPreValue/test-Emded_01","data":{}}} 
-```
+
 
 Now let us answer the following questions based on the model that we just built:
 
