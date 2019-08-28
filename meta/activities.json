@@ -1270,7 +1270,7 @@
     },
     "RE_00018": {
       "meta": {
-        "type": "LEONARDODLS",
+        "type": "COSMATTCOMPREWIDGET",
         "score": {
           "default": 0,
           "max": 1,
@@ -1278,9 +1278,29 @@
         }
       },
       "app-data": {
-        "type": "spreadsheet-DLSleonardo",
+        "type": "comprehensive-prob",
         "options": {
-          "itemId": "leo-leonardo-demo-507"
+          "data": {
+            "view": {
+              "sidebyside": {
+                "leftSideData": {
+                  "type": "grid",
+                  "height": "scroll",
+                  "publishedId": "leo-leonardo-demo-550"
+                },
+                "rightSideData": {
+                  "type": "grid",
+                  "height": "expand",
+                  "publishedId": "leo-leonardo-demo-551"
+                },
+                "ratio": [
+                  "46",
+                  "54"
+                ],
+                "resizer": true
+              }
+            }
+          }
         }
       },
       "content": {
@@ -1297,11 +1317,11 @@
           }
         ],
         "canvas": {
-          "layout": "LEONARDODLS",
+          "layout": "COSMATTCOMPREWIDGET",
           "data": {
             "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+                "text": "PART 2: POST JOURNAL ENTRIES TO THE LEDGERS FOR JUNE"
               }
             ]
           },
@@ -1334,7 +1354,7 @@
     },
     "RE_00019": {
       "meta": {
-        "type": "LEONARDODLS",
+        "type": "COSMATTCOMPREWIDGET",
         "score": {
           "default": 0,
           "max": 1,
@@ -1342,9 +1362,29 @@
         }
       },
       "app-data": {
-        "type": "spreadsheet-DLSleonardo",
+        "type": "comprehensive-prob",
         "options": {
-          "itemId": "leo-leonardo-demo-544"
+          "data": {
+            "view": {
+              "sidebyside": {
+                "leftSideData": {
+                  "type": "grid",
+                  "height": "scroll",
+                  "publishedId": "leo-leonardo-demo-547"
+                },
+                "rightSideData": {
+                  "type": "grid",
+                  "height": "expand",
+                  "publishedId": "leo-leonardo-demo-546"
+                },
+                "ratio": [
+                  "46",
+                  "54"
+                ],
+                "resizer": true
+              }
+            }
+          }
         }
       },
       "content": {
@@ -1361,11 +1401,11 @@
           }
         ],
         "canvas": {
-          "layout": "LEONARDODLS",
+          "layout": "COSMATTCOMPREWIDGET",
           "data": {
             "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+                "text": "PART 2: POST JOURNAL ENTRIES TO THE LEDGERS FOR JUNE"
               }
             ]
           },
