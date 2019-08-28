@@ -1,0 +1,4 @@
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/ClosingTrialBalance/test-Emded_01","data":{}}} 
+```

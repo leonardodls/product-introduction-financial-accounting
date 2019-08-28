@@ -1,0 +1,9 @@
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/ClosingEntries/test-Emded_01","data":{}}} 
+```
+
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/ClosingEntries/test-Emded_02","data":{}}} 
+```
