@@ -1,13 +1,13 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Accounting is the system of recording and summarizing a company&#39;s financial in standardized
+reports. This information guides managers, investors, and creditors in planning and decision
+making. Accounting is often referred to as “the language of business” because business people
+communicate, evaluate performance, and determine value using dollars and numbers.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Financial accounting involves producing periodic reports called financial statements to inform
+external groups, such as investors, boards of directors, creditors, and government/tax agencies,
+about the company’s financial performance and status. Managerial accounting targets internal
+users such a company’s managers and involves customized reports that are used for planning and
+decision making.
+
+This financial accounting course is an introduction to the fundamentals, practices, and
+procedures of accounting, including the preparation and interpretation of financial statements.
