@@ -251,6 +251,20 @@
           "resource": "RE_00018"
         }
       ]
+    },
+    {
+      "name": "Comprehensive-Problem-IncomeStatement",
+      "item-code": "Comprehensive-Problem-IncomeStatement",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Comprehensive-Problem-IncomeStatement/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00025"
+        }
+      ]
     }
   ],
   "resources": {
@@ -1807,6 +1821,90 @@
       "responses": {
         "i1": {
           "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00025": {
+      "meta": {
+        "type": "COSMATTCOMPREWIDGET",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "comprehensive-prob",
+        "options": {
+          "data": {
+            "view": {
+              "sidebyside": {
+                "leftSideData": {
+                  "type": "grid",
+                  "height": "scroll",
+                  "publishedId": "leo-leonardo-demo-558"
+                },
+                "rightSideData": {
+                  "type": "grid",
+                  "height": "expand",
+                  "publishedId": "leo-leonardo-demo-557"
+                },
+                "ratio": [
+                  "46",
+                  "54"
+                ],
+                "resizer": true
+              }
+            }
+          }
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
+        "canvas": {
+          "layout": "COSMATTCOMPREWIDGET",
+          "data": {
+            "questiondata": [
+              {
+                "text": "PART 5: PREPARE INCOME STATEMENT, RETAINED EARNING STATEMENT AND BALANCE SHEET FOR JUNE"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
         }
       },
       "learning-objectives": [],

@@ -677,7 +677,16 @@
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_1",
             "item-code": "Chapter_4_Introduction/IncomeStatement",
-            "tracking": true,            
+            "tracking": true,   
+            "embedded": [              
+              {
+                "item-code": "Chapter_4_Introduction/IncomeStatement/test-Emded_01",
+                "resource": "RE_CH_6_SEC_1_EM_01",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],           
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -1836,7 +1845,18 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },     
+      },  
+      "RE_CH_6_SEC_1_EM_01": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Comprehensive-Problem-IncomeStatement"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },    
       "RE_CH_4_SEC_5": {
         "sub-type": "md",
         "tags": [
