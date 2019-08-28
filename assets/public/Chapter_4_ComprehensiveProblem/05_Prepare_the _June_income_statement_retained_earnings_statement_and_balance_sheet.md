@@ -2,10 +2,7 @@
 
 **Question Input:**
 
-![](./Chapter_4_ComprehensiveProblem/media/05_Prepare_the%20_June_income_statement_retained_earnings_statement_and_balance_sheet/image2.png)
-
-**Student Answer Sheet:**
-
-![](./Chapter_4_ComprehensiveProblem/media/05_Prepare_the%20_June_income_statement_retained_earnings_statement_and_balance_sheet/image3.png)
-
-*Sample Student Sheet:*
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/IncomeStatement/test-Emded_01","data":{}}} 
+```
