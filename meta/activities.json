@@ -265,6 +265,48 @@
           "resource": "RE_00025"
         }
       ]
+    },
+    {
+      "name": "Comprehensive-Problem-Journalize",
+      "item-code": "Comprehensive-Problem-Journalize",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Comprehensive-Problem-Journalize/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00026"
+        }
+      ]
+    },
+    {
+      "name": "Comprehensive-Problem-ClosingEntries",
+      "item-code": "Comprehensive-Problem-ClosingEntries",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Comprehensive-Problem-ClosingEntries/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00027"
+        }
+      ]
+    },
+    {
+      "name": "Comprehensive-Problem-ClosingTrialBalance",
+      "item-code": "Comprehensive-Problem-ClosingTrialBalance",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Comprehensive-Problem-ClosingTrialBalance/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00028"
+        }
+      ]
     }
   ],
   "resources": {
@@ -1403,12 +1445,12 @@
               "sidebyside": {
                 "leftSideData": {
                   "type": "grid",
-                  "height": "scroll",
+                  "height": "expand",
                   "publishedId": "leo-leonardo-demo-547"
                 },
                 "rightSideData": {
                   "type": "grid",
-                  "height": "expand",
+                  "height": "scroll",
                   "publishedId": "leo-leonardo-demo-546"
                 },
                 "ratio": [
@@ -1487,12 +1529,12 @@
               "sidebyside": {
                 "leftSideData": {
                   "type": "grid",
-                  "height": "scroll",
+                  "height": "expand",
                   "publishedId": "leo-leonardo-demo-547"
                 },
                 "rightSideData": {
                   "type": "grid",
-                  "height": "expand",
+                  "height": "scroll",
                   "publishedId": "leo-leonardo-demo-546"
                 },
                 "ratio": [
@@ -1845,12 +1887,12 @@
               "sidebyside": {
                 "leftSideData": {
                   "type": "grid",
-                  "height": "scroll",
+                  "height": "expand",
                   "publishedId": "leo-leonardo-demo-558"
                 },
                 "rightSideData": {
                   "type": "grid",
-                  "height": "expand",
+                  "height": "scroll",
                   "publishedId": "leo-leonardo-demo-557"
                 },
                 "ratio": [
@@ -1882,6 +1924,258 @@
             "questiondata": [
               {
                 "text": "PART 5: PREPARE INCOME STATEMENT, RETAINED EARNING STATEMENT AND BALANCE SHEET FOR JUNE"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00026": {
+      "meta": {
+        "type": "COSMATTCOMPREWIDGET",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "comprehensive-prob",
+        "options": {
+          "data": {
+            "view": {
+              "sidebyside": {
+                "leftSideData": {
+                  "type": "grid",
+                  "height": "expand",
+                  "publishedId": "leo-leonardo-demo-560"
+                },
+                "rightSideData": {
+                  "type": "grid",
+                  "height": "scroll",
+                  "publishedId": "leo-leonardo-demo-561"
+                },
+                "ratio": [
+                  "46",
+                  "54"
+                ],
+                "resizer": true
+              }
+            }
+          }
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
+        "canvas": {
+          "layout": "COSMATTCOMPREWIDGET",
+          "data": {
+            "questiondata": [
+              {
+                "text": "PART 6: JOURNALIZE AND POST THE CLOSING ENTRIES FOR JUNE"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00027": {
+      "meta": {
+        "type": "COSMATTCOMPREWIDGET",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "comprehensive-prob",
+        "options": {
+          "data": {
+            "view": {
+              "sidebyside": {
+                "leftSideData": {
+                  "type": "grid",
+                  "height": "expand",
+                  "publishedId": "leo-leonardo-demo-562"
+                },
+                "rightSideData": {
+                  "type": "grid",
+                  "height": "scroll",
+                  "publishedId": "leo-leonardo-demo-563"
+                },
+                "ratio": [
+                  "46",
+                  "54"
+                ],
+                "resizer": true
+              }
+            }
+          }
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
+        "canvas": {
+          "layout": "COSMATTCOMPREWIDGET",
+          "data": {
+            "questiondata": [
+              {
+                "text": "PART 6: JOURNALIZE AND POST THE CLOSING ENTRIES FOR JUNE"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "configData"
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "60",
+          "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00028": {
+      "meta": {
+        "type": "COSMATTCOMPREWIDGET",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "app-data": {
+        "type": "comprehensive-prob",
+        "options": {
+          "data": {
+            "view": {
+              "sidebyside": {
+                "leftSideData": {
+                  "type": "grid",
+                  "height": "expand",
+                  "publishedId": "leo-leonardo-demo-565"
+                },
+                "rightSideData": {
+                  "type": "grid",
+                  "height": "scroll",
+                  "publishedId": "leo-leonardo-demo-564"
+                },
+                "ratio": [
+                  "46",
+                  "54"
+                ],
+                "resizer": true
+              }
+            }
+          }
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "html",
+            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "",
+            "image": ""
+          }
+        ],
+        "canvas": {
+          "layout": "COSMATTCOMPREWIDGET",
+          "data": {
+            "questiondata": [
+              {
+                "text": "PART 7: PREPARE THE JUNE POST-CLOSING TRIAL BALANCE"
               }
             ]
           },

@@ -697,9 +697,25 @@
           {
             "name": "Journalize and post the closing entries for June",
             "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
+            "resource": "RE_CH_6_SEC_6",
             "item-code": "Chapter_4_Introduction/ClosingEntries",
-            "tracking": true,            
+            "tracking": true,    
+            "embedded": [              
+              {
+                "item-code": "Chapter_4_Introduction/ClosingEntries/test-Emded_01",
+                "resource": "RE_CH_6_SEC_6_EM_01",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              },
+              {
+                "item-code": "Chapter_4_Introduction/ClosingEntries/test-Emded_02",
+                "resource": "RE_CH_6_SEC_6_EM_02",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],         
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -710,9 +726,18 @@
           {
             "name": "Prepare the June post-closing trial balance",
             "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
+            "resource": "RE_CH_6_SEC_7",
             "item-code": "Chapter_4_Introduction/ClosingTrialBalance",
-            "tracking": true,            
+            "tracking": true,    
+            "embedded": [              
+              {
+                "item-code": "Chapter_4_Introduction/ClosingTrialBalance/test-Emded_01",
+                "resource": "RE_CH_6_SEC_7_EM_01",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],          
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -1856,7 +1881,40 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },    
+      },   
+      "RE_CH_6_SEC_6_EM_01": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Comprehensive-Problem-Journalize"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },  
+      "RE_CH_6_SEC_6_EM_02": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Comprehensive-Problem-ClosingEntries"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      }, 
+      "RE_CH_6_SEC_7_EM_01": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Comprehensive-Problem-ClosingTrialBalance"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },  
       "RE_CH_4_SEC_5": {
         "sub-type": "md",
         "tags": [
@@ -1931,6 +1989,28 @@
         ],
         "md": {
           "url": "Chapter_4_ComprehensiveProblem/05_Prepare_the _June_income_statement_retained_earnings_statement_and_balance_sheet.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_6_SEC_6": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_4_ComprehensiveProblem/06_Journalize_and_post_the_closing_entries_for_June.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_6_SEC_7": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_4_ComprehensiveProblem/07_Prepare_the_June_post_closing_trial_balance.md"
         },
         "description": "",
         "learning-objectives": []
