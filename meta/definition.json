@@ -720,11 +720,11 @@
             "name": "Post the June Closing journal entries to the ledgers",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_6_1",
-            "item-code": "Chapter_4_Introduction/ClosingEntries",
+            "item-code": "Chapter_4_Introduction/ClosingEntriesledgers",
             "tracking": true,    
             "embedded": [   
               {
-                "item-code": "Chapter_4_Introduction/ClosingEntries/test-Emded_02",
+                "item-code": "Chapter_4_Introduction/ClosingEntriesledgers/test-Emded_01",
                 "resource": "RE_CH_6_SEC_6_EM_02",
                 "item-type": "resource",
                 "name": "Emb Test 1",
