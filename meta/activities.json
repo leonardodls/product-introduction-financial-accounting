@@ -1560,18 +1560,18 @@
             "image": ""
           }
         ],
-        "canvas": {
+       "canvas": {
           "layout": "COSMATTCOMPREWIDGET",
           "data": {
             "questiondata": [
               {
-                "text": "PART 2: POST JOURNAL ENTRIES TO THE LEDGERS FOR JUNE"
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
           "raw": ""
         },
-        "interactions": {
+       "interactions": {
           "i1": {
             "type": "configData"
           }
