@@ -397,7 +397,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "A business is an entity that operates for profit, and accounting is a system that keeps track of a business’s economic events."
       },
       {
         "name": "Recording Accounting Transactions",
@@ -457,7 +457,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "A business’s economic events are captured chronologically in a journal and then reorganized by account in the ledgers."
       },
       {
         "name": "Financial Statements",
@@ -530,7 +530,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "A business’s economic activity for a period is summarized in financial statements that include the income statement, retained earnings statement, and balance sheet."
       },
       {
         "name": "Completing the accounting cycle",
@@ -586,7 +586,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "The accounting process is cyclical, and once the current cycle is completed, the same recording and reporting activities are repeated in the next period of equal length."
       },
       {
         "name": "Comprehensive Problem",
@@ -839,7 +839,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "The comprehensive problem covers the complete accounting cycle in terms of interpreting and recording transactions in the journal, posting to ledgers, preparing financial statements, and closing temporary account balances."
       },
       
       {
