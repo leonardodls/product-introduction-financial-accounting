@@ -374,6 +374,13 @@
                 "item-type": "resource",
                 "name": "Emb Test 1",
                 "tracking": false
+              },
+              {
+                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_06",
+                "resource": "RE_CH_1_SEC_5_EM_06",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
               }
             ],            
             "attribs": {
@@ -1710,7 +1717,18 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },      
+      },  
+      "RE_CH_1_SEC_5_EM_06": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Common-Accounting-test-Emded_06"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },    
       "RE_CH_2_SEC_1": {
         "sub-type": "md",
         "tags": [
