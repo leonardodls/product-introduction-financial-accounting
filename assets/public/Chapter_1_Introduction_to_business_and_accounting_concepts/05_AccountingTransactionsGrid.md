@@ -37,6 +37,11 @@ Now we will use our understanding of common accounting transactions that we lear
  {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_05","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
 ```
 
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_06","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
+```
+
 **The following grid shows an aggregated picture of all the transactions just completed. **
 
 ```
