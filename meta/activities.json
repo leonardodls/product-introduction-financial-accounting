@@ -1311,9 +1311,9 @@
         "canvas": {
           "layout": "COSMATTCOMPREWIDGET",
           "data": {
-            "questiondata": [
+           "questiondata": [
               {
-                "text": "PART 1: CREATE JOURNAL FOR JUNE<br>Create a Journal for the month of June in the template provided on the right using the following Transactions. Click Submit button once you complete."
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -1397,7 +1397,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "PART 3: PREPARE TRIAL BALANCE FOR JUNE"
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -1481,7 +1481,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "PART 3: PREPARE TRIAL BALANCE FOR JUNE"
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -1921,9 +1921,9 @@
         "canvas": {
           "layout": "COSMATTCOMPREWIDGET",
           "data": {
-            "questiondata": [
+           "questiondata": [
               {
-                "text": "PART 5: PREPARE INCOME STATEMENT, RETAINED EARNING STATEMENT AND BALANCE SHEET FOR JUNE"
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -2005,9 +2005,9 @@
         "canvas": {
           "layout": "COSMATTCOMPREWIDGET",
           "data": {
-            "questiondata": [
+           "questiondata": [
               {
-                "text": "PART 6: JOURNALIZE AND POST THE CLOSING ENTRIES FOR JUNE"
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -2091,7 +2091,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "PART 6: JOURNALIZE AND POST THE CLOSING ENTRIES FOR JUNE"
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -2175,7 +2175,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "PART 7: PREPARE THE JUNE POST-CLOSING TRIAL BALANCE"
+                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
