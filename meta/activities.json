@@ -1467,7 +1467,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+            "html": "PART 2: POST JURNAL ENTRIES TO THE LEDGERS FOR JUNE"
           }
         ],
         "stimulus": [
@@ -1481,7 +1481,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Post the Journal Entries for the month of June to the Ledgers in the template provided on the right using the Journal on the left. Click Submit button once you complete. <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
