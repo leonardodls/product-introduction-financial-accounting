@@ -555,16 +555,7 @@
             "item-type": "resource",
             "resource": "RE_CH_5_SEC_2",
             "item-code": "Chapter_5_Introduction/ClosingEntries",
-            "tracking": true,
-             "embedded": [              
-              {
-                "item-code": "Chapter_5_Introduction/ClosingEntries/test-Emded_01",
-                "resource": "RE_CH_4_SEC_2_EM_01_2",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],
+            "tracking": true,            
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -636,7 +627,7 @@
             "tracking": true,      
             "embedded": [              
               {
-                "item-code": "Chapter_4_Introduction/PostEntriesToTheLedgersOption2/test-Emded_01",
+                "item-code": "Chapter_4_Introduction/PostEntriesToTheLedgersOption2/test-Emded",
                 "resource": "RE_CH_4_SEC_5_EM_01",
                 "item-type": "resource",
                 "name": "Emb Test 1",
@@ -1970,7 +1961,7 @@
           "Reading"
         ],
         "md": {
-          "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon1.md"
+          "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon.md"
         },
         "description": "",
         "learning-objectives": ["LO12.1"]
