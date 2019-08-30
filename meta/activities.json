@@ -1299,7 +1299,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+            "html": "PART 1: CREATE JOURNAL FOR JUNE"
           }
         ],
         "stimulus": [
@@ -1313,7 +1313,7 @@
           "data": {
            "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Create a Journal for the month of June in the template provided on the right using the following Transactions. Click Submit button once you complete.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
