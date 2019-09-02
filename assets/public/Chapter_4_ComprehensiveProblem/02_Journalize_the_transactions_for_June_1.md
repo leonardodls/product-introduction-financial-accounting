@@ -1,6 +1,6 @@
 ## PART 1: CREATE JOURNAL FOR JUNE
 
-Create a Journal for the month of June in the template provided on the right using the following Transactions. Click Submit button once you complete.
+Journalize all the below transactions for June in the journal template provided on the right. Click the ‘Submit’ button once you have completed the exercise. 
 
 ```
 [cosmatt-widget]
