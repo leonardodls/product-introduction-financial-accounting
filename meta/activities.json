@@ -1461,7 +1461,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+            "html": "PART 3: PREPARE THE JUNE TRIAL BALANCE"
           }
         ],
         "stimulus": [
@@ -1475,7 +1475,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Using the ledgers on the right, prepare the June trial balance. Click the ‘Submit’ button once you have completed the exercise. <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -1987,7 +1987,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+            "html": "PART 4: PREPARE THE JUNE INCOME STATEMENT, RETAINED EARNINGS STATEMENT, AND BALANCE SHEET"
           }
         ],
         "stimulus": [
@@ -2001,7 +2001,7 @@
           "data": {
            "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Create the Income Statement, Retained Earnings Statement and Balance Sheet, for the month ended June 30, using the trial balance shown on the left.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -2071,7 +2071,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+            "html": "PART 5: JOURNALIZE AND POST THE CLOSING ENTRIES FOR THE JUNE<b>Submit</b> to check your answers."
           }
         ],
         "stimulus": [
@@ -2085,7 +2085,7 @@
           "data": {
            "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -2155,7 +2155,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+            "html": "PART 6: POST THE JUNE CLOSING ENTRIES TO THE LEDGERS"
           }
         ],
         "stimulus": [
@@ -2169,7 +2169,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -2239,7 +2239,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+            "html": "PART 7: PREPARE THE JUNE POST CLOSING TRIAL BALANCE"
           }
         ],
         "stimulus": [
@@ -2253,7 +2253,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "To complete the accounting cycle for the month, prepare the June post-closing trial balance.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
