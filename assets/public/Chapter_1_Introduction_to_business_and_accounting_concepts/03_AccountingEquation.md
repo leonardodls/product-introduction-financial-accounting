@@ -12,6 +12,10 @@ Revenue and expenses are also part of the accounting equation since they impact 
 
 The difference between the total revenue and total expense amounts for a particular period, assuming revenue is higher, is called **net income**.
 
+For an example of how the accounting equation works, you can watch the video below:
+
+[*https://www.youtube.com/watch?v=vRw8OLMB6dU*](https://www.youtube.com/watch?v=vRw8OLMB6dU)
+
 ## Temporary and Permanent Accounts
 
 Revenue and expense accounts are considered **temporary** accounts. They are used to record operational transactions for a period of time. At the end of the accounting period, temporary account balances are set back to zero by transferring them to the *Retained Earnings* stockholders’ equity account for the period’s net income amount. This results in a change in stockholders’ equity. When the next accounting period begins, the beginning balances of the temporary accounts are zero again, for a fresh start.
