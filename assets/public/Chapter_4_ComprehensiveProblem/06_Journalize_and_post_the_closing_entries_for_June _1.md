@@ -1,4 +1,4 @@
-## PART 6: POST THE JUNE CLOSING ENTRIES TO THE LEDGERS
+Now, post the June closing entries in the journal to the ledgers that we created in Section 5.3.
 
 ```
 [cosmatt-widget]

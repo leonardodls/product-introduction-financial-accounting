@@ -20,7 +20,7 @@ The goal of a business is to make a profit through its operations. It does this 
 
 Take the example of a fitness studio, Core Fitness. If monthly membership fees for Core Fitness are $70 and the studio has 500 members, then Core Fitness’ revenue from membership fees is approximately $35,000 per month ($70 x 500 members). Core Fitness incurs a number of monthly expenses such as the rent of the premises, insurance, and the salaries of its employees. These expenses are **fixed costs** and don’t change even if more members join the gym. Some expenses, such as the utilities, laundry services and the maintenance of the equipment increase if the number of members increases. These expenses are **variable costs**. If fixed costs are $25,000 and variable costs per member are $15, then total expenses = $32,500 ($25,000 + $15 x 500 members). With these assumptions, Core Fitness’ revenue exceeds its costs by $2,500 per month and therefore, the business is profitable.
 
-Below is an interactive chart with two lines: total revenue and total cost (where total cost is the fixed cost + variable cost). The chart shows the amount of profit and loss for a given number of members. The chart also shows the **breakeven point** – the number of members at which revenue = costs.
+Below is an interactive chart with two lines: total revenue and total cost (where total cost is the fixed cost + variable cost). The chart shows the amount of profit and loss for a given number of members. The chart also shows the **break-even point** – the number of members at which revenue = costs.
 
 In order to see the affect on the profit, loss and break-even point, when our inputs change, you can use the three sliders below the graph to change:
 
@@ -79,3 +79,23 @@ While these decisions may seem like good business ideas, we need Accounting to h
 
 ### Test Your Understanding 
 
+
+If total monthly expenses for Core Fit for January are $17,000 and total monthly revenue is $15,000, the company is:
+
+1.  Generating variable expenses of $2,000
+
+2.  Generating a $2,000 profit
+
+3.  Generating a $2,000 loss
+
+4.  Break-even
+
+Using the profit and loss chart above, how many members are required to break-even when the variable cost is $25, the fixed cost is $25,000 and the membership fee is $75.
+
+1.  10,000
+
+2.  500
+
+3.  417
+
+4.  300

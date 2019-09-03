@@ -1,4 +1,4 @@
-## PART 5: JOURNALIZE AND POST THE CLOSING ENTRIES FOR THE JUNE
+Using the Trial Balance, add the closing entries to the June journal that we created in Section 5.2.
 
 ```
 [cosmatt-widget]

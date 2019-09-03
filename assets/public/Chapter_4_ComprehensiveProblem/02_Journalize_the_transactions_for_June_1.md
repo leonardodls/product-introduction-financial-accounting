@@ -1,5 +1,3 @@
-## PART 1: CREATE JOURNAL FOR JUNE
-
 Journalize all the below transactions for June in the journal template provided on the right. Click the ‘Submit’ button once you have completed the exercise. 
 
 ```

@@ -6,19 +6,21 @@ On June 1, Harry Nash opens a small business called State-to-State Consulting (S
 
 Below is the process we will follow for creating Accounting Statements for June and July.
 
-### INSTRUCTIONS FOR JUNE (Sections 5.2 – Sections 5.7)
+### INSTRUCTIONS FOR JUNE (Sections 5.2 – Sections 5.8)
 
-1.  Journalize the transactions for June in the journal.
+1.  Journalize the transactions for June
 
-2.  Post the June journal entries to the ledgers.
+2.  Post the June journal entries to the ledgers .
 
 3.  Prepare the June trial balance.
 
-4.  Prepare the June income statement, retained earnings statement, and balance sheet.
+4.  Prepare the June income statement, retained earnings statement and balance sheet .
 
-5.  Journalize and post the closing entries for June.
+5.  Journalize the closing entries for June.
 
-6.  Prepare the June post-closing trial balance.
+6.  Post the June Closing journal entries to the ledgers
+
+7.  Prepare the June post-closing trial balance.
 
 ### INSTRUCTIONS FOR JULY (Sections 5.8- 5.13)
 
