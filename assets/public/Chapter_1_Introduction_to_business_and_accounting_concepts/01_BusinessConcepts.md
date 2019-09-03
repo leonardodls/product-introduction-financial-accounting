@@ -79,23 +79,3 @@ While these decisions may seem like good business ideas, we need Accounting to h
 
 ### Test Your Understanding 
 
-
-If total monthly expenses for Core Fit for January are $17,000 and total monthly revenue is $15,000, the company is:
-
-1.  Generating variable expenses of $2,000
-
-2.  Generating a $2,000 profit
-
-3.  Generating a $2,000 loss
-
-4.  Break-even
-
-Using the profit and loss chart above, how many members are required to break-even when the variable cost is $25, the fixed cost is $25,000 and the membership fee is $75.
-
-1.  10,000
-
-2.  500
-
-3.  417
-
-4.  300
