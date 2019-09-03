@@ -11,7 +11,19 @@
           "item-code": "Introduction-test-Emded/Question-1",
           "item-type": "resource",
           "resource": "RE_00001"
-        }
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Introduction-test-Emded/Question-2",
+          "item-type": "resource",
+          "resource": "RE_00029"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Introduction-test-Emded/Question-3",
+          "item-type": "resource",
+          "resource": "RE_00030"
+        }     
       ]
     },
     {
@@ -2277,6 +2289,146 @@
         "i1": {
           "correct": "60",
           "ignorewhitespace": true
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00029": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "If total monthly expenses for Core Fit for January are $17,000 and total monthly revenue is $15,000, the company is:<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Generating variable expenses of $2,000"
+              },
+              {
+                "choiceB": "Generating a $2,000 profit"
+              },
+              {
+                "choiceC": "Generating a $2,000 loss"
+              },
+              {
+                "choiceD": "Break-even"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00030": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Using the profit and loss chart above, how many members are required to break-even when the variable cost is $25, the fixed cost is $25,000 and the membership fee is $75.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "10,000"
+              },
+              {
+                "choiceB": "500"
+              },
+              {
+                "choiceC": "417"
+              },
+              {
+                "choiceD": "300"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
         }
       },
       "learning-objectives": [],
