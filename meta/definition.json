@@ -7,8 +7,8 @@
     "title": "Introduction to Financial Accounting",
     "authors": [{
         "honorific": "Mr",
-        "firstname": "John",
-        "lastname": "Durrant",
+        "firstname": "Christine",
+        "lastname": "Jonick",
         "affiliation": {
           "jobtitle": "Retired Servo Engineer"
         },
@@ -27,8 +27,8 @@
       },
       {
         "honorific": "Mr",
-        "firstname": "Graham",
-        "lastname": "Elvis",
+        "firstname": "Mallika",
+        "lastname": "Singh",
         "affiliation": {
           "jobtitle": "Retired Servo Engineer"
         },
@@ -46,8 +46,8 @@
       },
       {
         "honorific": "Mr",
-        "firstname": "Roger",
-        "lastname": "Brookes",
+        "firstname": "Jasneet",
+        "lastname": "Kaur",
         "affiliation": {
           "jobtitle": "Electrical & Electronics Engineer "
         },
