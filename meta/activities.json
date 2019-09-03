@@ -1377,7 +1377,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "PART 1: CREATE JOURNAL FOR JUNE"
+            "html": ""
           }
         ],
         "stimulus": [
@@ -1391,7 +1391,7 @@
           "data": {
            "questiondata": [
               {
-                "text": "Create a Journal for the month of June in the template provided on the right using the following Transactions. Click Submit button once you complete.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Journalize all the below transactions for June in the journal template provided on the right. Click the ‘Submit’ button once you have completed the exercise.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -1461,7 +1461,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "PART 3: PREPARE THE JUNE TRIAL BALANCE"
+            "html": ""
           }
         ],
         "stimulus": [
@@ -1475,7 +1475,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Using the ledgers on the right, prepare the June trial balance. Click the ‘Submit’ button once you have completed the exercise. <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Using the ledgers created in Section 5.3 (shown in the left grid), prepare the June trial balance. Click the ‘Submit’ button once you have completed the exercise.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -1545,7 +1545,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "PART 2: POST JURNAL ENTRIES TO THE LEDGERS FOR JUNE"
+            "html": ""
           }
         ],
         "stimulus": [
@@ -1559,7 +1559,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Post the Journal Entries for the month of June to the Ledgers in the template provided on the right using the Journal on the left. Click Submit button once you complete. <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Post the June journal entries from Section 5.2 (shown in the left grid) to the ledgers shown on the right. Click the ‘Submit’ button once you have completed the exercise.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -1987,7 +1987,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "PART 4: PREPARE THE JUNE INCOME STATEMENT, RETAINED EARNINGS STATEMENT AND BALANCE SHEET"
+            "html": ""
           }
         ],
         "stimulus": [
@@ -2071,7 +2071,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "PART 5: JOURNALIZE AND POST THE CLOSING ENTRIES FOR THE JUNE<b>Submit</b> to check your answers."
+            "html": ""
           }
         ],
         "stimulus": [
@@ -2085,7 +2085,7 @@
           "data": {
            "questiondata": [
               {
-                "text": "<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Using the Trial Balance, add the closing entries to the June journal that we created in Section 5.2.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -2155,7 +2155,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "PART 6: POST THE JUNE CLOSING ENTRIES TO THE LEDGERS"
+            "html": ""
           }
         ],
         "stimulus": [
@@ -2169,7 +2169,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Now, post the June closing entries in the journal to the ledgers that we created in Section 5.3.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
@@ -2239,7 +2239,7 @@
         "instructions": [
           {
             "tag": "html",
-            "html": "PART 7: PREPARE THE JUNE POST CLOSING TRIAL BALANCE"
+            "html": ""
           }
         ],
         "stimulus": [
@@ -2253,7 +2253,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "To complete the accounting cycle for the month, prepare the June post-closing trial balance.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "To complete the accounting cycle for the month, prepare the June post-closing trial balance using the ledgers on the left.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
