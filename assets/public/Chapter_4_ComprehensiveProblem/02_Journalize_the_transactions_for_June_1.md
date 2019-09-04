@@ -2,7 +2,17 @@
 
 Journalize all the below transactions for June in the journal template provided on the right. Click the ‘Submit’ button once you have completed the exercise. 
 
-Refer to allowed values for accounts [here](htt "this title shows up when you hover")
+Refer to allowed values for accounts [here](# "- Cash
+- Common Stock
+- Miscellaneous Expense
+- Supplies Expense
+- Accounts Payable
+- Fees Earned
+- Accounts Receivable
+- Salary Expense
+- Truck Expense
+- Cash Dividends
+")
 
 ```
 [cosmatt-widget]
