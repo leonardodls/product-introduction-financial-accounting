@@ -1,4 +1,4 @@
-## Instruction:
+## Instructions
 
 Using the ledgers created in Section 5.3 (shown in the left grid), prepare the June trial balance. Click the ‘Submit’ button once you have completed the exercise.
 

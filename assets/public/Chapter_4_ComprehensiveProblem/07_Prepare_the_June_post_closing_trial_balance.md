@@ -1,4 +1,4 @@
-## Instruction:
+## Instructions
 
 To complete the accounting cycle for the month, prepare the June post-closing trial balance using the ledgers on the left.
 

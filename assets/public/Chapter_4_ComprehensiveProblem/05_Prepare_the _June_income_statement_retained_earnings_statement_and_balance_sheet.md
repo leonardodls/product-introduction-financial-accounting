@@ -1,4 +1,4 @@
-## Instruction:
+## Instructions
 
 Create the Income Statement, Retained Earnings Statement and Balance Sheet, for the month ended June 30, using the trial balance shown on the left. 
 
