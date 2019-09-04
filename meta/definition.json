@@ -737,7 +737,7 @@
             }
           },
           {
-            "name": "Prepare the June post-closing trial balance",
+            "name": "Prepare the June post - closing trial balance",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_7",
             "item-code": "Chapter_4_Introduction/ClosingTrialBalance",
@@ -811,10 +811,23 @@
             }
           },
           {
-            "name": "Journalize and post the closing entries for July",
+            "name": "Journalize the closing entries for July",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_1",
             "item-code": "Chapter_4_Introduction/JulyClosingEntries",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Post the July Closing journal entries to the ledgers",
+            "item-type": "resource",
+            "resource": "RE_CH_6_SEC_1",
+            "item-code": "Chapter_4_Introduction/JulyClosingledgersEntries",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
