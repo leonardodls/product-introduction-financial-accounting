@@ -2,7 +2,7 @@
 
 Journalize all the below transactions for June in the journal template provided on the right. Click the ‘Submit’ button once you have completed the exercise. 
 
-Refer to allowed values for accounts [here](htt "- Cash")
+Refer to allowed values for accounts [here](htt "- Cash \n - Common Stock")
 
 ```
 [cosmatt-widget]
