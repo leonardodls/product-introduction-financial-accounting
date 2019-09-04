@@ -1,3 +1,5 @@
+## Instruction:
+
 Now, post the June closing entries in the journal to the ledgers that we created in Section 5.3.
 
 ```

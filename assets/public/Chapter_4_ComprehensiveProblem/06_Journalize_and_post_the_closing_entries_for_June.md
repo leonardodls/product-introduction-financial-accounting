@@ -1,3 +1,5 @@
+## Instruction:
+
 Using the Trial Balance, add the closing entries to the June journal that we created in Section 5.2.
 
 ```
