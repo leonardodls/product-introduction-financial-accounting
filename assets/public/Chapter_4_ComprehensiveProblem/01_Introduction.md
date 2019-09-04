@@ -8,30 +8,34 @@ Below is the process we will follow for creating Accounting Statements for June 
 
 ### INSTRUCTIONS FOR JUNE (Sections 5.2 – Sections 5.8)
 
-1.  Journalize the transactions for June
+1.  5.2 - Journalize the transactions for June
 
-2.  Post the June journal entries to the ledgers .
+2.  5.3 - Post the June journal entries to the ledgers .
 
-3.  Prepare the June trial balance.
+3.  5.4 - Prepare the June trial balance.
 
-4.  Prepare the June income statement, retained earnings statement and balance sheet .
+4.  5.5 - Prepare the June income statement, retained earnings statement and balance sheet .
 
-5.  Journalize the closing entries for June.
+5.  5.6 - Journalize the closing entries for June.
 
-6.  Post the June Closing journal entries to the ledgers
+6.  5.7 - Post the June Closing journal entries to the ledgers
 
-7.  Prepare the June post-closing trial balance.
+7.  5.8 - Prepare the June post-closing trial balance.
 
-### INSTRUCTIONS FOR JULY (Sections 5.8- 5.13)
+### INSTRUCTIONS FOR JULY (Sections 5.9- 5.15)
 
-1.  Journalize the transactions for July in the journal.
+1.  5.9 - Journalize the transactions for July in the journal.
 
-2.  Post the July journal entries to the ledgers.
+2.  5.10 - Post the July journal entries to the ledgers.
 
-3.  Prepare the July trial balance.
+3.  5.11 - Prepare the July trial balance.
 
-4.  Prepare the July income statement, retained earnings statement, and balance sheet.
+4.  5.12 - Prepare the July income statement, retained earnings statement, and balance sheet.
 
-5.  Journalize and post the closing entries for July.
+5.  5.13 - Journalize the closing entries for July.
 
-6.  Prepare the July post-closing trial balance.
+6.  5.14 - Post the July Closing journal entries to the ledgers
+
+7.  5.15 - Prepare the July post-closing trial balance.
+
+8.  

@@ -44,6 +44,8 @@ Now we will use our understanding of common accounting transactions that we lear
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-388","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
+**Test Your Understanding Assessment:**
+
 Now fill in the below grid of common accounting transactions on your own. As in the Interactive Exercise, the accounting transaction for each row is on the left of the grid.
 
 ```
