@@ -16,6 +16,6 @@ We will also create a sensitivity table to show what happens to the net present 
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_14_Introduction/calNetPreValue/test-Emded_01","data":{}}} 
+ {"type":"assessment","options":{"id":"Chapter_14_Introduction/calNetPreValue/test-Emded_01","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
 ```
 
