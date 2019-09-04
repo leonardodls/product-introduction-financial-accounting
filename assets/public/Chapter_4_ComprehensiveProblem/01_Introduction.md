@@ -37,5 +37,3 @@ Below is the process we will follow for creating Accounting Statements for June 
 6.  Post the July Closing journal entries to the ledgers (5.14)
 
 7.  Prepare the July post-closing trial balance (5.15)
-
-8.  
