@@ -7,21 +7,21 @@
           "title": {
             "display": true,
             "text": "Monthly Profit and Loss Chart",
+            "position": "top",
             "style": {
               "fontstyle": "bold",
-              "fontcolor": "#1c5f93",
-              "fontsize": 20,
-              "fontfamily": "Arial",
-              "padding": 5,
-              "backgroundcolor": "#993333"
+              "fontcolor": "#3c3c3c",
+              "fontsize": 16,
+              "padding": 17,
+              "fontfamily": " Open Sans, sans-serif",
+              "backgroundcolor": "#3c3c3c"
             }
           },
           "chartlinestyles": {
-            "lines": [
-              {
+            "lines": [{
                 "display": false,
                 "linelabelname": "Fixed Cost",
-                "borderwidth": 3,
+                "borderwidth": 4,
                 "bordercolor": "#D3D3D3",
                 "backgroundcolor": "#D3D3D3",
                 "fill": false
@@ -29,17 +29,17 @@
               {
                 "display": true,
                 "linelabelname": "Total Cost",
-                "borderwidth": 3,
-                "bordercolor": "#36a2eb",
-                "backgroundcolor": "#36a2eb",
+                "borderwidth": 4,
+                "bordercolor": "#ff6384",
+                "backgroundcolor": "#ff6384",
                 "fill": false
               },
               {
                 "display": true,
                 "linelabelname": "Total Revenue",
-                "borderwidth": 3,
-                "bordercolor": "#ff6384",
-                "backgroundcolor": "#ff6384",
+                "borderwidth": 4,
+                "bordercolor": "#36a2eb",
+                "backgroundcolor": "#36a2eb",
                 "fill": false
               }
             ]
@@ -49,19 +49,22 @@
               "display": true,
               "label": "Number of Members",
               "minval": 0,
-              "maxval": 1000,
-              "stepsize": 100
+              "maxval": 1200,
+              "stepsize": 100,
+              "padding": 20
+
             },
             "yaxes": {
               "display": true,
-              "label": "Revenue or Cost ($)",
+              "label": "Revenue or Cost",
               "minval": 0,
-              "maxval": 100000,
-              "stepsize": 10000
+              "maxval": 90000,
+              "stepsize": 10000,
+              "padding": 20
             }
           },
           "legends": {
-            "display": true,
+            "display": false,
             "position": "bottom",
             "shape": "line",
             "fill": true,
@@ -70,35 +73,30 @@
               "fontcolor": "#1c5f93",
               "fontsize": "20",
               "fontfamily": "Arial",
-              "padding": 5,
               "backgroundcolor": "#993333"
             }
           }
         },
-        "slidervalues": [
-          {
+        "slidervalues": [{
             "sliderid": "fixedcost",
             "sliderlabel": "Fixed Cost ($)",
-            "unit": "$",
-            "defaultval": 20000,
+            "defaultval": 24000,
             "minval": 15000,
-            "maxval": 25000
+            "maxval": 30000
           },
           {
             "sliderid": "variablecost",
-            "sliderlabel": "Variable Cost ($)",
-            "unit": "$",
+            "sliderlabel": "Variable Cost ($)*",
             "defaultval": 20,
             "minval": 15,
             "maxval": 25
           },
           {
             "sliderid": "membershipfee",
-            "sliderlabel": "Membership Fee ($)",
-            "unit": "$",
-            "defaultval": 75,
+            "sliderlabel": "Membership Fee ($)*",
+            "defaultval": 60,
             "minval": 50,
-            "maxval": 100
+            "maxval": 75
           }
         ],
         "layoutconfigurations": {
