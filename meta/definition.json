@@ -911,7 +911,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "The accrual basis of accounting recognizes economic events when they take place, regardless of when the related cash transactions occur."
       },
       {
         "name": "Accounting cycle for a merchandising business",
@@ -932,7 +932,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "A merchandising business buys finished and packaged manufactured products as inventory for sale, marks these items up, and sells them to customers."
       },
       {
         "name": "Assets",
@@ -1031,7 +1031,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "Assets are items of value to a business, including things a business owns so it can operate. Common asset classifications are current; long-term; property, plant and equipment; and intangible."
       },
       {
         "name": "Liabilities",
@@ -1091,7 +1091,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "Liabilities are claims on a company's assets by people and entities that are not the owners of the business. Simply put, liabilities are debts. Liabilities are classified as either short or long-term."
       },
       {
         "name": "Stockholders Equity",
@@ -1177,7 +1177,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "Stockholders’ equity is the stockholders’ share of ownership of the assets that the business possesses. It includes both the investments that owners have made in the business and the income that the business has generated through its operations."
       },
       {
         "name": "Statement of Cash Flows",
@@ -1237,7 +1237,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "The statement of cash flows is a financial statement that shows how changes in balance sheet accounts and income affect cash and cash equivalents in terms of operating, investing, and financing activities."
       },
       {
         "name": "Financial Statement Analysis",
@@ -1336,7 +1336,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "Financial statement analysis is the process of reviewing and analyzing a company's financial statements, often times using ratios and other metrics, to make better economic decisions and increase earnings in the future."
       },
       {
         "name": "Time Value of Money",
@@ -1383,7 +1383,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "The time value of money is the concept that money available now is worth more than the identical amount in the future due to its potential to generate earnings over time."
       },
       {
         "name": "Forecasting Cash Flows & Investment Analysis",
@@ -1511,7 +1511,7 @@
             }
           }
         ],
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+        "description": "Forecasting is a planning tool that helps management deal with the uncertainty of the future by looking at data from the past, considering the current economic, social, and political status, and analyzing trends."
       }
     ]
   },
