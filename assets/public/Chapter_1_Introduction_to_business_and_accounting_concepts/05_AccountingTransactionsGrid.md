@@ -46,3 +46,9 @@ Now we will use our understanding of common accounting transactions that we lear
 
 ## Test Your Understanding 
 
+Now fill in the below grid of common accounting transactions on your own. As in the Interactive Exercise, the accounting transaction for each row is on the left of the grid.
+
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_06","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
+```
