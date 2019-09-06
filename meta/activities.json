@@ -181,6 +181,36 @@
           "item-code": "Common-Accounting-test-Emded/Question-1",
           "item-type": "resource",
           "resource": "RE_00009"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-2",
+          "item-type": "resource",
+          "resource": "RE_00041"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-3",
+          "item-type": "resource",
+          "resource": "RE_00042"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-4",
+          "item-type": "resource",
+          "resource": "RE_00043"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-5",
+          "item-type": "resource",
+          "resource": "RE_00044"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-6",
+          "item-type": "resource",
+          "resource": "RE_00045"
         }
       ]
     },
@@ -251,36 +281,6 @@
           "item-code": "Common-Accounting-test-Emded/Question-5",
           "item-type": "resource",
           "resource": "RE_00013"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-6",
-          "item-type": "resource",
-          "resource": "RE_00041"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-7",
-          "item-type": "resource",
-          "resource": "RE_00042"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-8",
-          "item-type": "resource",
-          "resource": "RE_00043"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-9",
-          "item-type": "resource",
-          "resource": "RE_00044"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-10",
-          "item-type": "resource",
-          "resource": "RE_00045"
         }
 
       ]
