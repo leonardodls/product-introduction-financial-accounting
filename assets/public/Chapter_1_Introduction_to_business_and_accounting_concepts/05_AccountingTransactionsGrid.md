@@ -6,7 +6,7 @@ Now we will use our understanding of common accounting transactions that we lear
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"data":{"meta":{"showGradingStatus":true}},"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01"}}
+{"type":"assessment","options":{"data":{"meta":{"renderOverrides":{"showGradingStatus":true}}},"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01"}}
 ```
 
 **2. Complete the accounting transactions grid for the following transactions related to sales to customers. **
