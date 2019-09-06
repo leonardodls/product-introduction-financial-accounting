@@ -23,7 +23,37 @@
           "item-code": "Introduction-test-Emded/Question-3",
           "item-type": "resource",
           "resource": "RE_00030"
-        }     
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Introduction-test-Emded/Question-3",
+          "item-type": "resource",
+          "resource": "RE_00031"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Introduction-test-Emded/Question-3",
+          "item-type": "resource",
+          "resource": "RE_00032"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Introduction-test-Emded/Question-3",
+          "item-type": "resource",
+          "resource": "RE_00033"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Introduction-test-Emded/Question-3",
+          "item-type": "resource",
+          "resource": "RE_00034"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Introduction-test-Emded/Question-3",
+          "item-type": "resource",
+          "resource": "RE_00035"
+        }      
       ]
     },
     {
@@ -2413,6 +2443,356 @@
               },
               {
                 "choiceD": "300"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00031": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "The primary goal of a business<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Is to generate profit by investing in other businesses"
+              },
+              {
+                "choiceB": "Is to operate so that costs are greater than sales in the same time period"
+              },
+              {
+                "choiceC": "is to generate an operating loss"
+              },
+              {
+                "choiceD": "Is to sell goods or services to customers at a profit"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00032": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which of the following is NOT a service business?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "A tire store"
+              },
+              {
+                "choiceB": "An airline"
+              },
+              {
+                "choiceC": "A dry cleaner"
+              },
+              {
+                "choiceD": "An attorney"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00033": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "The total fixed cost in a business<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Does not change even when the number of units sold changes"
+              },
+              {
+                "choiceB": "Increases as the number of units sold increases"
+              },
+              {
+                "choiceC": "Decreases as the number of units sold decreases"
+              },
+              {
+                "choiceD": "Is not factored in to a break even analysis since it does not vary"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00034": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "A variable cost per unit<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Increases as the number of units sold increases"
+              },
+              {
+                "choiceB": "Decreases as the number of units sold increases"
+              },
+              {
+                "choiceC": "Remains the same even when the number of units sold changes"
+              },
+              {
+                "choiceD": "Is added to the selling price per unit in a break even computation"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00035": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "At the end of a month of operations, a business looks at its accounting records to see how much profit the company has generated. This is an example of<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Analyzing business transactions"
+              },
+              {
+                "choiceB": "Evaluating performance"
+              },
+              {
+                "choiceC": "Planning"
+              },
+              {
+                "choiceD": "Making decision"
               }
             ]
           }
