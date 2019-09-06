@@ -1,6 +1,6 @@
 An economic event that affects two or more accounts is called a **transaction**. Common business transactions include the business doing the following:
 
-**1. Issuing Stock for Cash **
+## 1\. Issuing Stock for Cash 
 
 *Cash* increases AND *Common Stock* increases
 
@@ -16,7 +16,7 @@ Stella and Eddie raise $5,000 from a friend of theirs, Marie, who becomes an inv
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-258","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-**2. Pay Cash for Rent**
+## 2\. Pay Cash for Rent
 
 *Retained Earnings* decreases (for expense incurred) AND *Cash* decreases
 
@@ -32,7 +32,7 @@ Core Fitness pays $3,000 cash immediately to its landlord for January’s rent. 
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-264","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-**3. Sell Services to Customers for Cash**
+## 3\. Sell Services to Customers for Cash
 
 *Cash* increases AND *Retained Earnings* increases (for revenue generated)
 
@@ -48,7 +48,7 @@ Core Fitness sells an annual membership for $1,000 to a customer so Revenue incr
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-266","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-**4. Purchase Supplies on Account**
+## 4\. Purchase Supplies on Account
 
 *Retained Earnings* decreases (for expense incurred) AND *Accounts Payable* increases
 
@@ -64,7 +64,7 @@ Core Fitness buys $1,000 of gym supplies that the vendor invoices now, but Core 
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-268","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-**5. Pay Cash on Account**
+## 5\. Pay Cash on Account
 
 *Accounts Payable* decreases AND *Cash* decreases
 
@@ -96,7 +96,7 @@ Core Fitness sells a 6-monthly membership for $500 so Revenue increases by $500.
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-272","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-**7. Receive Cash on Account**
+## 7\. Receive Cash on Account
 
 *Accounts Receivable* decreases AND *Cash* increases
 
@@ -123,5 +123,5 @@ You will notice that each Core Fitness transaction in the first column impacts t
 
 The revenue and expense accounts are used temporarily during the period to record operational transactions. At the end of the period, these accounts’ ending balances are set back to zero by transferring them to the Retained Earnings account under Closed revenue account and Closed expense accounts. As a result, the Retained Earnings balance for Core Fitness decreased by the net loss of $2,500.
 
-### Test Your Understanding
+## Test Your Understanding
 

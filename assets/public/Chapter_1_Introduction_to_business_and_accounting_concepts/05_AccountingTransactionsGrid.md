@@ -1,6 +1,6 @@
 Now we will use our understanding of common accounting transactions that we learned in <a routerlink='Chapter_1_Introduction/Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> to complete an accounting transactions grid.
 
-### Interactive Exercise
+## Interactive Exercise
 
 **1. Complete the accounting transactions grid for the $4,000 investment transaction below.**
 
@@ -44,9 +44,7 @@ Now we will use our understanding of common accounting transactions that we lear
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-388","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-**Assessment 1*
-
-***
+## Assessment 1
 
 Now fill in the below grid of common accounting transactions on your own. As in the Interactive Exercise, the accounting transaction for each row is on the left of the grid.
 
