@@ -215,6 +215,50 @@
       ]
     },
     {
+      "name": "Summary-test-Emded",
+      "item-code": "Summary-test-Emded",
+      "item-type": "folder",
+      "sub-type": "test",
+      "items": [
+        {
+          "name": "Question 1",
+          "item-code": "Summary-test-Emded/Question-1",
+          "item-type": "resource",
+          "resource": "RE_00046"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Summary-test-Emded/Question-2",
+          "item-type": "resource",
+          "resource": "RE_00047"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Summary-test-Emded/Question-3",
+          "item-type": "resource",
+          "resource": "RE_00048"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Summary-test-Emded/Question-4",
+          "item-type": "resource",
+          "resource": "RE_00049"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Summary-test-Emded/Question-5",
+          "item-type": "resource",
+          "resource": "RE_00050"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Summary-test-Emded/Question-6",
+          "item-type": "resource",
+          "resource": "RE_00051"
+        }
+      ]
+    },
+    {
       "name": "Common-Accounting-test-Emded_01",
       "item-code": "Common-Accounting-test-Emded_01",
       "item-type": "folder",
@@ -3570,6 +3614,426 @@
       "responses": {
         "i1": {
           "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00046": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which statement is not true about a journal entry?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "It cannot include more than three accounts"
+              },
+              {
+                "choiceB": "It is incorrect if the total of the debit amount(s) entered does not equal the total of the credit amount(s) entered"
+              },
+              {
+                "choiceC": "It must include at least two accounts."
+              },
+              {
+                "choiceD": "It may include any of the five types of accounts: assets, liabilities, stockholders' equity, revenue, or expenses."
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00047": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "The accounting equation, which is also the equation for the balance sheet, is<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Assets = Liabilities + Stockholders' Equity"
+              },
+              {
+                "choiceB": "Revenue - Expenses = Net Income"
+              },
+              {
+                "choiceC": "Assets + Liabilities = Stockholders' Equity"
+              },
+              {
+                "choiceD": "Assets = Liabilities - Stockholders' Equity"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00048": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which account category includes temporary accounts?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "assets"
+              },
+              {
+                "choiceB": "liabilities"
+              },
+              {
+                "choiceC": "stockholders' equity"
+              },
+              {
+                "choiceD": "revenues"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00049": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Accounts Payable would increase as a result of<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "selling to a customer on account."
+              },
+              {
+                "choiceB": "paying a vendor on account."
+              },
+              {
+                "choiceC": "receiving payment from a customer on account."
+              },
+              {
+                "choiceD": "purchasing from a vendor on account."
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00050": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Stockholders' equity increases as a result of<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "issuing common stock."
+              },
+              {
+                "choiceB": "paying a vendor on account."
+              },
+              {
+                "choiceC": "receiving payment from a customer on account."
+              },
+              {
+                "choiceD": "closing expense accounts to retained earnings."
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00051": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Stockholders' equity increases as a result of<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Stockholders' equity decreases as a result of"
+              },
+              {
+                "choiceB": "a decrease in accounts receivable."
+              },
+              {
+                "choiceC": "an increase in an expense account."
+              },
+              {
+                "choiceD": "a decrease in cash."
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
         }
       },
       "learning-objectives": [],
