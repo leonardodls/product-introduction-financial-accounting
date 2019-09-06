@@ -251,7 +251,38 @@
           "item-code": "Common-Accounting-test-Emded/Question-5",
           "item-type": "resource",
           "resource": "RE_00013"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-6",
+          "item-type": "resource",
+          "resource": "RE_00041"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-7",
+          "item-type": "resource",
+          "resource": "RE_00042"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-8",
+          "item-type": "resource",
+          "resource": "RE_00043"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-9",
+          "item-type": "resource",
+          "resource": "RE_00044"
+        },
+        {
+          "name": "Question 1",
+          "item-code": "Common-Accounting-test-Emded/Question-10",
+          "item-type": "resource",
+          "resource": "RE_00045"
         }
+
       ]
     },
     {
@@ -3173,6 +3204,356 @@
               },
               {
                 "choiceD": "Assets = Liabilities - Stockholders' Equity"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00041": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "Which transaction correctly matches with the corresponding account changes?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "Issue stock for cash: Retained Earnings increases AND Cash decreases"
+              },
+              {
+                "choiceB": "Purchased supplies on account: Supplies Expense increases AND Cash decreases "
+              },
+              {
+                "choiceC": "Receive cash on account: Cash increases AND Accounts Receivable decreases"
+              },
+              {
+                "choiceD": "Closed revenue account: Fees Earned increases AND Retained Earnings decreases"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00042": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "In the accounting equation grid, a company's Cash account increases when<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "revenue accounts are closed to retained earnings."
+              },
+              {
+                "choiceB": "common stock is issued."
+              },
+              {
+                "choiceC": "a vendor is paid on account."
+              },
+              {
+                "choiceD": "a customer is billed on account."
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceB"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00043": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "In the accounting equation grid, a company's Accounts Payable account decreases when<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "a vendor is paid on account."
+              },
+              {
+                "choiceB": "a customer pays on account."
+              },
+              {
+                "choiceC": "expense accounts are closed to retained earnings."
+              },
+              {
+                "choiceD": "cash is paid for rent."
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceA"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00044": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "In the accounting equation grid, net income is determined by considering<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "common stock and retained earnings."
+              },
+              {
+                "choiceB": "accounts receivable and accounts payable."
+              },
+              {
+                "choiceC": "assets and liabilities."
+              },
+              {
+                "choiceD": "revenue and expenses."
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "",
+          "incorrect": "",
+          "empty": ""
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceD"
+        }
+      },
+      "learning-objectives": [],
+      "tags": [
+        "test"
+      ]
+    },
+    "RE_00045": {
+      "meta": {
+        "type": "MCSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": "text",
+            "text": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": ""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ",
+          "data": {
+            "questiondata": [
+              {
+                "text": "In the accounting equation grid, stockholders' equity is determined by considering<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCSR",
+            "MCSR": [
+              {
+                "choiceA": "common stock and retained earnings."
+              },
+              {
+                "choiceB": "accounts receivable and accounts payable."
+              },
+              {
+                "choiceC": "revenue and expenses."
+              },
+              {
+                "choiceD": "liabilities and retained earnings."
               }
             ]
           }
