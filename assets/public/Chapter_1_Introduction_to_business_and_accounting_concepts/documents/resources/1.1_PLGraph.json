@@ -2,7 +2,7 @@
   "type": "pl-graph",
   "options": {
     "data": {
-      "chart": {
+       "chart": {
         "chartelements": {
           "title": {
             "display": true,
@@ -30,8 +30,8 @@
                 "display": true,
                 "linelabelname": "Total Cost",
                 "borderwidth": 4,
-                "bordercolor": "#ff6384",
-                "backgroundcolor": "#ff6384",
+                "bordercolor": "#e65c00",
+                "backgroundcolor": "#e65c00",
                 "fill": false
               },
               {
