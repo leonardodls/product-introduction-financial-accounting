@@ -2,6 +2,12 @@
     "type": "assessment",
     "options": {
       "id": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01",
-      "data": {}
+      "data": {
+	      "meta": {	        
+	        
+         		"showGradingStatus": true   
+	        }
+	      }
+    	}
     }
   }
