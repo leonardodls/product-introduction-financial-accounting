@@ -3263,7 +3263,7 @@
       },
       "responses": {
         "i1": {
-          "correct": "choiceA"
+          "correct": "choiceC"
         }
       },
       "learning-objectives": [],
@@ -3938,16 +3938,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "issuing common stock."
+                "choiceA": "issuing common stock"
               },
               {
-                "choiceB": "paying a vendor on account."
+                "choiceB": "paying a vendor on account"
               },
               {
-                "choiceC": "receiving payment from a customer on account."
+                "choiceC": "receiving payment from a customer on account"
               },
               {
-                "choiceD": "closing expense accounts to retained earnings."
+                "choiceD": "closing expense accounts to retained earnings"
               }
             ]
           }
@@ -3997,7 +3997,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Stockholders' equity increases as a result of<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Stockholders' equity decreases as a result of<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -4011,13 +4011,13 @@
                 "choiceA": "Stockholders' equity decreases as a result of"
               },
               {
-                "choiceB": "a decrease in accounts receivable."
+                "choiceB": "a decrease in accounts receivable"
               },
               {
-                "choiceC": "an increase in an expense account."
+                "choiceC": "an increase in an expense account"
               },
               {
-                "choiceD": "a decrease in cash."
+                "choiceD": "a decrease in cash"
               }
             ]
           }
