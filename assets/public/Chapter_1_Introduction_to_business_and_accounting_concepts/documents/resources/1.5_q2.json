@@ -1,13 +1,13 @@
 {
-    "type": "assessment",
-    "options": {
-      "id": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01",
-      "data": {
-	      "meta": {	        
-	        
-         		"showGradingStatus": true   
-	        }
-	      }
-    	}
-    }
+  "type": "assessment",
+  "options": {
+    "data": {
+      "meta": {
+        "renderOverrides": {
+          "showGradingStatus": true
+        }
+      }
+    },
+    "id": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01"
   }
+}

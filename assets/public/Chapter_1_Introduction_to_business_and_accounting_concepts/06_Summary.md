@@ -28,3 +28,5 @@ Revenue and expenses are temporary accounts.  Assets, liabilities and stockhold
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-257","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
+
+## Test Your Understanding
