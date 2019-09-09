@@ -18,7 +18,7 @@ Below is the process we will follow for creating Accounting Statements for June 
 
 5.  Journalize the closing entries for June
 
-6.  Post the June Closing journal entries to the ledgers
+6.  Post the June closing journal entries to the ledgers
 
 7.  Prepare the June post-closing trial balance
 
@@ -34,6 +34,6 @@ Below is the process we will follow for creating Accounting Statements for June 
 
 5.  Journalize the closing entries for July
 
-6.  Post the July Closing journal entries to the ledgers
+6.  Post the July closing journal entries to the ledgers
 
 7.  Prepare the July post-closing trial balance

@@ -18,7 +18,7 @@ Assets = Liabilities + Stockholders’ Equity
 
 #### 4\.    What are temporary and permanent accounts and examples of each?
 
-Temporary account balances are reset to zero when the new accounting period starts -the balances in permanent accounts carry over from one period to the next.
+Temporary account balances are reset to zero when the new accounting period starts - the balances in permanent accounts carry over from one period to the next.
 
 Revenue and expenses are temporary accounts.  Assets, liabilities and stockholders’ equity are permanent accounts.
 
