@@ -1,4 +1,4 @@
-<center> ## Please submit previous section to unlock the content. </center>
+##  <center> Please submit previous section to unlock the content. </center>
 
 <br/>
 <br/>
