@@ -1,1 +1,4 @@
-# **Please submit the assessment question in previous section to unlock the content of this section**
+## To unlock, complete previous modules
+
+###### ![](https://icon-library.net/images/padlock-icon-transparent/padlock-icon-transparent-8.jpg)
+
