@@ -18,14 +18,14 @@ Stella and Eddie raise $5,000 from a friend of theirs, Marie, who becomes an inv
 
 ### 2\. Pay Cash for Rent
 
-*Retained Earnings* decreases (for expense incurred) AND *Cash* decreases
+*E*xpenses increase AND *Cash* decreases
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-263","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-Core Fitness pays $3,000 cash immediately to its landlord for January’s rent. Since this is a rent expense, net income decreases and therefore Retained Earnings decreases.  Expenses are shown as negative, as they are deductions that offset revenue and decrease net income.
+Core Fitness pays $3,000 cash immediately to its landlord for January’s rent. Therefore, cash decreases and the rent expense increases.
 
 ```
 [cosmatt-widget]
@@ -34,14 +34,14 @@ Core Fitness pays $3,000 cash immediately to its landlord for January’s rent. 
 
 ### 3\. Sell Services to Customers for Cash
 
-*Cash* increases AND *Retained Earnings* increases (for revenue generated)
+*Cash* increases AND *Revenue* increases
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-265","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-Core Fitness sells an annual membership for $1,000 to a customer so Revenue increases.  Cash comes into the company immediately and the cash account increases.
+Core Fitness sells annual memberships $4,000 so Revenue increases.  Cash comes into the company immediately and the cash account increases.
 
 ```
 [cosmatt-widget]
@@ -50,14 +50,14 @@ Core Fitness sells an annual membership for $1,000 to a customer so Revenue incr
 
 ### 4\. Purchase Supplies on Account
 
-*Retained Earnings* decreases (for expense incurred) AND *Accounts Payable* increases
+*Expenses* increase AND *Accounts Payable* increases
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-267","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-Core Fitness buys $1,000 of gym supplies that the vendor invoices now, but Core Fitness doesn’t pay until 30 days later. This increases the amount due or Account Payable by $1,000. This will decrease once Core Fitness pays the cash owed for the supplies. Since buying supplies is an expense, the expense Account changes by -$1,000.
+Core Fitness buys $1,000 of gym supplies that the vendor invoices now, but Core Fitness doesn’t pay until 30 days later. This increases the amount due or Account Payable by $1,000. This will decrease once Core Fitness pays the cash owed for the supplies. Since buying supplies is an expense, the expense Account increases by $1,000.
 
 ```
 [cosmatt-widget]
@@ -82,14 +82,14 @@ Core Fitness pays cash for the $1,000 supplies it bought earlier but had not pai
 
 ### 6\. **Sell to Customers on Account**
 
-*Accounts Receivable* increases AND *Retained Earnings* increases (for revenue generated)
+*Accounts Receivable* increases AND *Revenue* increases
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-271","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-Core Fitness sells a 6-monthly membership for $500 so Revenue increases by $500.  Core Fitness invoices the customer now but receives cash later. Since the customer buys this on credit, Account Receivable increases by $500.  
+Core Fitness sells a membership for $500 so Revenue increases by $500.  Core Fitness invoices the customer now but receives cash later. Since the customer buys this on credit, Account Receivable increases by $500.  
 
 ```
 [cosmatt-widget]
@@ -119,9 +119,9 @@ The following transaction grid illustrates how an aggregated picture of Core Fit
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-311","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-You will notice that each Core Fitness transaction in the first column impacts two accounts. For the asset, liability, and stockholders’ equity amounts, positive numbers represent increases and negative amounts indicate decreases. The ending balances prove that total assets of $2,500 ($2,500 + $0) equal total liabilities and stockholders’ equity of $2,500 ($0 + $5,000 - $2,500).
+You will notice that each Core Fitness transaction impacts two accounts. For all accounts, positive numbers represent increases and negative amounts indicate decreases. The ending balances prove that total assets of $2,500 ($5,500 + $0) equal total liabilities and stockholders’ equity of $5,500 ($0 + $5,000 + $500).
 
-The revenue and expense accounts are used temporarily during the period to record operational transactions. At the end of the period, these accounts’ ending balances are set back to zero by transferring them to the Retained Earnings account under Closed revenue account and Closed expense accounts. As a result, the Retained Earnings balance for Core Fitness decreased by the net loss of $2,500.
+The revenue and expense accounts are used temporarily during the period to record operational transactions. At the end of the period, these accounts’ ending balances are set back to zero by transferring them to the Retained Earnings account under Closed revenue account and Closed expense accounts. As a result, the Retained Earnings balance for Core Fitness increased by the net profit of $2,500.
 
 ## Test Your Understanding
 
