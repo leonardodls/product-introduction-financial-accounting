@@ -4,7 +4,7 @@ The items that a business keeps track of are called **accounts**. Each of these 
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/02_Accounts/image1.png)
 
-Core Fitness owns a number of valuable things including cash in its bank account and workout equipment, such as free weights. These are all assets. Core Fitness sells some of its classes for cash and some on credit. The amount of cash Core Fitness is owed by customers that have bought on credit is categorized as Accounts Receivable and is also an asset.
+Core Fitness owns a number of valuable things including cash in its bank account and workout equipment, such as free weights. These are all assets. Core Fitness sells some of its memberships for cash and some on credit. The amount of cash Core Fitness is owed by customers that have bought on credit is categorized as Accounts Receivable and is also an asset.
 
 ## Liabilities
 
@@ -22,7 +22,7 @@ The value of the shares that Stella and Eddie own in Core Fitness is known as Co
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/02_Accounts/image4.png)
 
-All the fees that Core Fitness earns from selling classes is revenue. This includes the fees generated from cash sales as well as credit sales.
+The fees that Core Fitness earns by selling memberships is revenue. This includes the fees generated from cash sales as well as credit sales.
 
 ## Expense
 

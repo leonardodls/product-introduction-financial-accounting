@@ -1,1 +1,8 @@
-# **Please submit the assessment question in previous section to unlock the content of this section**
+##  <center> Please submit the previous section to unlock this content. </center>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+###### ![](./lock.svg)

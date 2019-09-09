@@ -16,6 +16,8 @@ For an example of how the accounting equation works, you can watch the video bel
 
 {video-youtube} https://www.youtube.com/watch?v=vRw8OLMB6dU
 
+Credits: [Adam Saatkamp](https://www.youtube.com/channel/UCisl6YutGV6S43cSuYgDhLQ) (via YouTube)
+
 ## Temporary and Permanent Accounts
 
 Revenue and expense accounts are considered **temporary** accounts. They are used to record operational transactions for a period of time. At the end of the accounting period, temporary account balances are set back to zero by transferring them to the *Retained Earnings* stockholders’ equity account for the period’s net income amount. This results in a change in stockholders’ equity. When the next accounting period begins, the beginning balances of the temporary accounts are zero again, for a fresh start.
