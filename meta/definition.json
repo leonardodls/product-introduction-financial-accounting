@@ -725,7 +725,7 @@
             }
           },
           {
-            "name": "Post the June Closing journal entries to the ledgers",
+            "name": "Post the June closing journal entries to the ledgers",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_6_1",
             "item-code": "Chapter_4_Introduction/ClosingEntriesledgers",
@@ -834,7 +834,7 @@
             }
           },
           {
-            "name": "Post the July Closing journal entries to the ledgers",
+            "name": "Post the July closing journal entries to the ledgers",
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_1",
             "item-code": "Chapter_4_Introduction/JulyClosingledgersEntries",

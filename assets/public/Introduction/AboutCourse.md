@@ -1,4 +1,4 @@
-Accounting is the system of recording and summarizing a company&#39;s financial in standardized
+Accounting is the system of recording and summarizing a company&#39;s financial information in standardized
 reports. This information guides managers, investors, and creditors in planning and decision
 making. Accounting is often referred to as “the language of business” because business people
 communicate, evaluate performance, and determine value using dollars and numbers.
