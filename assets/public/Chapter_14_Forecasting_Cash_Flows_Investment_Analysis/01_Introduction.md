@@ -6,7 +6,7 @@ As you recall, to determine whether any project is a good idea, we need to calcu
 
 For a refresher on NPV, you can watch the video below:
 
-{video-youtube} <https://www.youtube.com/watch?v=HFFkFMfotT0>
+{video-youtube} https://www.youtube.com/watch?v=HFFkFMfotT0
 
 Credits: Edspira (via YouTube)
 
