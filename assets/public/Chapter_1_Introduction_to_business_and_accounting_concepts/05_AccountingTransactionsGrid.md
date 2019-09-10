@@ -1,4 +1,4 @@
-Now we will use our understanding of common accounting transactions that we learned in <a routerlink='Chapter_1_Introduction/Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> to complete an accounting transactions grid.
+Now we will use our understanding of common accounting transactions that we learned in <a routerlink='file:///Users/mallika/Dropbox/Accounting%20Courseware/Chapter_1_Introduction_to_business_and_accounting_concepts/documents/Chapter_1_Introduction/Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> to complete an accounting transactions grid.
 
 ## Interactive Exercise
 
@@ -28,13 +28,6 @@ Now we will use our understanding of common accounting transactions that we lear
 ```
 [cosmatt-widget]
  {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_04","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
-```
-
-**5. Based on the correct entries for part 4, complete the closing entries and ending balances after closing.**
-
-```
-[cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_05","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
 ```
 
 **The following grid shows an aggregated picture of all the transactions just completed. **
