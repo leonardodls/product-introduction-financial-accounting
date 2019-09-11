@@ -112,16 +112,7 @@ Core Fitness ultimately receives $500 in cash for the membership sold on credit.
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-274","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-The following transaction grid illustrates how an aggregated picture of Core Fitness’ common business transactions we just learnt about fit into the accounting equation.
-
-```
-[cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-311","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
-```
-
-You will notice that each Core Fitness transaction impacts two accounts. For all accounts, positive numbers represent increases and negative amounts indicate decreases. The ending balances prove that total assets of $2,500 ($5,500 + $0) equal total liabilities and stockholders’ equity of $5,500 ($0 + $5,000 + $500).
-
-The revenue and expense accounts are used temporarily during the period to record operational transactions. At the end of the period, these accounts’ ending balances are set back to zero by transferring them to the Retained Earnings account under Closed revenue account and Closed expense accounts. As a result, the Retained Earnings balance for Core Fitness increased by the net profit of $2,500.
+The above transaction grid illustrates how an aggregated picture of Core Fitness’ common business transactions we just learnt about fit into the accounting equation.
 
 ## Test Your Understanding
 

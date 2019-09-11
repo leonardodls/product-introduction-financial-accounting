@@ -1883,7 +1883,7 @@
           "url": "Chapter_4_ComprehensiveProblem/02_Journalize_the_transactions_for_June_1.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["LO6.1","LO6.2"]
       },      
       "RE_CH_4_SEC_2_EM_01_1": {
         "sub-type": "test",
@@ -1982,7 +1982,7 @@
           "url": "Chapter_4_ComprehensiveProblem/03_Post_the_June_journal_entries_to_the_ledgers_Opt2.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["LO7.1","LO7.2"]
       },
       "RE_CH_4_SEC_4": {
         "sub-type": "md",
@@ -1993,7 +1993,7 @@
           "url": "Chapter_4_ComprehensiveProblem/04_Prepare_the _June_trial_balance.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["LO8.1","LO8.2"]
       },
      
       "RE_CH_5_SEC_1": {
@@ -2049,7 +2049,7 @@
           "url": "Chapter_4_ComprehensiveProblem/05_Prepare_the _June_income_statement_retained_earnings_statement_and_balance_sheet.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["LO9.1","LO9.2","LO9.3"]
       },
       "RE_CH_6_SEC_6": {
         "sub-type": "md",
@@ -2071,7 +2071,7 @@
           "url": "Chapter_4_ComprehensiveProblem/06_Journalize_and_post_the_closing_entries_for_June _1.md"
         },
         "description": "",
-        "learning-objectives": []
+        "learning-objectives": ["LO12.1","LO12.2"]
       },
       "RE_CH_6_SEC_7": {
         "sub-type": "md",
