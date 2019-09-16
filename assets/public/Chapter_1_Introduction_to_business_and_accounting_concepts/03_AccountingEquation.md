@@ -14,9 +14,9 @@ The difference between the total revenue and total expense amounts for a particu
 
 For an example of how the accounting equation works, you can watch the video below:
 
-{video-youtube} https://www.youtube.com/watch?v=vRw8OLMB6dU
+{video-youtube} <https://www.youtube.com/watch?v=vRw8OLMB6dU>
 
-Credits: Adam Saatkamp (via YouTube)
+Credits: [Adam Saatkamp](https://www.youtube.com/channel/UCisl6YutGV6S43cSuYgDhLQ) (via YouTube)
 
 ## Temporary and Permanent Accounts
 

@@ -1,4 +1,4 @@
-The items that a business keeps track of are called **accounts**. Each of these accounts is one of five main types.
+The items that a business keeps track of are called **accounts**. Each of these accounts is one of five the main types.
 
 ## Assets
 
@@ -22,7 +22,7 @@ The value of the shares that Stella and Eddie own in Core Fitness is known as Co
 
 ![](./Chapter_1_Introduction_to_business_and_accounting_concepts/media/02_Accounts/image4.png)
 
-The fees that Core Fitness earns by selling memberships is revenue. This includes the fees generated from cash sales as well as credit sales.
+The fees that Core Fitness earns by selling memberships is the revenue. This includes the fees generated from cash sales as well as credit sales.
 
 ## Expense
 
