@@ -77,5 +77,5 @@ As Core Fitness has started generating profits, Stella and Eddie are thinking ab
 
 While these decisions may seem like good business ideas, we need Accounting to help answer if they are financially viable.
 
-### Test Your Understanding 
+## Test Your Understanding 
 
