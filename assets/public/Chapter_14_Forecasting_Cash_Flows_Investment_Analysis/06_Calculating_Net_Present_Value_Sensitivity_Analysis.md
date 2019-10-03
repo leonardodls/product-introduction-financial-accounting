@@ -2,9 +2,9 @@
 
 Now that we have developed the annual cash flows of opening a new Core Fit location we can calculate the net present value.
 
-**Step 1**: Assume a discount rate of 15% and enter it into the spreadsheet in cell C4.
+**Step 1**: Assume a discount rate of 15%.
 
-**Step 2:** Use the XNPV function to calculate the Net Present Value in cell C47.
+**Step 2:** Use the XNPV function to calculate the Net Present Value.
 
 \[Hint: Use the following [link](https://exceljet.net/excel-functions/excel-xnpv-function) for a tutorial on the XNPV function\]
 
