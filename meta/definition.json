@@ -5,7 +5,8 @@
     "thumbnailsmall": "cover.jpg",
     "thumbnaillarge": "cover.jpg",
     "title": "Introduction to Financial Accounting",
-    "authors": [{
+    "authors": [
+      {
         "honorific": "Mr",
         "firstname": "Christine",
         "lastname": "Jonick",
@@ -74,116 +75,88 @@
   "definition": {
     "learning-objectives": {
       "LO1.1": {
-          "learning-objectives": {
-          }
+        "learning-objectives": {}
       },
       "LO1.2": {
-          "learning-objectives": {
-          }
-      },      
+        "learning-objectives": {}
+      },
       "LO2.1": {
-        "learning-objectives": {
-        }
+        "learning-objectives": {}
       },
       "LO2.2": {
-        "learning-objectives": { 
-          }
+        "learning-objectives": {}
       },
-      "LO3.1":{
-          "learning-objectives": {
-          }
+      "LO3.1": {
+        "learning-objectives": {}
       },
-      "LO3.2":{
-          "learning-objectives": {
-          }
+      "LO3.2": {
+        "learning-objectives": {}
       },
-      "LO4.1":{
-          "learning-objectives": {
-          }
+      "LO4.1": {
+        "learning-objectives": {}
       },
-      "LO4.2":{
-          "learning-objectives": {
-          }
+      "LO4.2": {
+        "learning-objectives": {}
       },
-      "LO5.1":{
-          "learning-objectives": {
-          }
+      "LO5.1": {
+        "learning-objectives": {}
       },
-      "LO5.2":{
-          "learning-objectives": {
-          }
+      "LO5.2": {
+        "learning-objectives": {}
       },
-      "LO6.1":{
-          "learning-objectives": {
-          }
+      "LO6.1": {
+        "learning-objectives": {}
       },
-      "LO6.2":{
-          "learning-objectives": {
-          }
+      "LO6.2": {
+        "learning-objectives": {}
       },
-      "LO7.1":{
-          "learning-objectives": {
-          }
+      "LO7.1": {
+        "learning-objectives": {}
       },
-      "LO7.2":{
-          "learning-objectives": {
-        }
+      "LO7.2": {
+        "learning-objectives": {}
       },
-      "LO8.1":{
-          "learning-objectives": {
-        }
+      "LO8.1": {
+        "learning-objectives": {}
       },
-      "LO8.2":{
-          "learning-objectives": {
-        }
+      "LO8.2": {
+        "learning-objectives": {}
       },
-      "LO9.1":{
-          "learning-objectives": {
-        }
+      "LO9.1": {
+        "learning-objectives": {}
       },
-      "LO9.2":{
-          "learning-objectives": {
-        }
+      "LO9.2": {
+        "learning-objectives": {}
       },
-      "LO9.3":{
-          "learning-objectives": {
-        }
+      "LO9.3": {
+        "learning-objectives": {}
       },
-      "LO10.1":{
-          "learning-objectives": {
-        }
+      "LO10.1": {
+        "learning-objectives": {}
       },
-      "LO10.2":{
-          "learning-objectives": {
-        }
+      "LO10.2": {
+        "learning-objectives": {}
       },
-      "LO10.3":{
-          "learning-objectives": {
-        }
+      "LO10.3": {
+        "learning-objectives": {}
       },
-      "LO11.1":{
-          "learning-objectives": {
-        }
+      "LO11.1": {
+        "learning-objectives": {}
       },
-      "LO11.2":{
-          "learning-objectives": {
-        }
+      "LO11.2": {
+        "learning-objectives": {}
       },
-      "LO12.1":{
-          "learning-objectives": {
-        }
+      "LO12.1": {
+        "learning-objectives": {}
       },
-      "LO12.2":{
-          "learning-objectives": {
-        }
+      "LO12.2": {
+        "learning-objectives": {}
       },
-      "LO13.1":{
-          "learning-objectives": {
-        }
+      "LO13.1": {
+        "learning-objectives": {}
       },
-      "LO13.2":{
-          "learning-objectives": {
-        }
+      "LO13.2": {
+        "learning-objectives": {}
       }
     },
     "tags": {
@@ -203,7 +176,8 @@
   },
   "items": {
     "model": {
-      "introduction": [{
+      "introduction": [
+        {
           "name": "About the Course",
           "item-type": "resource",
           "resource": "RE_About_Course",
@@ -265,1263 +239,9 @@
                 "visible": true
               }
             }
-          },
-          {
-            "name": "Accounts",
-            "item-type": "resource",
-            "resource": "RE_CH_1_SEC_2",
-            "item-code": "Chapter_1_Introduction/Accounts",
-            "tracking": true,
-            "embedded": [
-              {
-                "item-code": "Chapter_1_Introduction/Accounts/test-Emded",
-                "resource": "RE_CH_1_SEC_2_EM",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Accounting Equation",
-            "item-type": "resource",
-            "resource": "RE_CH_1_SEC_3",
-            "item-code": "Chapter_1_Introduction/Accounting_Equation",
-            "tracking": true,
-             "embedded": [
-              {
-                "item-code": "Chapter_1_Introduction/Accounting_Equation/test-Emded",
-                "resource": "RE_CH_1_SEC_3_EM",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],  
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Accounting Transactions",
-            "item-type": "resource",
-            "resource": "RE_CH_1_SEC_4",
-            "item-code": "Chapter_1_Introduction/Common_Accounting_Transactions",
-            "tracking": true,    
-            "embedded": [
-              {
-                "item-code": "Chapter_1_Introduction/Common_Accounting_Transactions/test-Emded",
-                "resource": "RE_CH_1_SEC_5_EM",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],                  
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Accounting Transactions Grid - Interactive Exercise",
-            "item-type": "resource",
-            "resource": "RE_CH_1_SEC_5",
-            "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid",
-            "tracking": true,   
-            "embedded": [
-              
-              {
-                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01",
-                "resource": "RE_CH_1_SEC_5_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              },
-              {
-                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_02",
-                "resource": "RE_CH_1_SEC_5_EM_02",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              },
-              {
-                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_03",
-                "resource": "RE_CH_1_SEC_5_EM_03",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              },
-              {
-                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_04",
-                "resource": "RE_CH_1_SEC_5_EM_04",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              },
-              {
-                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_05",
-                "resource": "RE_CH_1_SEC_5_EM_05",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              },
-              {
-                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_06",
-                "resource": "RE_CH_1_SEC_5_EM_06",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Summary",
-            "item-type": "resource",
-            "resource": "RE_CH_1_SEC_6",
-            "item-code": "Chapter_1_Introduction/Summary",
-            "tracking": true,   
-            "embedded": [
-              
-              {
-                "item-code": "Chapter_1_Introduction/Summary/test-Emded_01",
-                "resource": "RE_CH_1_SEC_6_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],          
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
           }
         ],
         "description": "A business is an entity that operates for profit, and accounting is a system that keeps track of a business’s economic events."
-      },
-      {
-        "name": "Recording Accounting Transactions",
-        "item-type": "folder",
-        "item-code": "Chapter_2_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Accounting Journal",
-            "item-type": "resource",
-            "resource": "RE_CH_2_SEC_1",
-            "item-code": "Chapter_2_Introduction/AccountingJournal",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Accounting Ledgers",
-            "item-type": "resource",
-            "resource": "RE_CH_2_SEC_2",
-            "item-code": "Chapter_2_Introduction/AccountingLedgers",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Trial Balance",
-            "item-type": "resource",
-            "resource": "RE_CH_2_SEC_3",
-            "item-code": "Chapter_2_Introduction/TrialBalance",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Additional Accounting Transactions",
-            "item-type": "resource",
-            "resource": "RE_CH_2_SEC_4",
-            "item-code": "Chapter_2_Introduction/AdditionalAccountingTransactions",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "A business’s economic events are captured chronologically in a journal and then reorganized by account in the ledgers."
-      },
-      {
-        "name": "Financial Statements",
-        "item-type": "folder",
-        "item-code": "Chapter_3_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Income statement",
-            "item-type": "resource",
-            "resource": "RE_CH_3_SEC_1",
-            "item-code": "Chapter_3_Introduction/IncomeStatement",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Retained Earnings Statement",
-            "item-type": "resource",
-            "resource": "RE_CH_3_SEC_2",
-            "item-code": "Chapter_3_Introduction/RetainedSarningsStatement",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Balance Sheet",
-            "item-type": "resource",
-            "resource": "RE_CH_3_SEC_3",
-            "item-code": "Chapter_3_Introduction/BalanceSheet",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Financial Statement Interrelationships",
-            "item-type": "resource",
-            "resource": "RE_CH_3_SEC_4",
-            "item-code": "Chapter_3_Introduction/FinancialStatementInterrelationships",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Comparative Income Statements",
-            "item-type": "resource",
-            "resource": "RE_CH_3_SEC_5",
-            "item-code": "Chapter_3_Introduction/ComparativeIncomeStatements",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "A business’s economic activity for a period is summarized in financial statements that include the income statement, retained earnings statement, and balance sheet."
-      },
-      {
-        "name": "Completing the accounting cycle",
-        "item-type": "folder",
-        "item-code": "Chapter_5_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "The accounting cycle",
-            "item-type": "resource",
-            "resource": "RE_CH_5_SEC_1",
-            "item-code": "Chapter_5_Introduction/TheAccountingCycle",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Closing Entries",
-            "item-type": "resource",
-            "resource": "RE_CH_5_SEC_2",
-            "item-code": "Chapter_5_Introduction/ClosingEntries",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Post-closing trial balance",
-            "item-type": "resource",
-            "resource": "RE_CH_5_SEC_3",
-            "item-code": "Chapter_5_Introduction/TheAccountingCycle",
-            "tracking": true,
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "The accounting process is cyclical, and once the current cycle is completed, the same recording and reporting activities are repeated in the next period of equal length."
-      },
-      {
-        "name": "Comprehensive Problem",
-        "item-type": "folder",
-        "item-code": "Chapter_4_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Introduction",
-            "item-type": "resource",
-            "resource": "RE_CH_4_SEC_1",
-            "item-code": "Chapter_4_Introduction/Introduction",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },        
-          {
-            "name": "Journalize the transactions for June",
-            "item-type": "resource",
-            "resource": "RE_CH_4_SEC_2_1",
-            "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2",
-            "tracking": true,    
-            "embedded": [              
-              {
-                "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2/test-Emded_01",
-                "resource": "RE_CH_4_SEC_2_EM_01_1",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],          
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },        
-          {
-            "name": "Post the June journal entries to the ledgers",
-            "item-type": "resource",
-            "resource": "RE_CH_4_SEC_5",
-            "item-code": "Chapter_4_Introduction/PostEntriesToTheLedgersOption2",
-            "tracking": true,      
-            "embedded": [              
-              {
-                "item-code": "Chapter_4_Introduction/PostEntriesToTheLedgersOption2/test-Emded",
-                "resource": "RE_CH_4_SEC_5_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],       
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Prepare the June trial balance",
-            "item-type": "resource",
-            "resource": "RE_CH_4_SEC_4",
-            "item-code": "Chapter_4_Introduction/PrepareTrialBalance",
-            "tracking": true,     
-            "embedded": [              
-              {
-                "item-code": "Chapter_4_Introduction/PrepareTrialBalance/test-Emded_01",
-                "resource": "RE_CH_4_SEC_4_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],        
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Prepare the June income statement, retained earnings statement and balance sheet",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_5",
-            "item-code": "Chapter_4_Introduction/IncomeStatement",
-            "tracking": true,   
-            "embedded": [              
-              {
-                "item-code": "Chapter_4_Introduction/IncomeStatement/test-Emded_01",
-                "resource": "RE_CH_6_SEC_1_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],           
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Journalize the closing entries for June",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_6",
-            "item-code": "Chapter_4_Introduction/ClosingEntries",
-            "tracking": true,    
-            "embedded": [              
-              {
-                "item-code": "Chapter_4_Introduction/ClosingEntries/test-Emded_01",
-                "resource": "RE_CH_6_SEC_6_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],         
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Post the June closing journal entries to the ledgers",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_6_1",
-            "item-code": "Chapter_4_Introduction/ClosingEntriesledgers",
-            "tracking": true,    
-            "embedded": [   
-              {
-                "item-code": "Chapter_4_Introduction/ClosingEntriesledgers/test-Emded_01",
-                "resource": "RE_CH_6_SEC_6_EM_02",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],         
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Prepare the June post-closing trial balance",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_7",
-            "item-code": "Chapter_4_Introduction/ClosingTrialBalance",
-            "tracking": true,    
-            "embedded": [              
-              {
-                "item-code": "Chapter_4_Introduction/ClosingTrialBalance/test-Emded_01",
-                "resource": "RE_CH_6_SEC_7_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              }
-            ],          
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Journalize the transactions for July",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_4_Introduction/JulyJurnal",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Post the July journal entries to the ledgers",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_4_Introduction/JulyLedgers",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Prepare the July trial balance",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_4_Introduction/JulyTrialBalance",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Prepare the July income statement, retained earnings statement, and balance sheet",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_4_Introduction/JulyIncomeStatement",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Journalize the closing entries for July",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_4_Introduction/JulyClosingEntries",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Post the July closing journal entries to the ledgers",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_4_Introduction/JulyClosingledgersEntries",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Prepare the July post-closing trial balance",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_4_Introduction/JulyClosingTrialBalance",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "The comprehensive problem covers the complete accounting cycle in terms of interpreting and recording transactions in the journal, posting to ledgers, preparing financial statements, and closing temporary account balances."
-      },
-      
-      {
-        "name": "Accounting cycle for a service business – accrual basis",
-        "item-type": "folder",
-        "item-code": "Chapter_6_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Accrual Basis of Accounting",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_6_Introduction/AccrualBasisAccounting",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Matching Principle",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_6_Introduction/MatchingPrinciple",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Adjusting Entries – Deferrals",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_6_Introduction/AdjustingEntriesDeferrals",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Adjusting Entries – Accruals",
-            "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
-            "item-code": "Chapter_6_Introduction/AdjustingEntriesAccruals",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "The accrual basis of accounting recognizes economic events when they take place, regardless of when the related cash transactions occur."
-      },
-      {
-        "name": "Accounting cycle for a merchandising business",
-        "item-type": "folder",
-        "item-code": "Chapter_7_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Introduction",
-            "item-type": "resource",
-            "resource": "RE_CH_8_SEC_1",
-            "item-code": "Chapter_8_Introduction/Introduction",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "A merchandising business buys finished and packaged manufactured products as inventory for sale, marks these items up, and sells them to customers."
-      },
-      {
-        "name": "Assets",
-        "item-type": "folder",
-        "item-code": "Chapter_8_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Inventory",
-            "item-type": "resource",
-            "resource": "RE_CH_8_SEC_1",
-            "item-code": "Chapter_8_Introduction/Inventory",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Cash",
-            "item-type": "resource",
-            "resource": "RE_CH_7_SEC_1",
-            "item-code": "Chapter_7_Introduction/Cash",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Note Receivable",
-            "item-type": "resource",
-            "resource": "RE_CH_7_SEC_1",
-            "item-code": "Chapter_7_Introduction/NoteReceivable",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Uncollectible Accounts",
-            "item-type": "resource",
-            "resource": "RE_CH_7_SEC_1",
-            "item-code": "Chapter_7_Introduction/UncollectibleAccounts",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Property, Plant and Equipment",
-            "item-type": "resource",
-            "resource": "RE_CH_7_SEC_1",
-            "item-code": "Chapter_7_Introduction/PropertyPlantEquipment",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Intangible Assets",
-            "item-type": "resource",
-            "resource": "RE_CH_7_SEC_1",
-            "item-code": "Chapter_7_Introduction/IntangibleAssets",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Investments",
-            "item-type": "resource",
-            "resource": "RE_CH_7_SEC_1",
-            "item-code": "Chapter_7_Introduction/Investments",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "Assets are items of value to a business, including things a business owns so it can operate. Common asset classifications are current; long-term; property, plant and equipment; and intangible."
-      },
-      {
-        "name": "Liabilities",
-        "item-type": "folder",
-        "item-code": "Chapter_9_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Sales Taxes",
-            "item-type": "resource",
-            "resource": "RE_CH_8_SEC_1",
-            "item-code": "Chapter_9_Introduction/SalesTaxes",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Payroll",
-            "item-type": "resource",
-            "resource": "RE_CH_8_SEC_1",
-            "item-code": "Chapter_9_Introduction/Payroll",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Notes Payable",
-            "item-type": "resource",
-            "resource": "RE_CH_8_SEC_1",
-            "item-code": "Chapter_9_Introduction/NotesPayable",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Bonds",
-            "item-type": "resource",
-            "resource": "RE_CH_8_SEC_1",
-            "item-code": "Chapter_9_Introduction/Bonds",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "Liabilities are claims on a company's assets by people and entities that are not the owners of the business. Simply put, liabilities are debts. Liabilities are classified as either short or long-term."
-      },
-      {
-        "name": "Stockholders Equity",
-        "item-type": "folder",
-        "item-code": "Chapter_10_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Issuing Stock",
-            "item-type": "resource",
-            "resource": "RE_CH_10_SEC_1",
-            "item-code": "Chapter_10_Introduction/IssuingStock",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Treasury Stock",
-            "item-type": "resource",
-            "resource": "RE_CH_10_SEC_1",
-            "item-code": "Chapter_10_Introduction/TreasuryStock",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Cash Dividends",
-            "item-type": "resource",
-            "resource": "RE_CH_10_SEC_1",
-            "item-code": "Chapter_10_Introduction/CashDividends",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Stock Dividends",
-            "item-type": "resource",
-            "resource": "RE_CH_10_SEC_1",
-            "item-code": "Chapter_10_Introduction/StockDividends",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Stock Splits",
-            "item-type": "resource",
-            "resource": "RE_CH_10_SEC_1",
-            "item-code": "Chapter_10_Introduction/StockSplits",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Stockholders' Equity Section of the Balance Sheet",
-            "item-type": "resource",
-            "resource": "RE_CH_10_SEC_1",
-            "item-code": "Chapter_10_Introduction/StockholdersEquity",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "Stockholders’ equity is the stockholders’ share of ownership of the assets that the business possesses. It includes both the investments that owners have made in the business and the income that the business has generated through its operations."
-      },
-      {
-        "name": "Statement of Cash Flows",
-        "item-type": "folder",
-        "item-code": "Chapter_11_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Types of Business Activities",
-            "item-type": "resource",
-            "resource": "RE_CH_11_SEC_1",
-            "item-code": "Chapter_11_Introduction/TypeBusinessActivities",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Cash Inflows and Outflows",
-            "item-type": "resource",
-            "resource": "RE_CH_11_SEC_1",
-            "item-code": "Chapter_11_Introduction/CashInflowsOutflows",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Statement of Cash Flows: Direct Method",
-            "item-type": "resource",
-            "resource": "RE_CH_11_SEC_1",
-            "item-code": "Chapter_11_Introduction/StatementCashFlowsDirect",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Statement of Cash Flows: Indirect Method",
-            "item-type": "resource",
-            "resource": "RE_CH_11_SEC_1",
-            "item-code": "Chapter_11_Introduction/StatementCashFlowsIndirect",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "The statement of cash flows is a financial statement that shows how changes in balance sheet accounts and income affect cash and cash equivalents in terms of operating, investing, and financing activities."
-      },
-      {
-        "name": "Financial Statement Analysis",
-        "item-type": "folder",
-        "item-code": "Chapter_12_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Horizontal Analysis",
-            "item-type": "resource",
-            "resource": "RE_CH_12_SEC_1",
-            "item-code": "Chapter_12_Introduction/HorizontalAnalysis",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Vertical Analysis",
-            "item-type": "resource",
-            "resource": "RE_CH_12_SEC_1",
-            "item-code": "Chapter_12_Introduction/VerticalAnalysis",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Common-size Statements",
-            "item-type": "resource",
-            "resource": "RE_CH_12_SEC_1",
-            "item-code": "Chapter_12_Introduction/CommonSizeStatements",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Ratio Analysis",
-            "item-type": "resource",
-            "resource": "RE_CH_12_SEC_1",
-            "item-code": "Chapter_12_Introduction/RatioAnalysis",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Liquidity Measures",
-            "item-type": "resource",
-            "resource": "RE_CH_12_SEC_1",
-            "item-code": "Chapter_12_Introduction/LiquidityMeasures",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Solvency Measures",
-            "item-type": "resource",
-            "resource": "RE_CH_12_SEC_1",
-            "item-code": "Chapter_12_Introduction/SolvencyMeasures",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Profitability Measures",
-            "item-type": "resource",
-            "resource": "RE_CH_12_SEC_1",
-            "item-code": "Chapter_12_Introduction/ProfitabilityMeasures",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "Financial statement analysis is the process of reviewing and analyzing a company's financial statements, often times using ratios and other metrics, to make better economic decisions and increase earnings in the future."
-      },
-      {
-        "name": "Time Value of Money",
-        "item-type": "folder",
-        "item-code": "Chapter_13_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Introduction",
-            "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_13_Introduction/Introduction",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Present Value of Future Cash Flows",
-            "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_13_Introduction/cashFlow",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Net Present Value &amp; Internal Rate of Return",
-            "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_13_Introduction/cashFlow",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "The time value of money is the concept that money available now is worth more than the identical amount in the future due to its potential to generate earnings over time."
-      },
-      {
-        "name": "Forecasting Cash Flows & Investment Analysis",
-        "item-type": "folder",
-        "item-code": "Chapter_14_Introduction",
-        "sub-type": "default",
-        "items": [{
-            "name": "Introduction",
-            "item-type": "resource",
-            "resource": "RE_CH_14_SEC_1",
-            "item-code": "Chapter_14_Introduction/Introduction",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Initial Start-up Costs & [Building a Pro Forma Balance Sheet]",
-            "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_14_Introduction/InitialStartUp",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Modeling Monthly Membership and Revenue",
-            "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_14_Introduction/ModeMonthlyMember",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Calculating Monthly Operating Costs",
-            "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_14_Introduction/CalculatingMonthlyCost",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Building a Pro Forma Income Statement",
-            "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_14_Introduction/BuildingProForma",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Modeling Annual Cash Flows",
-            "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_14_Introduction/ModelingAnnumalCash",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Calculating Net Present Value",
-            "item-type": "resource",
-            "resource": "RE_CH_14_SEC_7",
-            "item-code": "Chapter_14_Introduction/calNetPreValue",
-            "tracking": true,     
-            "embedded": [              
-              {
-                "item-code": "Chapter_14_Introduction/calNetPreValue/test-Emded_01",
-                "resource": "RE_CH_1_SEC_14_EM_01",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              },
-              {
-                "item-code": "Chapter_14_Introduction/calNetPreValue/test-Emded_02",
-                "resource": "RE_CH_1_SEC_14_EM_02",
-                "item-type": "resource",
-                "name": "Emb Test 2",
-                "tracking": false
-              }
-            ],         
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          },
-          {
-            "name": "Sensitivity Analysis",
-            "item-type": "resource",
-            "resource": "RE_CH_13_SEC_1",
-            "item-code": "Chapter_14_Introduction/SensitivityAnalysis",
-            "tracking": true,            
-            "attribs": {
-              "mark-as-complete": {
-                "delay": 0,
-                "visible": true
-              }
-            }
-          }
-        ],
-        "description": "Forecasting is a planning tool that helps management deal with the uncertainty of the future by looking at data from the past, considering the current economic, social, and political status, and analyzing trends."
       }
     ]
   },
@@ -1563,7 +283,10 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/01_BusinessConcepts.md"
         },
         "description": "",
-        "learning-objectives": ["LO1.1", "LO1.2"]
+        "learning-objectives": [
+          "LO1.1",
+          "LO1.2"
+        ]
       },
       "RE_CH_1_SEC_2": {
         "sub-type": "md",
@@ -1574,7 +297,10 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/02_Accounts.md"
         },
         "description": "",
-        "learning-objectives": ["LO2.1", "LO2.2"]
+        "learning-objectives": [
+          "LO2.1",
+          "LO2.2"
+        ]
       },
       "RE_CH_1_SEC_3": {
         "sub-type": "md",
@@ -1585,7 +311,10 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/03_AccountingEquation.md"
         },
         "description": "",
-        "learning-objectives": ["LO3.1", "LO3.2"]
+        "learning-objectives": [
+          "LO3.1",
+          "LO3.2"
+        ]
       },
       "RE_CH_1_SEC_4": {
         "sub-type": "md",
@@ -1596,7 +325,10 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/04_CommonAccountingTransactions.md"
         },
         "description": "",
-        "learning-objectives": ["LO4.1", "LO4.2"]
+        "learning-objectives": [
+          "LO4.1",
+          "LO4.2"
+        ]
       },
       "RE_CH_1_SEC_5": {
         "sub-type": "md",
@@ -1607,7 +339,11 @@
           "url": "Chapter_1_Introduction_to_business_and_accounting_concepts/05_AccountingTransactionsGrid.md"
         },
         "description": "",
-        "learning-objectives": ["LO3.1","LO4.1","LO4.2"]
+        "learning-objectives": [
+          "LO3.1",
+          "LO4.1",
+          "LO4.2"
+        ]
       },
       "RE_CH_1_SEC_6": {
         "sub-type": "md",
@@ -1652,7 +388,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },  
+      },
       "RE_CH_1_SEC_5_EM": {
         "sub-type": "test",
         "tags": [
@@ -1663,7 +399,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      }, 
+      },
       "RE_CH_1_SEC_6_EM_01": {
         "sub-type": "test",
         "tags": [
@@ -1675,7 +411,7 @@
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
       },
-    "RE_CH_1_SEC_5_EM_01": {
+      "RE_CH_1_SEC_5_EM_01": {
         "sub-type": "test",
         "tags": [
           "Practice"
@@ -1685,8 +421,8 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },  
-    "RE_CH_1_SEC_14_EM_01": {
+      },
+      "RE_CH_1_SEC_14_EM_01": {
         "sub-type": "test",
         "tags": [
           "Practice"
@@ -1696,8 +432,8 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      }, 
-     "RE_CH_1_SEC_14_EM_02": {
+      },
+      "RE_CH_1_SEC_14_EM_02": {
         "sub-type": "test",
         "tags": [
           "Practice"
@@ -1707,7 +443,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      }, 
+      },
       "RE_CH_1_SEC_5_EM_02": {
         "sub-type": "test",
         "tags": [
@@ -1718,7 +454,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },  
+      },
       "RE_CH_1_SEC_5_EM_03": {
         "sub-type": "test",
         "tags": [
@@ -1729,7 +465,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },  
+      },
       "RE_CH_1_SEC_5_EM_04": {
         "sub-type": "test",
         "tags": [
@@ -1740,7 +476,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      }, 
+      },
       "RE_CH_1_SEC_5_EM_05": {
         "sub-type": "test",
         "tags": [
@@ -1751,7 +487,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },  
+      },
       "RE_CH_1_SEC_5_EM_06": {
         "sub-type": "test",
         "tags": [
@@ -1762,7 +498,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },    
+      },
       "RE_CH_2_SEC_1": {
         "sub-type": "md",
         "tags": [
@@ -1772,7 +508,10 @@
           "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO6.1","LO6.2"]
+        "learning-objectives": [
+          "LO6.1",
+          "LO6.2"
+        ]
       },
       "RE_CH_2_SEC_2": {
         "sub-type": "md",
@@ -1783,7 +522,10 @@
           "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO7.1","LO7.2"]
+        "learning-objectives": [
+          "LO7.1",
+          "LO7.2"
+        ]
       },
       "RE_CH_2_SEC_3": {
         "sub-type": "md",
@@ -1794,7 +536,10 @@
           "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO8.1","LO8.2"]
+        "learning-objectives": [
+          "LO8.1",
+          "LO8.2"
+        ]
       },
       "RE_CH_2_SEC_4": {
         "sub-type": "md",
@@ -1805,7 +550,10 @@
           "url": "Chapter_2_Recording_accounting_transactions/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO6.1","LO6.2"]
+        "learning-objectives": [
+          "LO6.1",
+          "LO6.2"
+        ]
       },
       "RE_CH_3_SEC_1": {
         "sub-type": "md",
@@ -1816,7 +564,9 @@
           "url": "Chapter_3_Financial_statements/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO9.1"]
+        "learning-objectives": [
+          "LO9.1"
+        ]
       },
       "RE_CH_3_SEC_2": {
         "sub-type": "md",
@@ -1827,7 +577,9 @@
           "url": "Chapter_3_Financial_statements/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO9.2"]
+        "learning-objectives": [
+          "LO9.2"
+        ]
       },
       "RE_CH_3_SEC_3": {
         "sub-type": "md",
@@ -1838,7 +590,9 @@
           "url": "Chapter_3_Financial_statements/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO9.3"]
+        "learning-objectives": [
+          "LO9.3"
+        ]
       },
       "RE_CH_3_SEC_4": {
         "sub-type": "md",
@@ -1849,7 +603,9 @@
           "url": "Chapter_3_Financial_statements/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO10.1"]
+        "learning-objectives": [
+          "LO10.1"
+        ]
       },
       "RE_CH_3_SEC_5": {
         "sub-type": "md",
@@ -1860,7 +616,9 @@
           "url": "Chapter_3_Financial_statements/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO10.2"]
+        "learning-objectives": [
+          "LO10.2"
+        ]
       },
       "RE_CH_4_SEC_1": {
         "sub-type": "md",
@@ -1873,7 +631,6 @@
         "description": "",
         "learning-objectives": []
       },
-     
       "RE_CH_4_SEC_2_1": {
         "sub-type": "md",
         "tags": [
@@ -1883,8 +640,11 @@
           "url": "Chapter_4_ComprehensiveProblem/02_Journalize_the_transactions_for_June_1.md"
         },
         "description": "",
-        "learning-objectives": ["LO6.1","LO6.2"]
-      },      
+        "learning-objectives": [
+          "LO6.1",
+          "LO6.2"
+        ]
+      },
       "RE_CH_4_SEC_2_EM_01_1": {
         "sub-type": "test",
         "tags": [
@@ -1895,7 +655,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      }, 
+      },
       "RE_CH_4_SEC_2_EM_01_2": {
         "sub-type": "test",
         "tags": [
@@ -1906,7 +666,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },    
+      },
       "RE_CH_4_SEC_5_EM_01": {
         "sub-type": "test",
         "tags": [
@@ -1928,7 +688,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },  
+      },
       "RE_CH_6_SEC_1_EM_01": {
         "sub-type": "test",
         "tags": [
@@ -1939,7 +699,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },   
+      },
       "RE_CH_6_SEC_6_EM_01": {
         "sub-type": "test",
         "tags": [
@@ -1950,7 +710,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },  
+      },
       "RE_CH_6_SEC_6_EM_02": {
         "sub-type": "test",
         "tags": [
@@ -1961,7 +721,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      }, 
+      },
       "RE_CH_6_SEC_7_EM_01": {
         "sub-type": "test",
         "tags": [
@@ -1972,7 +732,7 @@
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
-      },  
+      },
       "RE_CH_4_SEC_5": {
         "sub-type": "md",
         "tags": [
@@ -1982,7 +742,10 @@
           "url": "Chapter_4_ComprehensiveProblem/03_Post_the_June_journal_entries_to_the_ledgers_Opt2.md"
         },
         "description": "",
-        "learning-objectives": ["LO7.1","LO7.2"]
+        "learning-objectives": [
+          "LO7.1",
+          "LO7.2"
+        ]
       },
       "RE_CH_4_SEC_4": {
         "sub-type": "md",
@@ -1993,9 +756,11 @@
           "url": "Chapter_4_ComprehensiveProblem/04_Prepare_the _June_trial_balance.md"
         },
         "description": "",
-        "learning-objectives": ["LO8.1","LO8.2"]
+        "learning-objectives": [
+          "LO8.1",
+          "LO8.2"
+        ]
       },
-     
       "RE_CH_5_SEC_1": {
         "sub-type": "md",
         "tags": [
@@ -2005,7 +770,10 @@
           "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon.md"
         },
         "description": "",
-       "learning-objectives": ["LO11.1","LO11.2"]
+        "learning-objectives": [
+          "LO11.1",
+          "LO11.2"
+        ]
       },
       "RE_CH_5_SEC_2": {
         "sub-type": "md",
@@ -2016,7 +784,9 @@
           "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO12.1"]
+        "learning-objectives": [
+          "LO12.1"
+        ]
       },
       "RE_CH_5_SEC_3": {
         "sub-type": "md",
@@ -2027,7 +797,9 @@
           "url": "Chapter_5_Completing_the_accounting_cycle/ComingSoon.md"
         },
         "description": "",
-        "learning-objectives": ["LO12.2"]
+        "learning-objectives": [
+          "LO12.2"
+        ]
       },
       "RE_CH_6_SEC_1": {
         "sub-type": "md",
@@ -2049,7 +821,11 @@
           "url": "Chapter_4_ComprehensiveProblem/05_Prepare_the _June_income_statement_retained_earnings_statement_and_balance_sheet.md"
         },
         "description": "",
-        "learning-objectives": ["LO9.1","LO9.2","LO9.3"]
+        "learning-objectives": [
+          "LO9.1",
+          "LO9.2",
+          "LO9.3"
+        ]
       },
       "RE_CH_6_SEC_6": {
         "sub-type": "md",
@@ -2071,7 +847,10 @@
           "url": "Chapter_4_ComprehensiveProblem/06_Journalize_and_post_the_closing_entries_for_June _1.md"
         },
         "description": "",
-        "learning-objectives": ["LO12.1","LO12.2"]
+        "learning-objectives": [
+          "LO12.1",
+          "LO12.2"
+        ]
       },
       "RE_CH_6_SEC_7": {
         "sub-type": "md",
@@ -2183,7 +962,6 @@
         "description": "",
         "learning-objectives": []
       }
-
     },
     "test": {},
     "ebook": {}
