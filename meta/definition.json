@@ -786,7 +786,16 @@
             "item-type": "resource",
             "resource": "RE_CH_6_SEC_1",
             "item-code": "Chapter_4_Introduction/JulyLedgers",
-            "tracking": true,            
+            "tracking": true,   
+            "embedded": [   
+              {
+                "item-code": "Chapter_4_Introduction/JulyLedgers/test-Emded_01",
+                "resource": "RE_CH_6_SEC_1_EM_02",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],          
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -2182,8 +2191,18 @@
         },
         "description": "",
         "learning-objectives": []
-      }
-
+      },
+     "RE_CH_6_SEC_1_EM_02": {
+      "sub-type": "test",
+      "tags": [
+        "Practice"
+      ],
+      "test": {
+        "url": "Comprehensive-Problem-JulyLedgers"
+      },
+      "description": "fundamentals - units - Test your understanding",
+      "learning-objectives": []
+    }
     },
     "test": {},
     "ebook": {}
