@@ -468,20 +468,6 @@
           "resource": "RE_00028"
         }
       ]
-    },
-    {
-      "name": "Comprehensive-Problem-JulyLedgers",
-      "item-code": "Comprehensive-Problem-JulyLedgers",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Comprehensive-Problem-JulyLedgers/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00052"
-        }
-      ]
     }
   ],
   "resources": {
@@ -4056,89 +4042,5 @@
       ]
     }
   },
-  "RE_00052": {
-      "meta": {
-        "type": "COSMATTCOMPREWIDGET",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "comprehensive-prob",
-        "options": {
-          "data": {
-            "view": {
-              "sidebyside": {
-                "leftSideData": {
-                  "type": "grid",
-                  "height": "scroll",
-                  "publishedId": "leo-leonardo-demo-575"
-                },
-                "rightSideData": {
-                  "type": "grid",
-                  "height": "expand",
-                  "publishedId": "leo-leonardo-demo-576"
-                },
-                "ratio": [
-                  "46",
-                  "54"
-                ],
-                "resizer": true
-              }
-            }
-          }
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Post the July journal entries to the ledgers"
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "COSMATTCOMPREWIDGET",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Post the July journal entries from Section 5.9 (shown in the left grid) to the ledgers shown on the right. Click the ‘Submit’ button once you have completed the exercise.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
   "test": {}
 }
