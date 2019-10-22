@@ -479,7 +479,7 @@
           "name": "Question 1",
           "item-code": "Comprehensive-Problem-JulyLedgers/Question-1",
           "item-type": "resource",
-          "resource": "RE_00017"
+          "resource": "RE_00052"
         }
       ]
     }
@@ -4054,9 +4054,8 @@
       "tags": [
         "test"
       ]
-    }
-  },
-  "RE_00052": {
+    },
+    "RE_00052": {
       "meta": {
         "type": "COSMATTCOMPREWIDGET",
         "score": {
@@ -4073,12 +4072,12 @@
               "sidebyside": {
                 "leftSideData": {
                   "type": "grid",
-                  "height": "scroll",
+                  "height": "expand",
                   "publishedId": "leo-leonardo-demo-575"
                 },
                 "rightSideData": {
                   "type": "grid",
-                  "height": "expand",
+                  "height": "scroll",
                   "publishedId": "leo-leonardo-demo-576"
                 },
                 "ratio": [
@@ -4139,6 +4138,7 @@
       "tags": [
         "test"
       ]
-    },
+    }
+  }, 
   "test": {}
 }
