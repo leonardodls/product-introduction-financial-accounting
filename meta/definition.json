@@ -222,7 +222,7 @@
             "name": "Problem Sets",
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_1",
-            "item-code": "Chapter_1_Introduction/ProblemSets",
+            "item-code": "Chapter_1_Assessment/ProblemSets",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
