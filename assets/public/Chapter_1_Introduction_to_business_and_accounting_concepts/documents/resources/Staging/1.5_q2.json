@@ -1,0 +1,14 @@
+{
+  "type": "assessment",
+  "options": {
+    "data": {
+      "meta": {
+        "renderOverrides": {
+          "showOverallGradingStatus": true,
+          "showFeedbackOnlyIfValueChanged": true
+        }
+      }
+    },
+    "id": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01"
+  }
+}

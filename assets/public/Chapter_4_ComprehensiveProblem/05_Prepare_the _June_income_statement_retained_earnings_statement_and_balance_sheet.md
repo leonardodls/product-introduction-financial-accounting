@@ -1,6 +1,6 @@
 ## Instructions
 
-Create the Income Statement, Retained Earnings Statement and Balance Sheet, for the month ended June 30, using the trial balance shown on the left. 
+Create the income statement, retained earnings statement and balance sheet, for the month ended June 30, using the trial balance shown on the left. 
 
 ```
 [cosmatt-widget]

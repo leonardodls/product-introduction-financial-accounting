@@ -1,0 +1,17 @@
+{
+  "type": "assessment",
+  "options": {
+    "id": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_04",
+    "data": {
+      "meta": {
+        "renderOverrides": {
+          "widgetStyles": {
+            "border": "1px solid #ddd",
+            "box-shadow":"none"
+          },
+          "horizontalAlignment": "center"
+        }
+      }
+    }
+  }
+}

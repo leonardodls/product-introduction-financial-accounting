@@ -1,4 +1,4 @@
-The items that a business keeps track of are called **accounts**. Each of these accounts is one of five the main types.
+The items that a business keeps track of are called **accounts**. Each of these accounts is one of the five main types.
 
 ## Assets
 
