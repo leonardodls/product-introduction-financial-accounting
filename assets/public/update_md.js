@@ -8,6 +8,7 @@ var skip = 0;
 var ignoreText = false;
 
 lineReader.eachLine(mdFilePath, (line, last) => {
+  
   if (last) {
     appendDataToFile(line);
     fs.unlinkSync(mdFilePath);
@@ -36,10 +37,11 @@ lineReader.eachLine(mdFilePath, (line, last) => {
     line = line.split('*****').join('\\');
     appendDataToFile(line + '\n');
   } else if (line.indexOf('](') != -1 && line.indexOf('http') == -1) {
-
+   
     // RegExp for string starting at `](` followed by any number of characters and ending at `)`
     var urlRegex = /\]\((.*?)\)/;
     var refUrl = urlRegex.exec(line)[1];
+    //console.log("fffffffffffffffffffffffffffff",line);
     while (refUrl) {
       if (refUrl.indexOf('..') == -1 && refUrl.indexOf('ITEM_CODE:') == -1){
         appendDataToFile(line + '\n');

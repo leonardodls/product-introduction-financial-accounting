@@ -270,7 +270,7 @@ function exportDocxMedia(docPath) {
 }
 
 function para_filter(value) {
-
+  //console.log("fffffffffffffffffffffffffffff");
   var multiple_quote_block = {
     "t": "RawInline",
     "c": ["", "\n```\n"]
@@ -287,8 +287,9 @@ function para_filter(value) {
   };
 
   var modified_value = [];
-
+  
   for (var j = 0; j < value.length; j++) {
+  
     if (value[j].t == "Math") {
       // Appending Triple Quotes and Single Quotes based on Block value
       if (value[j].c[0].t == "InlineMath") {
