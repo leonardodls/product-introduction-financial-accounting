@@ -13,7 +13,7 @@ Now we will use our understanding of common accounting transactions that we lear
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_02","data":{}}} 
+ {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_02","data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"showFeedbackOnlyIfValueChanged":true}}}}} 
 ```
 
 **3. Complete the accounting transactions grid for the following transactions related to purchases from vendors.**
