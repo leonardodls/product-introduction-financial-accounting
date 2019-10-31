@@ -220,7 +220,8 @@
         "items": [
            {
             "name": "Instructions",
-            "item-type": "resource",           
+            "item-type": "resource",    
+            "resource": "RE_CH_1_SEC_1",       
             "item-code": "Chapter_1_Assessment/Instructions",
             "tracking": true,            
             "attribs": {
@@ -258,7 +259,8 @@
           },
           {
             "name": "Summary",
-            "item-type": "resource",            
+            "item-type": "resource",   
+            "resource": "RE_CH_1_SEC_4",          
             "item-code": "Chapter_1_Assessment/Summary",
             "tracking": true,            
             "attribs": {
@@ -302,7 +304,15 @@
         "description": "",
         "learning-objectives": []
       },
-      
+      "RE_CH_1_SEC_1": {
+        "sub-type": "md",
+        "tags": [],
+        "md": {
+          "url": "Foreword/Foreword.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
       "RE_CH_1_SEC_2": {
         "sub-type": "test",
         "tags": [
@@ -321,6 +331,15 @@
         ],
         "test": {
           "url": "Introduction-Feedback"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_4": {
+        "sub-type": "md",
+        "tags": [],
+        "md": {
+          "url": "Foreword/Foreword.md"
         },
         "description": "",
         "learning-objectives": []
