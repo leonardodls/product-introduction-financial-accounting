@@ -44,7 +44,9 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 </tbody>
 </table>
 
-In the journal, the column heading **Debit** means “left” and **Credit** means “right” in terms of the column where an account’s dollar amount should be entered.
+\[Notes Box\]
+
+*“In the journal, the column heading **Debit** means “left” and **Credit** means “right” in terms of the column where an account’s dollar amount should be entered.” *
 
 ## Rules of Debit and Credit
 
@@ -58,10 +60,8 @@ Whether an account’s amount should be entered in the debit column or the credi
 <th>ACCOUNT<br />
 TYPE</th>
 <th>ACCOUNTS </th>
-<th>TO<br />
-INCREASE</th>
-<th>TO<br />
-DECREASE</th>
+<th>DEBIT</th>
+<th>CREDIT</th>
 </tr>
 </thead>
 <tbody>
@@ -72,34 +72,34 @@ Accounts Receivable<br />
 Equipment<br />
 Building<br />
 Land                                     </td>
-<td>debit</td>
-<td>credit</td>
+<td>↑</td>
+<td>↓</td>
 </tr>
 <tr class="even">
 <td><strong>Contra Asset</strong></td>
 <td>Accumulated Depreciation</td>
-<td>credit</td>
-<td>debit</td>
+<td>↓</td>
+<td>↑</td>
 </tr>
 <tr class="odd">
 <td><strong>Liability</strong></td>
 <td>Accounts Payable<br />
 Note Payable</td>
-<td>credit</td>
-<td>debit</td>
+<td>↓</td>
+<td>↑</td>
 </tr>
 <tr class="even">
 <td><strong>Stockholders’ Equity</strong></td>
 <td><p>Common Stock </p>
 <p>Retained Earnings</p></td>
-<td>credit</td>
-<td>debit</td>
+<td>↓</td>
+<td>↑</td>
 </tr>
 <tr class="odd">
 <td><strong>Revenue</strong></td>
 <td>Fees Earned</td>
-<td>credit</td>
-<td>debit</td>
+<td>↓</td>
+<td>↑</td>
 </tr>
 <tr class="even">
 <td><strong>Expense</strong></td>
@@ -111,10 +111,8 @@ Insurance Expense<br />
 Advertising Expense<br />
 Maintenance Expense<br />
 Miscellaneous Expense</td>
-<td>debit</td>
-<td><p> </p>
-<p>credit</p>
-<p> </p></td>
+<td>↑</td>
+<td>↓</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,8 @@
 LO: Summarize the running balances from all the ledger accounts in one convenient form which verifies that total debit amounts equal total credit amounts.
 
-The total of all the debit balances in a company’s ledger accounts must always equal the total of all the credit balances. 
+\[Notes Box\]
+
+*“The total of all the debit balances in a company’s ledger accounts must always equal the total of all the credit balances” *
 
 A **trial balance** is a list of all a business’s accounts and its current ledger balances (copied over from the ledger accounts). A trial balance may be generated at any time to test whether total debits equals total credits. If both of the Total columns do not equal, there is an error that must be found and corrected.
 

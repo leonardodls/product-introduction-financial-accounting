@@ -2,7 +2,7 @@ LO: Journalize additional transactions by applying the rules of debit and credit
 
   - Journalize sales transactions both for cash and on account.
 
-1.  Core Fitness sells a membership to a customer for $100 and receives cash. When a business provides a service to a customer, the customer may immediately pay with cash.
+1.  Core Fitness sells a membership to Frank for $100 and receives cash. When a business provides a service to a customer, the customer may immediately pay with cash.
 
 <table>
 <tbody>
@@ -60,7 +60,7 @@ LO: Journalize additional transactions by applying the rules of debit and credit
 </tbody>
 </table>
 
-2.  Core Fitness provides a servicesells a membership to Maya and sends her an invoice for $200. Maya purchased a membership but has not paid for it yet.  Therefore Core Fitness does not receive cash and the company’s Accounts Receivable increases.
+2.  Core Fitness sells a membership to Maya and sends her an invoice for $200. Maya purchased a membership but has not paid for it yet.  Therefore Core Fitness does not receive cash and the company’s Accounts Receivable increases.
 
 <table>
 <tbody>
@@ -118,7 +118,9 @@ LO: Journalize additional transactions by applying the rules of debit and credit
 </tbody>
 </table>
 
-*Accounts Receivable* is an asset account that keeps track of how much customers owe because a business sent them invoices for goods or services rather than immediately receiving cash from them. This account is used as a substitute for a debit to *Cash* when a company provides services to customers and bills them **on account** rather than receiving cash right away. The expectation is that the customer will pay within a specified time period, usually 30 days.
+*\[Notes Box\]*
+
+*“*Accounts Receivable *is an asset account that keeps track of how much customers owe because a* *business sent them invoices for goods or services rather than immediately receiving cash from them. This account is used as a substitute for a debit to Cash when a company provides services to customers and bills them **on account** rather than receiving cash right away. The expectation is that the customer will pay within a specified time period, usually 30 days.”*
 
 3.  Core Fitness receives payment on account from Maya who had been invoiced for the membership sold to her on 6/1.
 

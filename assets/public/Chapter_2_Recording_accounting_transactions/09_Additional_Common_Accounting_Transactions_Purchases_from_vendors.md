@@ -2,7 +2,7 @@ LO: Journalize additional transactions by applying the rules of debit and credit
 
   - Journalize purchase transactions both for cash and on account.
 
-1.  Core Fitness purchases bathroom supplies from Easy Clean, Inc. for $100 to be used this month and pays cash.
+1.  Core Fitness purchases bathroom supplies from Easy Clean, Inc. for $100 to be used this month and pays cash immediately.
 
 <table>
 <tbody>
@@ -60,11 +60,7 @@ LO: Journalize additional transactions by applying the rules of debit and credit
 </tbody>
 </table>
 
-Core Fitness paid Easy Clean cash immediately. 
-
-When a business purchases supplies from a vendor, it may immediately pay with cash.
-
-2\. Core Fitness purchases cleaning supplies,from Easy Clean  to be used this month for $200 on account and receives an invoice from Easy Clean.
+2\. Core Fitness purchases cleaning supplies from Easy Clean  to be used this month for $200 on account and receives an invoice from Easy Clean.
 
 <table>
 <tbody>
@@ -122,9 +118,11 @@ When a business purchases supplies from a vendor, it may immediately pay with ca
 </tbody>
 </table>
 
-*The amount Core Fitness owes to Easy Clean is in the Accounts Payable account.  *
+The amount Core Fitness owes to Easy Clean is in the Accounts Payable account.  
 
-*Accounts Payable* is a liability account that keeps track of how much a business owes because it was billed by vendors rather than immediately paying cash. A liability is a debt a business owes. The *Accounts Payable* account is used as a substitute for Cash when a business purchases something or receives a service from a vendor and does not pay cash immediately, but instead is billed on account (sent an invoice) and expected to pay in the future.
+*\[Notes Box\]*
+
+*“*Accounts Payable *is a liability account that keeps track of how much a business owes because it was billed by vendors rather than immediately paying cash. A liability is a debt a business owes. The* Accounts Payable *account is used as a substitute for Cash when a business purchases something or receives a service from a vendor and does not pay cash immediately, but instead is billed on account (sent an invoice) and expected to pay in the future.”*
 
 3\. Core Fitness pays Easy Clean on account for the invoice it received on 6/1.
 
@@ -184,7 +182,7 @@ When a business purchases supplies from a vendor, it may immediately pay with ca
 </tbody>
 </table>
 
-When the companyCore Fitness pays the invoice to Easy Clean, *Accounts Payable* is debited to decrease it and *Cash* is credited to decrease it. The company’sCore Fitness’ *Accounts Payable* balance becomes zero now that it has paid in full. This is shown in the following *Accounts Payable* ledger where transactions \#2 and \#3 are posted.
+When Core Fitness pays the invoice to Easy Clean, *Accounts Payable* is debited to decrease it and *Cash* is credited to decrease it. Core Fitness’ *Accounts Payable* balance becomes zero now that it has paid in full. This is shown in the following *Accounts Payable* ledger where transactions \#2 and \#3 are posted.
 
 <table>
 <thead>

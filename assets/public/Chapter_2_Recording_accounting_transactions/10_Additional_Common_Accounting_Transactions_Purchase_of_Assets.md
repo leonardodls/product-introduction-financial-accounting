@@ -176,9 +176,15 @@ LO: Journalize additional transactions by applying the rules of debit and credit
 </tbody>
 </table>
 
-Transaction \#3 is called a compound transaction because there is more than one credit. (A compound transaction could also have more than one debit, if required.) The total of the debits must equal the total of the credits in each transaction. 
+\[Notes Box\]
 
-In transactions \#1, 2, and 3, the accounts debited are *Land*, *Equipment*, and *Building* – often called fixed assets. These purchases are recorded as assets rather than expenses because they will last more than one accounting period and because their costs are significant amounts. In practice, the cost of a fixed asset becomes an expense over the time the asset is used rather than all at once at the time of purchase.
+*“Transaction \#3 is called a **compound transaction** because there is more than one credit. (A compound transaction could also have more than one debit, if required.) The total of the debits must equal the total of the credits in each transaction.\] *
+
+In transactions \#1, 2, and 3, the accounts debited are *Land*, *Equipment*, and *Building* – often called **fixed assets.** These purchases are recorded as assets rather than expenses because they will last more than one accounting period and because their costs are significant amounts.
+
+\[Notes Box\]
+
+*“In practice, the cost of a fixed asset becomes an expense over the time the asset is used rather than all at once at the time of purchase.”*
 
 ## Interactive Exercise 11 – Asset purchase transaction
 

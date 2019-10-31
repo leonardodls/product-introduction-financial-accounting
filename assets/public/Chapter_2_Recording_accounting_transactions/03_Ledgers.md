@@ -8,8 +8,6 @@ The **ledger** is the second accounting record book that is a list of a company�
 
 Each account has its own ledger page. The account name appears across the top. The ledger form has six columns: *Date, Item, Debit, Credit, Debit, Credit.* The first set of Debit and Credit columns are where amounts from the journal transactions are **copied**. The second set of Debit and Credit columns are where the account’s running total is maintained. An account’s **running balance** typically appears in either the Debit or the Credit column, but not both.
 
-\[Insert diagram to show the above pictorially\]
-
 The following are sample ledgers for the **Cash** and **Fees Earned** accounts. 
 
 <table>
