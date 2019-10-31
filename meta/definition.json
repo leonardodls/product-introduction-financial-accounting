@@ -218,11 +218,48 @@
         "item-code": "Chapter_1_Assessment",
         "sub-type": "default",
         "items": [
+           {
+            "name": "Instructions",
+            "item-type": "resource",           
+            "item-code": "Chapter_1_Assessment/Instructions",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
           {
-            "name": "Problem Sets",
+            "name": "Assignment",
             "item-type": "resource",
-            "resource": "RE_CH_1_SEC_1",
-            "item-code": "Chapter_1_Assessment/ProblemSets",
+            "resource": "RE_CH_1_SEC_2",
+            "item-code": "Chapter_1_Assessment/Assignment",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Feedback",
+            "item-type": "resource",
+            "resource": "RE_CH_1_SEC_3",
+            "item-code": "Chapter_1_Assessment/Feedback",
+            "tracking": true,            
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
+            "name": "Summary",
+            "item-type": "resource",            
+            "item-code": "Chapter_1_Assessment/Summary",
             "tracking": true,            
             "attribs": {
               "mark-as-complete": {
@@ -266,13 +303,24 @@
         "learning-objectives": []
       },
       
-      "RE_CH_1_SEC_1": {
+      "RE_CH_1_SEC_2": {
         "sub-type": "test",
         "tags": [
           "Test"
         ],
         "test": {
           "url": "Introduction-test-Emded"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_1_SEC_3": {
+        "sub-type": "test",
+        "tags": [
+          "Test"
+        ],
+        "test": {
+          "url": "Introduction-Feedback"
         },
         "description": "",
         "learning-objectives": []

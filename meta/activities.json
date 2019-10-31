@@ -10,468 +10,100 @@
           "name": "Question 1",
           "item-code": "Introduction-test-Emded/Question-1",
           "item-type": "resource",
-          "resource": "RE_00001"
+          "resource": "RE_0001"
         },
         {
-          "name": "Question 1",
+          "name": "Question 2",
           "item-code": "Introduction-test-Emded/Question-2",
           "item-type": "resource",
-          "resource": "RE_00029"
+          "resource": "RE_0002"
         },
         {
-          "name": "Question 1",
+          "name": "Question 3",
           "item-code": "Introduction-test-Emded/Question-3",
           "item-type": "resource",
-          "resource": "RE_00030"
+          "resource": "RE_0003"
         },
         {
-          "name": "Question 1",
+          "name": "Question 4",
           "item-code": "Introduction-test-Emded/Question-4",
           "item-type": "resource",
-          "resource": "RE_00031"
+          "resource": "RE_0004"
         },
         {
-          "name": "Question 1",
+          "name": "Question 5",
           "item-code": "Introduction-test-Emded/Question-5",
           "item-type": "resource",
-          "resource": "RE_00032"
+          "resource": "RE_0005"
         },
         {
-          "name": "Question 1",
+          "name": "Question 6",
           "item-code": "Introduction-test-Emded/Question-6",
           "item-type": "resource",
-          "resource": "RE_00033"
+          "resource": "RE_0006"
         },
         {
-          "name": "Question 1",
+          "name": "Question 7",
           "item-code": "Introduction-test-Emded/Question-7",
           "item-type": "resource",
-          "resource": "RE_00034"
+          "resource": "RE_0007"
         },
         {
-          "name": "Question 1",
+          "name": "Question 8",
           "item-code": "Introduction-test-Emded/Question-8",
           "item-type": "resource",
-          "resource": "RE_00035"
+          "resource": "RE_0008"
         }      
       ]
     },
     {
-      "name": "Accounts-test-Emded",
-      "item-code": "Accounts-test-Emded",
+      "name": "Introduction-Feedback",
+      "item-code": "Introduction-Feedback",
       "item-type": "folder",
       "sub-type": "test",
       "items": [
         {
           "name": "Question 1",
-          "item-code": "Accounts-test-Emded/Question-1",
+          "item-code": "Introduction-Feedback/Question-1",
           "item-type": "resource",
-          "resource": "RE_00002"
+          "resource": "RE_0009"
         },
         {
           "name": "Question 2",
-          "item-code": "Accounts-test-Emded/Question-2",
+          "item-code": "Introduction-Feedback/Question-2",
           "item-type": "resource",
-          "resource": "RE_00003"
+          "resource": "RE_0010"
         },
         {
           "name": "Question 3",
-          "item-code": "Accounts-test-Emded/Question-3",
+          "item-code": "Introduction-Feedback/Question-3",
           "item-type": "resource",
-          "resource": "RE_00004"
+          "resource": "RE_0011"
         },
         {
           "name": "Question 4",
-          "item-code": "Accounts-test-Emded/Question-4",
+          "item-code": "Introduction-Feedback/Question-4",
           "item-type": "resource",
-          "resource": "RE_00005"
+          "resource": "RE_0012"
         },
         {
           "name": "Question 5",
-          "item-code": "Accounts-test-Emded/Question-5",
+          "item-code": "Introduction-Feedback/Question-5",
           "item-type": "resource",
-          "resource": "RE_00006"
+          "resource": "RE_0013"
         },
         {
           "name": "Question 6",
-          "item-code": "Accounts-test-Emded/Question-6",
+          "item-code": "Introduction-Feedback/Question-6",
           "item-type": "resource",
-          "resource": "RE_00007"
-        }
-      ]
-    },
-    {
-      "name": "CalculatingNPValue-test-Emded_02",
-      "item-code": "CalculatingNPValue-test-Emded_02",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "CalculatingNPValue-test-Emded_02/Question-1",
-          "item-type": "resource",
-          "resource": "RE_000022"
-        },
-        {
-          "name": "Question 2",
-          "item-code": "CalculatingNPValue-test-Emded_02/Question-2",
-          "item-type": "resource",
-          "resource": "RE_000023"
-        },
-        {
-          "name": "Question 3",
-          "item-code": "CalculatingNPValue-test-Emded_02/Question-3",
-          "item-type": "resource",
-          "resource": "RE_000024"
-        }
-      ]
-    },
-    {
-      "name": "Accounts-Equation-test-Emded",
-      "item-code": "Accounts-Equation-test-Emded",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Accounts-Equation-test-Emded/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00008"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Accounts-Equation-test-Emded/Question-2",
-          "item-type": "resource",
-          "resource": "RE_00036"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Accounts-Equation-test-Emded/Question-3",
-          "item-type": "resource",
-          "resource": "RE_00037"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Accounts-Equation-test-Emded/Question-4",
-          "item-type": "resource",
-          "resource": "RE_00038"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Accounts-Equation-test-Emded/Question-5",
-          "item-type": "resource",
-          "resource": "RE_00039"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Accounts-Equation-test-Emded/Question-6",
-          "item-type": "resource",
-          "resource": "RE_00040"
-        }
-      ]
-    },
-    {
-      "name": "Common-Accounting-test-Emded",
-      "item-code": "Common-Accounting-test-Emded",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00009"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-2",
-          "item-type": "resource",
-          "resource": "RE_00041"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-3",
-          "item-type": "resource",
-          "resource": "RE_00042"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-4",
-          "item-type": "resource",
-          "resource": "RE_00043"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-5",
-          "item-type": "resource",
-          "resource": "RE_00044"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-6",
-          "item-type": "resource",
-          "resource": "RE_00045"
-        }
-      ]
-    },
-    {
-      "name": "Summary-test-Emded",
-      "item-code": "Summary-test-Emded",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Summary-test-Emded/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00046"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Summary-test-Emded/Question-2",
-          "item-type": "resource",
-          "resource": "RE_00047"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Summary-test-Emded/Question-3",
-          "item-type": "resource",
-          "resource": "RE_00048"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Summary-test-Emded/Question-4",
-          "item-type": "resource",
-          "resource": "RE_00049"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Summary-test-Emded/Question-5",
-          "item-type": "resource",
-          "resource": "RE_00050"
-        },
-        {
-          "name": "Question 1",
-          "item-code": "Summary-test-Emded/Question-6",
-          "item-type": "resource",
-          "resource": "RE_00051"
-        }
-      ]
-    },
-    {
-      "name": "Common-Accounting-test-Emded_01",
-      "item-code": "Common-Accounting-test-Emded_01",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Common-Accounting-test-Emded/Question-2",
-          "item-type": "resource",
-          "resource": "RE_00010"
-        }
-      ]
-    },
-    {
-      "name": "CalculatingNPValue-test-Emded_01",
-      "item-code": "CalculatingNPValue-test-Emded_01",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "CalculatingNPValue-test-Emded_01/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00021"
-        }
-      ]
-    },
-    {
-      "name": "Common-Accounting-test-Emded_02",
-      "item-code": "Common-Accounting-test-Emded_02",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 2",
-          "item-code": "Common-Accounting-test-Emded/Question-3",
-          "item-type": "resource",
-          "resource": "RE_00011"
-        }
-      ]
-    },
-    {
-      "name": "Common-Accounting-test-Emded_03",
-      "item-code": "Common-Accounting-test-Emded_03",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 3",
-          "item-code": "Common-Accounting-test-Emded/Question-4",
-          "item-type": "resource",
-          "resource": "RE_00012"
-        }
-      ]
-    },
-    {
-      "name": "Common-Accounting-test-Emded_04",
-      "item-code": "Common-Accounting-test-Emded_04",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 4",
-          "item-code": "Common-Accounting-test-Emded/Question-5",
-          "item-type": "resource",
-          "resource": "RE_00013"
-        }
-
-      ]
-    },
-    {
-      "name": "Common-Accounting-test-Emded_05",
-      "item-code": "Common-Accounting-test-Emded_05",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 5",
-          "item-code": "Common-Accounting-test-Emded/Question-6",
-          "item-type": "resource",
-          "resource": "RE_00014"
-        }
-      ]
-    },
-    {
-      "name": "Common-Accounting-test-Emded_06",
-      "item-code": "Common-Accounting-test-Emded_06",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 6",
-          "item-code": "Common-Accounting-test-Emded/Question-7",
-          "item-type": "resource",
-          "resource": "RE_00015"
-        }
-      ]
-    },
-    {
-      "name": "Comprehensive-Problem-Journal_1",
-      "item-code": "Comprehensive-Problem-Journal_1",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Comprehensive-Problem-Journal_1/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00017"
-        }
-      ]
-    },
-    {
-      "name": "Comprehensive-Problem-Journal_2",
-      "item-code": "Comprehensive-Problem-Journal_2",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Comprehensive-Problem-Journal_1/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00020"
-        }
-      ]
-    },
-    {
-      "name": "Comprehensive-Problem-Ledgers-Option2",
-      "item-code": "Comprehensive-Problem-Ledgers-Option2",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Comprehensive-Problem-Ledgers-Option2/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00019"
-        }
-      ]
-    },
-    {
-      "name": "Comprehensive-Problem-TrialBalance",
-      "item-code": "Comprehensive-Problem-TrialBalance",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Comprehensive-Problem-TrialBalance/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00018"
-        }
-      ]
-    },
-    {
-      "name": "Comprehensive-Problem-IncomeStatement",
-      "item-code": "Comprehensive-Problem-IncomeStatement",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Comprehensive-Problem-IncomeStatement/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00025"
-        }
-      ]
-    },
-    {
-      "name": "Comprehensive-Problem-Journalize",
-      "item-code": "Comprehensive-Problem-Journalize",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Comprehensive-Problem-Journalize/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00026"
-        }
-      ]
-    },
-    {
-      "name": "Comprehensive-Problem-ClosingEntries",
-      "item-code": "Comprehensive-Problem-ClosingEntries",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Comprehensive-Problem-ClosingEntries/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00027"
-        }
-      ]
-    },
-    {
-      "name": "Comprehensive-Problem-ClosingTrialBalance",
-      "item-code": "Comprehensive-Problem-ClosingTrialBalance",
-      "item-type": "folder",
-      "sub-type": "test",
-      "items": [
-        {
-          "name": "Question 1",
-          "item-code": "Comprehensive-Problem-ClosingTrialBalance/Question-1",
-          "item-type": "resource",
-          "resource": "RE_00028"
-        }
+          "resource": "RE_0014"
+        }     
       ]
     }
+ 
   ],
   "resources": {
-    "RE_00001": {
+    "RE_0001": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -541,1897 +173,7 @@
         "test"
       ]
     },
-    "RE_00002": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Which account does a company use to keep track of amounts owed to it by its customers?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Accounts Payable"
-              },
-              {
-                "choiceB": "Accounts Receivable"
-              },
-              {
-                "choiceC": "Fees Earned"
-              },
-              {
-                "choiceD": "Common Stock"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceB"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00003": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Select the account that falls in the Asset account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Fees Earned"
-              },
-              {
-                "choiceB": "Accounts Receivable"
-              },
-              {
-                "choiceC": "Insurance Expense"
-              },
-              {
-                "choiceD": "Common Stock"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceB"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00004": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Select the account that falls in the Liability account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Retained Earnings"
-              },
-              {
-                "choiceB": "Equipment"
-              },
-              {
-                "choiceC": "Accounts Payable"
-              },
-              {
-                "choiceD": "Maintenance Expense"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceC"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00005": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Select the account that falls in the Stockholders’ Equity account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Land"
-              },
-              {
-                "choiceB": "Supplies Expense"
-              },
-              {
-                "choiceC": "Fees Earned"
-              },
-              {
-                "choiceD": "Retained Earnings"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceD"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00006": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Select the account that falls in the Revenue account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Cash"
-              },
-              {
-                "choiceB": "Fees Earned"
-              },
-              {
-                "choiceC": "Common Stock"
-              },
-              {
-                "choiceD": "Rent Expense"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceB"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00007": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Select the account that falls in the Expense account category.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Wages Expense"
-              },
-              {
-                "choiceB": "Note Payable"
-              },
-              {
-                "choiceC": "Fees Earned"
-              },
-              {
-                "choiceD": "Building"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceA"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00008": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Which equation related to the accounting relationships is incorrect?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Assets - Liabilities = Net Income"
-              },
-              {
-                "choiceB": "Common Stock + Retained Earnings = Stockholders’ Equity"
-              },
-              {
-                "choiceC": "Revenue – Expenses = Net Income"
-              },
-              {
-                "choiceD": "Assets = Liabilities + Stockholders’ Equity"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceA"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00009": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Which transaction correctly matches with the corresponding account changes?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "<b>Purchase supplies on account</b> : Retained Earnings increases (for expense) AND Accounts Payable decreases"
-              },
-              {
-                "choiceB": "<b>Sell to customers on account</b> : Accounts Receivable increases AND Retained Earnings decreases (for revenue)"
-              },
-              {
-                "choiceC": "<b>Pay cash on account</b> : Accounts Payable decreases AND Cash decreases"
-              },
-              {
-                "choiceD": "<b>Receive cash on account</b> : Cash decreases AND Accounts Receivable increases"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceC"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00010": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-259"
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00011": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-301"
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00012": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-315"
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00013": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-317"
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00014": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-319"
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00015": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-567"
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00017": {
-      "meta": {
-        "type": "COSMATTCOMPREWIDGET",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "comprehensive-prob",
-        "options": {
-          "data": {
-            "view": {
-              "sidebyside": {
-                "leftSideData": {
-                  "type": "html",
-                  "height": "scroll",
-                  "htmlData": "<div class='html-viewer'> <div class='trans-title'>Transactions to Journalize - June</div><p><strong>6/1&nbsp;</strong><strong>-&nbsp;</strong>STS issues common stock for cash investments by owners, $10,000. <br></p><p><strong>6/1</strong><strong> </strong><strong>-&nbsp;</strong>STS pays for its business license (miscellaneous expense), $50. <br></p><p><strong>6/2</strong><strong> </strong><strong>-&nbsp;</strong>STS purchases supplies (which will be used up this month) from Capital Supply Co. on account for $150.</p><p><strong>6/5</strong><strong> </strong><strong>-&nbsp;</strong>STS works with its first client, Dakota Co, completes the job in one day, and receives $200 cash.</p><p><strong>6/6</strong><strong> </strong><strong>-&nbsp;</strong>STS completes work for Jersey Co. and sends them an invoice for $250.</p><p><strong>6/8</strong><strong> </strong><strong>-&nbsp;</strong>STS sends Capital Supply Co. a check for the supplies it purchased on 6/2, $150.</p><p><strong>6/9</strong><strong> </strong><strong>-&nbsp;</strong>STS completes work for Carolina Corp. and sends them an invoice for $450.</p><p><strong>6/10</strong><strong> </strong><strong>-&nbsp;</strong>STS purchases more supplies on account from Office Depot for $40.</p><p><strong>6/13</strong><strong> </strong><strong>-&nbsp;</strong>STS pays its secretary's salary for two weeks, $600.</p><p><strong>6/16</strong><strong> </strong><strong>-&nbsp;</strong>STS completes work for Georgia, Inc. and receives cash payment of $500.</p><p><strong>6/17</strong><strong> </strong><strong>-&nbsp;</strong>STS purchases more supplies (to be used by the end of the month) from Capital Supply Co. on account for $30.</p><p><strong>6/20</strong><strong> </strong><strong>-&nbsp;</strong>STS receives a check from Nevada Corporation for the $250 on account.</p><p><strong>6/21</strong><strong> </strong><strong>-&nbsp;</strong>STS pays off the invoice from Office Depot from 6/10 for $40.</p><p><strong>6/24</strong><strong> </strong><strong>-&nbsp;</strong>STS completes work for Minnesota, Inc. and bills them on account for $750. </p><p><strong>6/25</strong><strong> </strong><strong>-&nbsp;</strong>STS truck expenses are $175 and the company pays all of these in cash.</p><p><strong>6/27</strong><strong> </strong><strong>-&nbsp;</strong>STS pays its secretary's salary for two weeks, $600.</p><p><strong>6/29</strong><strong> </strong><strong>-&nbsp;</strong>STS completes work for York Company and sends them an invoice for $1,600.</p><p><strong>6/30</strong><strong> </strong><strong>-&nbsp;</strong>STS pays cash dividends of $700.</p><p> <br></p></div>"
-                },
-                "rightSideData": {
-                  "type": "grid",
-                  "height": "expand",
-                  "publishedId": "leo-leonardo-demo-548"
-                },
-                "ratio": [
-                  "46",
-                  "54"
-                ],
-                "resizer": true
-              }
-            }
-          }
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Journalize the transactions for June"
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "COSMATTCOMPREWIDGET",
-          "data": {
-           "questiondata": [
-              {
-                "text": "Journalize all the below transactions for June in the journal template provided on the right. Click the ‘Submit’ button once you have completed the exercise.<br> Refer to list of Accounts <a href='#' title='- Cash&#013;- Common Stock&#013;- Miscellaneous Expense&#013;- Supplies Expense&#013;- Accounts Payable&#013;- Fees Earned&#013;- Accounts Receivable&#013;- Salary Expense&#013;- Truck Expense&#013;- Cash Dividends'>here</a><a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00018": {
-      "meta": {
-        "type": "COSMATTCOMPREWIDGET",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "comprehensive-prob",
-        "options": {
-          "data": {
-            "view": {
-              "sidebyside": {
-                "leftSideData": {
-                  "type": "grid",
-                  "height": "expand",
-                  "publishedId": "leo-leonardo-demo-550"
-                },
-                "rightSideData": {
-                  "type": "grid",
-                  "height": "scroll",
-                  "publishedId": "leo-leonardo-demo-551"
-                },
-                "ratio": [
-                  "46",
-                  "54"
-                ],
-                "resizer": true
-              }
-            }
-          }
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Prepare the June trial balance"
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "COSMATTCOMPREWIDGET",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Using the ledgers created in Section 5.3 (shown in the left grid), prepare the June trial balance. Click the ‘Submit’ button once you have completed the exercise.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00019": {
-      "meta": {
-        "type": "COSMATTCOMPREWIDGET",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "comprehensive-prob",
-        "options": {
-          "data": {
-            "view": {
-              "sidebyside": {
-                "leftSideData": {
-                  "type": "grid",
-                  "height": "scroll",
-                  "publishedId": "leo-leonardo-demo-547"
-                },
-                "rightSideData": {
-                  "type": "grid",
-                  "height": "expand",
-                  "publishedId": "leo-leonardo-demo-546"
-                },
-                "ratio": [
-                  "46",
-                  "54"
-                ],
-                "resizer": true
-              }
-            }
-          }
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Post the June journal entries to the ledgers"
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "COSMATTCOMPREWIDGET",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Post the June journal entries from Section 5.2 (shown in the left grid) to the ledgers shown on the right. Click the ‘Submit’ button once you have completed the exercise.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00020": {
-      "meta": {
-        "type": "COSMATTCOMPREWIDGET",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "comprehensive-prob",
-        "options": {
-          "data": {
-            "view": {
-              "sidebyside": {
-                "leftSideData": {
-                  "type": "grid",
-                  "height": "scroll",
-                  "publishedId": "leo-leonardo-demo-547"
-                },
-                "rightSideData": {
-                  "type": "grid",
-                  "height": "expand",
-                  "publishedId": "leo-leonardo-demo-546"
-                },
-                "ratio": [
-                  "46",
-                  "54"
-                ],
-                "resizer": true
-              }
-            }
-          }
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-       "canvas": {
-          "layout": "COSMATTCOMPREWIDGET",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-       "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00021": {
-      "meta": {
-        "type": "LEONARDODLS",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "spreadsheet-DLSleonardo",
-        "options": {
-          "itemId": "leo-leonardo-demo-566"
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "LEONARDODLS",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_000022": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "At a 15% discount rate and the current cash flow model: should Stella and Eddie open up the new studio and what is the NPV of the project:"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Yes and  $216,200"
-              },
-              {
-                "choiceB": "No and $866,767"
-              },
-              {
-                "choiceC": "Yes and $292, 907"
-              },
-              {
-                "choiceD": "No and -$85,000"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceC"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_000023": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Looking at the data table, what is the NPV when the discount rate is 13% and the monthly churn rate of members is 6%"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "$842,300"
-              },
-              {
-                "choiceB": "-$166,477"
-              },
-              {
-                "choiceC": "$13,876"
-              },
-              {
-                "choiceD": "$78,025"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceD"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_000024": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "If the monthly churn rate (the rate at which members suspend membership) is expected to be 8% should Stella and Eddie open up the new studio: "
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "No"
-              },
-              {
-                "choiceB": "Yes, but in 2025 when the cash flow becomes positive"
-              },
-              {
-                "choiceC": "Yes, but only if the discount rate is 10%"
-              },
-              {
-                "choiceD": "Yes, immediately, under the current assumptions"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceA"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00025": {
-      "meta": {
-        "type": "COSMATTCOMPREWIDGET",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "comprehensive-prob",
-        "options": {
-          "data": {
-            "view": {
-              "sidebyside": {
-                "leftSideData": {
-                  "type": "grid",
-                  "height": "scroll",
-                  "publishedId": "leo-leonardo-demo-558"
-                },
-                "rightSideData": {
-                  "type": "grid",
-                  "height": "expand",
-                  "publishedId": "leo-leonardo-demo-557"
-                },
-                "ratio": [
-                  "46",
-                  "54"
-                ],
-                "resizer": true
-              }
-            }
-          }
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Prepare the June income statement, retained earnings statement and balance sheet"
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "COSMATTCOMPREWIDGET",
-          "data": {
-           "questiondata": [
-              {
-                "text": "Create the Income Statement, Retained Earnings Statement and Balance Sheet, for the month ended June 30, using the trial balance shown on the left.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00026": {
-      "meta": {
-        "type": "COSMATTCOMPREWIDGET",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "comprehensive-prob",
-        "options": {
-          "data": {
-            "view": {
-              "sidebyside": {
-                "leftSideData": {
-                  "type": "grid",
-                  "height": "scroll",
-                  "publishedId": "leo-leonardo-demo-560"
-                },
-                "rightSideData": {
-                  "type": "grid",
-                  "height": "expand",
-                  "publishedId": "leo-leonardo-demo-561"
-                },
-                "ratio": [
-                  "46",
-                  "54"
-                ],
-                "resizer": true
-              }
-            }
-          }
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Journalize the closing entries for June"
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "COSMATTCOMPREWIDGET",
-          "data": {
-           "questiondata": [
-              {
-                "text": "Using the Trial Balance, add the closing entries to the June journal that we created in Section 5.2.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00027": {
-      "meta": {
-        "type": "COSMATTCOMPREWIDGET",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "comprehensive-prob",
-        "options": {
-          "data": {
-            "view": {
-              "sidebyside": {
-                "leftSideData": {
-                  "type": "grid",
-                  "height": "scroll",
-                  "publishedId": "leo-leonardo-demo-562"
-                },
-                "rightSideData": {
-                  "type": "grid",
-                  "height": "expand",
-                  "publishedId": "leo-leonardo-demo-563"
-                },
-                "ratio": [
-                  "46",
-                  "54"
-                ],
-                "resizer": true
-              }
-            }
-          }
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Post the June Closing journal entries to the ledgers"
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "COSMATTCOMPREWIDGET",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Now, post the June closing entries in the journal to the ledgers that we created in Section 5.3.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00028": {
-      "meta": {
-        "type": "COSMATTCOMPREWIDGET",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "app-data": {
-        "type": "comprehensive-prob",
-        "options": {
-          "data": {
-            "view": {
-              "sidebyside": {
-                "leftSideData": {
-                  "type": "grid",
-                  "height": "expand",
-                  "publishedId": "leo-leonardo-demo-565"
-                },
-                "rightSideData": {
-                  "type": "grid",
-                  "height": "scroll",
-                  "publishedId": "leo-leonardo-demo-564"
-                },
-                "ratio": [
-                  "46",
-                  "54"
-                ],
-                "resizer": true
-              }
-            }
-          }
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "html",
-            "html": "Prepare the June post - closing trial balance"
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": "",
-            "image": ""
-          }
-        ],
-        "canvas": {
-          "layout": "COSMATTCOMPREWIDGET",
-          "data": {
-            "questiondata": [
-              {
-                "text": "To complete the accounting cycle for the month, prepare the June post-closing trial balance using the ledgers on the left.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "configData"
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "Perfect. You got it correct",
-          "incorrect": "Sorry, Wrong response.",
-          "empty": "You did not enter anything."
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "60",
-          "ignorewhitespace": true
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00029": {
+    "RE_0002": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -2501,7 +243,7 @@
         "test"
       ]
     },
-    "RE_00030": {
+    "RE_0003": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -2571,7 +313,7 @@
         "test"
       ]
     },
-    "RE_00031": {
+    "RE_0004": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -2641,7 +383,7 @@
         "test"
       ]
     },
-    "RE_00032": {
+    "RE_0005": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -2711,7 +453,7 @@
         "test"
       ]
     },
-    "RE_00033": {
+    "RE_0006": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -2781,7 +523,7 @@
         "test"
       ]
     },
-    "RE_00034": {
+    "RE_0007": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -2851,7 +593,7 @@
         "test"
       ]
     },
-    "RE_00035": {
+    "RE_0008": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -2921,7 +663,7 @@
         "test"
       ]
     },
-    "RE_00036": {
+    "RE_0009": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -2947,7 +689,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Which of the following accounts would be considered a temporary account?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "How would you rate your interaction with the application?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -2958,156 +700,19 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "Cash"
+                "choiceA": "1"
               },
               {
-                "choiceB": "Accounts Payable"
+                "choiceB": "2"
               },
               {
-                "choiceC": "Common Stock"
+                "choiceC": "3"
               },
               {
-                "choiceD": "Fees Earned"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceD"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00037": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Which of the following accounts would be considered a permanent account?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Supplies Expense"
+                "choiceD": "4"
               },
               {
-                "choiceB": "Fees Earned"
-              },
-              {
-                "choiceC": "Accounts Receivable"
-              },
-              {
-                "choiceD": "Maintenance Expense"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceC"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00038": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Assets owned by third parties are<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Common Stock"
-              },
-              {
-                "choiceB": "Liabilities"
-              },
-              {
-                "choiceC": "Retained Earnings"
-              },
-              {
-                "choiceD": "Stockholders' Equity"
+                "choiceE": "5"
               }
             ]
           }
@@ -3131,7 +736,7 @@
         "test"
       ]
     },
-    "RE_00039": {
+    "RE_0010": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -3157,7 +762,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "The difference between the total revenue and total expense amounts for a particular period, assuming revenue is higher, is called<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "How easy was it to use the spreadsheets?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -3168,226 +773,19 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "Net Income"
+                "choiceA": "1"
               },
               {
-                "choiceB": "Stockholders' Equity"
+                "choiceB": "2"
               },
               {
-                "choiceC": "Liabilities"
+                "choiceC": "3"
               },
               {
-                "choiceD": "Net Loss"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceA"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00040": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "The accounting equation, which is also the equation for the balance sheet, is <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Assets + Liabilities = Stockholders' Equity"
+                "choiceD": "4"
               },
               {
-                "choiceB": "Revenue - Expenses = Net Income"
-              },
-              {
-                "choiceC": "Assets = Liabilities + Stockholders' Equity"
-              },
-              {
-                "choiceD": "Assets = Liabilities - Stockholders' Equity"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceC"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00041": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Which transaction correctly matches with the corresponding account changes?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Issue stock for cash: Retained Earnings increases AND Cash decreases"
-              },
-              {
-                "choiceB": "Purchased supplies on account: Supplies Expense increases AND Cash decreases "
-              },
-              {
-                "choiceC": "Receive cash on account: Cash increases AND Accounts Receivable decreases"
-              },
-              {
-                "choiceD": "Closed revenue account: Fees Earned increases AND Retained Earnings decreases"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceC"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00042": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "In the accounting equation grid, a company's Cash account increases when<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "revenue accounts are closed to retained earnings."
-              },
-              {
-                "choiceB": "common stock is issued."
-              },
-              {
-                "choiceC": "a vendor is paid on account."
-              },
-              {
-                "choiceD": "a customer is billed on account."
+                "choiceE": "5"
               }
             ]
           }
@@ -3411,7 +809,7 @@
         "test"
       ]
     },
-    "RE_00043": {
+    "RE_0011": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -3437,7 +835,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "In the accounting equation grid, a company's Accounts Payable account decreases when<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "How useful was it to get instant feedback on the Questions? (as opposed to after a few days)<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -3448,16 +846,19 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "a vendor is paid on account."
+                "choiceA": "1"
               },
               {
-                "choiceB": "a customer pays on account."
+                "choiceB": "2"
               },
               {
-                "choiceC": "expense accounts are closed to retained earnings."
+                "choiceC": "3"
               },
               {
-                "choiceD": "cash is paid for rent."
+                "choiceD": "4"
+              },
+              {
+                "choiceE": "5"
               }
             ]
           }
@@ -3473,7 +874,7 @@
       },
       "responses": {
         "i1": {
-          "correct": "choiceA"
+          "correct": "choiceB"
         }
       },
       "learning-objectives": [],
@@ -3481,7 +882,7 @@
         "test"
       ]
     },
-    "RE_00044": {
+    "RE_0012": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -3507,7 +908,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "In the accounting equation grid, net income is determined by considering<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "How easy was it to understand and use the interactive chart?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -3518,16 +919,19 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "common stock and retained earnings."
+                "choiceA": "1"
               },
               {
-                "choiceB": "accounts receivable and accounts payable."
+                "choiceB": "2"
               },
               {
-                "choiceC": "assets and liabilities."
+                "choiceC": "3"
               },
               {
-                "choiceD": "revenue and expenses."
+                "choiceD": "4"
+              },
+              {
+                "choiceE": "5"
               }
             ]
           }
@@ -3543,7 +947,7 @@
       },
       "responses": {
         "i1": {
-          "correct": "choiceD"
+          "correct": "choiceB"
         }
       },
       "learning-objectives": [],
@@ -3551,7 +955,7 @@
         "test"
       ]
     },
-    "RE_00045": {
+    "RE_0013": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -3577,7 +981,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "In the accounting equation grid, stockholders' equity is determined by considering<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "How relevant were the questions with respect to the course content?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -3588,16 +992,19 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "common stock and retained earnings."
+                "choiceA": "1"
               },
               {
-                "choiceB": "accounts receivable and accounts payable."
+                "choiceB": "2"
               },
               {
-                "choiceC": "revenue and expenses."
+                "choiceC": "3"
               },
               {
-                "choiceD": "liabilities and retained earnings."
+                "choiceD": "4"
+              },
+              {
+                "choiceE": "5"
               }
             ]
           }
@@ -3613,7 +1020,7 @@
       },
       "responses": {
         "i1": {
-          "correct": "choiceA"
+          "correct": "choiceB"
         }
       },
       "learning-objectives": [],
@@ -3621,7 +1028,7 @@
         "test"
       ]
     },
-    "RE_00046": {
+    "RE_0014": {
       "meta": {
         "type": "MCSR",
         "score": {
@@ -3647,7 +1054,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Which statement is not true about a journal entry?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "How clear were the instructions for the questions?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -3658,16 +1065,19 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "It cannot include more than three accounts"
+                "choiceA": "1"
               },
               {
-                "choiceB": "It is incorrect if the total of the debit amount(s) entered does not equal the total of the credit amount(s) entered"
+                "choiceB": "2"
               },
               {
-                "choiceC": "It must include at least two accounts."
+                "choiceC": "3"
               },
               {
-                "choiceD": "It may include any of the five types of accounts: assets, liabilities, stockholders' equity, revenue, or expenses."
+                "choiceD": "4"
+              },
+              {
+                "choiceE": "5"
               }
             ]
           }
@@ -3683,7 +1093,7 @@
       },
       "responses": {
         "i1": {
-          "correct": "choiceA"
+          "correct": "choiceB"
         }
       },
       "learning-objectives": [],
@@ -3691,356 +1101,6 @@
         "test"
       ]
     },
-    "RE_00047": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "The accounting equation, which is also the equation for the balance sheet, is<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Assets = Liabilities + Stockholders' Equity"
-              },
-              {
-                "choiceB": "Revenue - Expenses = Net Income"
-              },
-              {
-                "choiceC": "Assets + Liabilities = Stockholders' Equity"
-              },
-              {
-                "choiceD": "Assets = Liabilities - Stockholders' Equity"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceA"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00048": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Which account category includes temporary accounts?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "assets"
-              },
-              {
-                "choiceB": "liabilities"
-              },
-              {
-                "choiceC": "stockholders' equity"
-              },
-              {
-                "choiceD": "revenues"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceD"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00049": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Accounts Payable would increase as a result of<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "selling to a customer on account."
-              },
-              {
-                "choiceB": "paying a vendor on account."
-              },
-              {
-                "choiceC": "receiving payment from a customer on account."
-              },
-              {
-                "choiceD": "purchasing from a vendor on account."
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceD"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00050": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Stockholders' equity increases as a result of<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "issuing common stock"
-              },
-              {
-                "choiceB": "paying a vendor on account"
-              },
-              {
-                "choiceC": "receiving payment from a customer on account"
-              },
-              {
-                "choiceD": "closing expense accounts to retained earnings"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceA"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    },
-    "RE_00051": {
-      "meta": {
-        "type": "MCSR",
-        "score": {
-          "default": 0,
-          "max": 1,
-          "min": 0
-        }
-      },
-      "content": {
-        "instructions": [
-          {
-            "tag": "text",
-            "text": ""
-          }
-        ],
-        "stimulus": [
-          {
-            "tag": ""
-          }
-        ],
-        "canvas": {
-          "layout": "MCQ",
-          "data": {
-            "questiondata": [
-              {
-                "text": "Stockholders' equity decreases as a result of<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
-              }
-            ]
-          },
-          "raw": ""
-        },
-        "interactions": {
-          "i1": {
-            "type": "MCSR",
-            "MCSR": [
-              {
-                "choiceA": "Stockholders' equity decreases as a result of"
-              },
-              {
-                "choiceB": "a decrease in accounts receivable"
-              },
-              {
-                "choiceC": "an increase in an expense account"
-              },
-              {
-                "choiceD": "a decrease in cash"
-              }
-            ]
-          }
-        },
-        "hint": {}
-      },
-      "feedback": {
-        "global": {
-          "correct": "",
-          "incorrect": "",
-          "empty": ""
-        }
-      },
-      "responses": {
-        "i1": {
-          "correct": "choiceC"
-        }
-      },
-      "learning-objectives": [],
-      "tags": [
-        "test"
-      ]
-    }
   },
   "test": {}
 }
