@@ -994,7 +994,7 @@
           {
             "name": "Prepare the July post-closing trial balance",
             "item-type": "resource",
-            "resource": "RE_CH_6_SEC_1",
+            "resource": "RE_CH_4_SEC_15",
             "item-code": "Chapter_4_Introduction/JulyClosingTrialBalance",
             "tracking": true,  
             "embedded": [              
@@ -2371,6 +2371,17 @@
         "learning-objectives": []
       },
       "RE_CH_4_SEC_14": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_4_ComprehensiveProblem/12_Journalize_and_post_the_closing_entries_for_July.md"
+        },
+        "description": "",
+        "learning-objectives": []
+      },
+      "RE_CH_4_SEC_15": {
         "sub-type": "md",
         "tags": [
           "Reading"
