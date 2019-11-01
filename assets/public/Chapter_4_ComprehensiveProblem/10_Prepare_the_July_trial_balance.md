@@ -1,1 +1,4 @@
-
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/JulyTrialBalance/test-Emded_01","data":{}}} 
+```
