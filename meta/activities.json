@@ -516,6 +516,18 @@
 				"item-type": "resource",
 				"resource": "RE_00058"
 			}]
+		},
+		{
+			"name": "Journal-test-Emded_01",
+			"item-code": "Journal-test-Emded_01",
+			"item-type": "folder",
+			"sub-type": "test",
+			"items": [{
+				"name": "Question 1",
+				"item-code": "Journal-test-Emded_01/Question-1",
+				"item-type": "resource",
+				"resource": "RE_00059"
+			}]
 		}
 	],
 	"resources": {
@@ -4271,6 +4283,64 @@
 					"data": {
 						"questiondata": [{
 							"text": "Journalize all the below transactions for June in the journal template provided on the right. Click the ‘Submit’ button once you have completed the exercise.<br> Refer to list of Accounts <a href='#' title='- Cash&#013;- Common Stock&#013;- Miscellaneous Expense&#013;- Supplies Expense&#013;- Accounts Payable&#013;- Fees Earned&#013;- Accounts Receivable&#013;- Salary Expense&#013;- Truck Expense&#013;- Cash Dividends'>here</a><a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "configData"
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "Perfect. You got it correct",
+					"incorrect": "Sorry, Wrong response.",
+					"empty": "You did not enter anything."
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "60",
+					"ignorewhitespace": true
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
+		"RE_00059": {
+			"meta": {
+				"type": "LEONARDODLS",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"app-data": {
+				"type": "spreadsheet-DLSleonardo",
+				"options": {
+					"itemId": "leo-leonardo-demo-640"
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "html",
+					"html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+				}],
+				"stimulus": [{
+					"tag": "",
+					"image": ""
+				}],
+				"canvas": {
+					"layout": "LEONARDODLS",
+					"data": {
+						"questiondata": [{
+							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
