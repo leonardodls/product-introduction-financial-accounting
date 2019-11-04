@@ -25,82 +25,9 @@ Whether an account’s amount should be entered in the debit column or the credi
 
 ## Interactive Exercise 3 – Account classifications and behaviors
 
-***Instruction*: ** For each account listed, select its corresponding account type and whether it would increase with either a debit or a credit.
+**Instruction: ** For each account listed, select its corresponding account type and whether it would increase with either a debit or a credit.
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>ACCOUNTS </strong></th>
-<th><strong>ACCOUNT TYPE</strong></th>
-<th><strong>TO INCREASE</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Fees Earned</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Retained Earnings </td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Insurance Expense</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Accounts Payable</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Accounts Receivable</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-*\[Hint:* Assets are items of value to a business. Liabilities are debts. Stockholders’ equity is the worth of the corporate owners in the business. Revenue represents income, and expenses are costs of generating revenue.*\]*
-
-*                                \[ANSWER KEY\]*
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>ACCOUNTS </strong></th>
-<th><strong>ACCOUNT TYPE</strong></th>
-<th><strong>TO INCREASE</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Fees Earned</td>
-<td>Revenue</td>
-<td>credit</td>
-</tr>
-<tr class="even">
-<td>Retained Earnings </td>
-<td>Stockholders’ Equity</td>
-<td>credit</td>
-</tr>
-<tr class="odd">
-<td>Insurance Expense</td>
-<td>Expense</td>
-<td>debit</td>
-</tr>
-<tr class="even">
-<td>Accounts Payable</td>
-<td>Liability</td>
-<td>credit</td>
-</tr>
-<tr class="odd">
-<td>Accounts Receivable</td>
-<td>Asset</td>
-<td>debit</td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"showFeedbackOnlyIfValueChanged":true}}},"id":"Chapter_2_Introduction/Journal/test-Emded_01"}} 
+```

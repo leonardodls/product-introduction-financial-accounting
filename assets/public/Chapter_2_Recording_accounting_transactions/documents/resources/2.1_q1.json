@@ -1,0 +1,14 @@
+{
+  "type": "assessment",
+  "options": {
+    "data": {
+      "meta": {
+        "renderOverrides": {
+          "showOverallGradingStatus": true,
+          "showFeedbackOnlyIfValueChanged": true
+        }
+      }
+    },
+    "id": "Chapter_2_Introduction/Journal/test-Emded_01"
+  }
+}
