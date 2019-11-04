@@ -8,9 +8,8 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-638","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
-\[Notes Box\]
 
-*“In the journal, the column heading **Debit** means “left” and **Credit** means “right” in terms of the column where an account’s dollar amount should be entered.” *
+> “In the journal, the column heading Debit means “left” and Credit means “right” in terms of the column where an account’s dollar amount should be entered.”
 
 ## Rules of Debit and Credit
 
