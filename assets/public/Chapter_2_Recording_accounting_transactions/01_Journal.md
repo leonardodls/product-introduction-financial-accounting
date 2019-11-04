@@ -4,46 +4,10 @@ Financial transactions are written down throughout the accounting period as they
 
 This is a sample of a few rows in a journal. It has four columns:*  Date, Account, Debit, Credit.* 
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-638","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 \[Notes Box\]
 
 *“In the journal, the column heading **Debit** means “left” and **Credit** means “right” in terms of the column where an account’s dollar amount should be entered.” *
@@ -52,70 +16,12 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 
 Whether an account’s amount should be entered in the debit column or the credit column is based on (1) the type of account it is and (2) whether the account is increasing or decreasing. The following table summarizes the rules of debit and credit for commonly used accounts.
 
-![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image2.png)
+![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image3.png)
 
-<table>
-<thead>
-<tr class="header">
-<th>ACCOUNT<br />
-TYPE</th>
-<th>ACCOUNTS </th>
-<th>DEBIT</th>
-<th>CREDIT</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Asset</strong></td>
-<td>Cash<br />
-Accounts Receivable<br />
-Equipment<br />
-Building<br />
-Land                                     </td>
-<td>↑</td>
-<td>↓</td>
-</tr>
-<tr class="even">
-<td><strong>Contra Asset</strong></td>
-<td>Accumulated Depreciation</td>
-<td>↓</td>
-<td>↑</td>
-</tr>
-<tr class="odd">
-<td><strong>Liability</strong></td>
-<td>Accounts Payable<br />
-Note Payable</td>
-<td>↓</td>
-<td>↑</td>
-</tr>
-<tr class="even">
-<td><strong>Stockholders’ Equity</strong></td>
-<td><p>Common Stock </p>
-<p>Retained Earnings</p></td>
-<td>↓</td>
-<td>↑</td>
-</tr>
-<tr class="odd">
-<td><strong>Revenue</strong></td>
-<td>Fees Earned</td>
-<td>↓</td>
-<td>↑</td>
-</tr>
-<tr class="even">
-<td><strong>Expense</strong></td>
-<td>Wages Expense<br />
-Rent Expense<br />
-Utilities Expense<br />
-Supplies Expense<br />
-Insurance Expense<br />
-Advertising Expense<br />
-Maintenance Expense<br />
-Miscellaneous Expense</td>
-<td>↑</td>
-<td>↓</td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-639","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 ## Interactive Exercise 3 – Account classifications and behaviors
 
