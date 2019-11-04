@@ -4,5 +4,5 @@ Now, post the June closing entries in the journal to the ledgers that we created
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_4_Introduction/ClosingEntriesledgers/test-Emded_01","data":{}}} 
+ {"type":"assessment","options":{"id":"Chapter_4_Introduction/JulyClosingEntriesledgers/test-Emded_01","data":{}}} 
 ```
