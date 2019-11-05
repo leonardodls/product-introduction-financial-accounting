@@ -19,6 +19,12 @@
           "resource": "RE_0002"
         },
         {
+          "name": "Question 8",
+          "item-code": "Introduction-test-Emded/Question-8",
+          "item-type": "resource",
+          "resource": "RE_00015"
+        },
+        {
           "name": "Question 3",
           "item-code": "Introduction-test-Emded/Question-3",
           "item-type": "resource",
@@ -1047,7 +1053,70 @@
       "tags": [
         "test"
       ]
-    }
+    },
+    "RE_00015": {
+			"meta": {
+				"type": "MCSR",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "text",
+					"text": ""
+				}],
+				"stimulus": [{
+					"tag": ""
+				}],
+				"canvas": {
+					"layout": "MCQ",
+					"data": {
+						"questiondata": [{
+							"text": "Which of the following is NOT a service business?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "MCSR",
+						"MCSR": [{
+								"choiceA": "A tire store"
+							},
+							{
+								"choiceB": "An airline"
+							},
+							{
+								"choiceC": "A dry cleaner"
+							},
+							{
+								"choiceD": "An attorney"
+							}
+						]
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "",
+					"incorrect": "",
+					"empty": ""
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "choiceA"
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
   },
   "test": {}
 }
