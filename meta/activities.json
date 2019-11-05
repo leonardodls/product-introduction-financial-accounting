@@ -528,6 +528,18 @@
 				"item-type": "resource",
 				"resource": "RE_00059"
 			}]
+		},
+		{
+			"name": "ProcessJournalizing-test-Emded_01",
+			"item-code": "ProcessJournalizing-test-Emded_011",
+			"item-type": "folder",
+			"sub-type": "test",
+			"items": [{
+				"name": "Question 1",
+				"item-code": "ProcessJournalizing-test-Emded_01/Question-1",
+				"item-type": "resource",
+				"resource": "RE_00060"
+			}]
 		}
 	],
 	"resources": {
@@ -4369,7 +4381,83 @@
 			"tags": [
 				"test"
 			]
-		}
+		},
+		"RE_00060": {
+			"meta": {
+			  "type": "MCQSR",
+			  "score": {
+				"default": 0,
+				"max": 1,
+				"min": 0
+			  }
+			},
+			"content": {
+			  "instructions": [
+				{
+				  "tag": ""
+				}
+			  ],
+			  "stimulus": [
+				{
+				  "tag": "image",
+				  "image":
+					"Chapter_2_Recording_accounting_transactions/documents/resources/Question1_Processjournalizing_2_2.png"
+				}
+			  ],
+			  "canvas": {
+				"layout": "MCQ_IMAGE_OPTIONS",
+				"data": {
+				  "questiondata": [
+					{
+					  "text":
+						"Given this journal entries , which is the correct journal entry? <a href='http://www.comprodls.com/m1.0/interaction/mcqsr'>i1</a> "
+					}
+				  ]
+				},
+				"raw": ""
+			  },
+			  "interactions": {
+				"i1": {
+				  "type": "MCQSR",
+				  "MCQSR": [
+					{
+					  "choiceA":
+						"a"
+					},
+					{
+					  "choiceB":
+						"b"
+					},
+					{
+					  "choiceC":
+						"c"
+					},
+					{
+					  "choiceD":
+						"d"
+					}
+				  ]
+				}
+			  },
+			  "hint": {}
+			},
+			"feedback": {
+			  "global": {
+				"correct": "Perfect. You got it correct !!!",
+				"incorrect": "Sorry, Wrong response.",
+				"empty": "You did not enter anything."
+			  }
+			},
+			"responses": {
+			  "i1": {
+				"correct": "choiceB"
+			  }
+			},
+			"learning-objectives": [
+			  "Understanding the process of journalizing"
+			],
+			"tags": ["test"]
+		  }
 	},
 	"test": {}
 }
