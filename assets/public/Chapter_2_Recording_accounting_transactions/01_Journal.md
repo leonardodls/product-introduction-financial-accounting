@@ -9,7 +9,9 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-638","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-> “In the journal, the column heading Debit means “left” and Credit means “right” in terms of the column where an account’s dollar amount should be entered.”
+> Tip
+> 
+> In the journal, the column heading Debit means “left” and Credit means “right” in terms of the column where an account’s dollar amount should be entered.
 
 ## Rules of Debit and Credit
 
