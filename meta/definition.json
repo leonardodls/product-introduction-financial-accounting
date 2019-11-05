@@ -457,6 +457,13 @@
                 "item-type": "resource",
                 "name": "Emb Test 1",
                 "tracking": false
+              },
+			  {
+                "item-code": "Chapter_2_Introduction/ProcessJournalizing/test-Emded_02",
+                "resource": "RE_CH_2_SEC_2_EM_02",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
               }
             ], 			
             "attribs": {
@@ -2610,17 +2617,28 @@
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
       },
-    "RE_CH_2_SEC_2_EM_01": {
-        "sub-type": "test",
-        "tags": [
-          "Practice"
-        ],
-        "test": {
-          "url": "ProcessJournalizing-test-Emded_01"
-        },
-        "description": "fundamentals - units - Test your understanding",
-        "learning-objectives": []
-      }
+	 "RE_CH_2_SEC_2_EM_01": {
+		"sub-type": "test",
+		"tags": [
+		  "Practice"
+		],
+		"test": {
+		  "url": "ProcessJournalizing-test-Emded_01"
+		},
+		"description": "fundamentals - units - Test your understanding",
+		"learning-objectives": []
+	  },
+	 "RE_CH_2_SEC_2_EM_02": {
+		"sub-type": "test",
+		"tags": [
+		  "Practice"
+		],
+		"test": {
+		  "url": "ProcessJournalizing-test-Emded_02"
+		},
+		"description": "fundamentals - units - Test your understanding",
+		"learning-objectives": []
+	  }
     },
     "test": {},
     "ebook": {}
