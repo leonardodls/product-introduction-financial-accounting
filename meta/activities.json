@@ -4420,10 +4420,10 @@
 			        "type": "MCSR",
 			        "MCSR": [
 			          {
-			            "choiceA": "aa"
+			            "choiceA": "a"
 			          },
 			          {
-			            "choiceB": "bs"
+			            "choiceB": "b"
 			          },
 			          {
 			            "choiceC": "c"
