@@ -4383,81 +4383,76 @@
 			]
 		},
 		"RE_00060": {
-			"meta": {
-			  "type": "MCSR",
-			  "score": {
-				"default": 0,
-				"max": 1,
-				"min": 0
-			  }
-			},
-			"content": {
-			  "instructions": [
-				{
-				  "tag": ""
-				}
-			  ],
-			  "stimulus": [
-				{
-				  "tag": "image",
-				  "image":
-					"Chapter_2_Recording_accounting_transactions/documents/resources/Question1_Processjournalizing_2_2.png"
-				}
-			  ],
-			  "canvas": {
-				"layout": "MCQ_IMAGE",
-				"data": {
-				  "questiondata": [
-					{
-					  "text":
-						"Given this journal entries , which is the correct journal entry? <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
-					}
-				  ]
-				},
-				"raw": ""
+			  "meta": {
+			    "type": "MCSR",
+			    "score": {
+			      "default": 0,
+			      "max": 1,
+			      "min": 0
+			    }
 			  },
-			  "interactions": {
-				"i1": {
-				  "type": "MCSR",
-				  "MCSR": [
-					{
-					  "choiceA":
-						"a"
-					},
-					{
-					  "choiceB":
-						"b"
-					},
-					{
-					  "choiceC":
-						"c"
-					},
-					{
-					  "choiceD":
-						"d"
-					}
-				  ]
-				}
+			  "content": {
+			    "instructions": [
+			      {
+			        "tag": "html",
+			        "html": "Click the correct answer for each question. Click <b>Submit</b> to check your answers."
+			      }
+			    ],
+			    "stimulus": [
+			      {
+			        "tag": "image",
+			        "image": "Chapter_2_Recording_accounting_transactions/documents/resources/Question1_Processjournalizing_2_2.png"
+			      }
+			    ],
+			    "canvas": {
+			      "layout": "MCQ_IMAGE",
+			      "data": {
+			        "questiondata": [
+			          {
+			            "text": " Hi. My name __ Paul. <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
+			          }
+			        ]
+			      },
+			      "raw": ""
+			    },
+			    "interactions": {
+			      "i1": {
+			        "type": "MCSR",
+			        "MCSR": [
+			          {
+			            "choiceA": "am"
+			          },
+			          {
+			            "choiceB": "call"
+			          },
+			          {
+			            "choiceC": "is"
+			          },
+			          {
+			            "choiceD": "calls"
+			          }
+			        ]
+			      }
+			    },
+			    "hint": {}
 			  },
-			  "hint": {}
-			},
-			"feedback": {
-			  "global": {
-				"correct": "Perfect. You got it correct !!!",
-				"incorrect": "Sorry, Wrong response.",
-				"empty": "You did not enter anything."
-			  }
-			},
-			"responses": {
-			  "i1": {
-				"correct": "choiceC"
-			  }
-			},
-			"learning-objectives": [
-			  "Understanding the process of journalizing"
-			],
-			"tags": ["test"]
-		  }
+			  "feedback": {
+			    "global": {
+			      "correct": "Perfect. You got it correct !!!",
+			      "incorrect": "Sorry, Wrong response.",
+			      "empty": "You did not enter anything."
+			    }
+			  },
+			  "responses": {
+			    "i1": {
+			      "correct": "choiceC"
+			    }
+			  },
+			  "learning-objectives": [],
+			  "tags": [
+			    "test"
+			  ]
+		}
 	},
 	"test": {}
 }
