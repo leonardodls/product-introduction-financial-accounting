@@ -4410,7 +4410,7 @@
 				  "questiondata": [
 					{
 					  "text":
-						"Given this journal entries , which is the correct journal entry? <a href='http://www.comprodls.com/m1.0/interaction/mcqsr'>i1</a> "
+						"Given this journal entries , which is the correct journal entry? <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
 					}
 				  ]
 				},
@@ -4450,7 +4450,7 @@
 			},
 			"responses": {
 			  "i1": {
-				"correct": "choiceB"
+				"correct": "choiceC"
 			  }
 			},
 			"learning-objectives": [
