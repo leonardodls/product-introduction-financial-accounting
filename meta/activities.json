@@ -4395,7 +4395,7 @@
 			    "instructions": [
 			      {
 			        "tag": "html",
-			        "html": "Click the correct answer for each question. Click <b>Submit</b> to check your answers."
+			        "html": "Given this journal entries , which is the correct journal entry? "
 			      }
 			    ],
 			    "stimulus": [
@@ -4409,7 +4409,7 @@
 			      "data": {
 			        "questiondata": [
 			          {
-			            "text": " Hi. My name __ Paul. <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
+			            "text": " <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
 			          }
 			        ]
 			      },
