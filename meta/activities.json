@@ -4405,7 +4405,7 @@
 				}
 			  ],
 			  "canvas": {
-				"layout": "MCQ",
+				"layout": "MCQ_IMAGE",
 				"data": {
 				  "questiondata": [
 					{
