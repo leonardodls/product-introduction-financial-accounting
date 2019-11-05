@@ -497,8 +497,3 @@ On 6/10, a customer paid $2,600 cash for services the company provided.
 
 ## Test Your Understanding 
 
-Which of the following is a correct journal entry?
-
-![](./Chapter_2_Recording_accounting_transactions/media/02_Process_of_Journalizing/image2.png)
-
-*\[MCQ. Correct Answer is c.\]*
