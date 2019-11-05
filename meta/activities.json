@@ -4420,16 +4420,16 @@
 			        "type": "MCSR",
 			        "MCSR": [
 			          {
-			            "choiceA": "am"
+			            "choiceA": "a"
 			          },
 			          {
-			            "choiceB": "call"
+			            "choiceB": "b"
 			          },
 			          {
-			            "choiceC": "is"
+			            "choiceC": "c"
 			          },
 			          {
-			            "choiceD": "calls"
+			            "choiceD": "d"
 			          }
 			        ]
 			      }
