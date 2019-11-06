@@ -1,5 +1,3 @@
-LO: Apply the series of steps for properly journalizing transactions
-
 Entering transactions in the journal is called **journalizing** and involves the following steps:
 
 1.  Select two (or more) accounts impacted by a transaction.

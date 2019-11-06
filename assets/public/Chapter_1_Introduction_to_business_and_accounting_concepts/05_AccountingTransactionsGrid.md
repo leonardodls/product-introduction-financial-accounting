@@ -1,4 +1,4 @@
-Now we will use our understanding of common accounting transactions that we learned in <a routerlink='file:///Users/mallika/Dropbox/Accounting%20Courseware/Chapter_1_Introduction_to_business_and_accounting_concepts/documents/Chapter_1_Introduction/Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> to complete an accounting transactions grid.
+Now we will use our understanding of common accounting transactions that we learned in <a routerlink='Chapter_1_Introduction/Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> to complete an accounting transactions grid.
 
 ## Interactive Exercise
 
