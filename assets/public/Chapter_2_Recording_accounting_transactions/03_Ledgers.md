@@ -13,13 +13,21 @@ The following are sample ledgers for the **Cash** and **Fees Earned** accounts.Â
 <table>
 <tbody>
 <tr class="odd">
-<td><img src="./Chapter_2_Recording_accounting_transactions/media/03_Ledgers/image3.png" width="511" height="261" /></td>
+<td>``` 
+ [cosmatt-widget] 
+ {&quot;type&quot;:&quot;spreadsheet-DLSleonardo-v2&quot;,&quot;options&quot;:{&quot;data&quot;:{&quot;itemId&quot;:&quot;leo-leonardo-demo-651&quot;,&quot;meta&quot;:{&quot;renderOverrides&quot;:{},&quot;enableframeButton&quot;:true},&quot;cssOverrides&quot;:{&quot;div.cosmatt-widget&quot;:{&quot;padding-top&quot;:0},&quot;div.cosmatt-widget &gt; div.leonardoPlayerContainer&quot;:{&quot;padding-bottom&quot;:0}}}}} 
+ ```</td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-##   
+## 
+
+## \`\`\` 
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-653","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget \> div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+ \`\`\`  
   
 Interactive Exercise 5 â€“ Ledger accounts
 

@@ -15,9 +15,15 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 
 ## Rules of Debit and Credit
 
-Whether an account’s amount should be entered in the debit column or the credit column is based on (1) the type of account it is and (2) whether the account is increasing or decreasing. The following table summarizes the rules of debit and credit for commonly used accounts.
-
 ![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image3.png)
+
+Whether an account’s amount should be entered in the debit column or the credit column is based on
+
+1)  Type of account
+
+2)  Whether the account is increasing or decreasing.
+
+The following table summarizes the rules of debit and credit for commonly used accounts.
 
 ```
 [cosmatt-widget]
@@ -26,9 +32,9 @@ Whether an account’s amount should be entered in the debit column or the credi
 
 ## Interactive Exercise 3 – Account classifications and behaviors
 
-**Instruction: ** For each account listed, select its corresponding account type and whether it would increase with either a debit or a credit.
+**Instruction: ** For each account listed below under column ACCOUNTS, enter its corresponding account type and whether it would increase with either a debit or a credit.
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"showFeedbackOnlyIfValueChanged":true}}},"id":"Chapter_2_Introduction/Journal/test-Emded_01"}} 
+ {"type":"assessment","options":{"data":{"meta":{"renderOverrides":{}}},"id":"Chapter_2_Introduction/Journal/test-Emded_01"}} 
 ```

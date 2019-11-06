@@ -4,8 +4,7 @@
     "data": {
       "meta": {
         "renderOverrides": {
-          "showOverallGradingStatus": true,
-          "showFeedbackOnlyIfValueChanged": true
+          
         }
       }
     },
