@@ -5,6 +5,8 @@
     "data": {
       "meta": {
         "renderOverrides": {
+			"showOverallGradingStatus": true,
+          "showFeedbackOnlyIfValueChanged": true,
           "widgetStyles": {
             "border": "1px solid #ddd",
             "box-shadow":"none"

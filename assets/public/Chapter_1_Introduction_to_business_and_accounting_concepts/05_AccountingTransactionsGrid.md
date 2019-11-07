@@ -20,14 +20,14 @@ Now we will use our understanding of common accounting transactions that we lear
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_03","data":{}}} 
+ {"type":"assessment","options":{"data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"showFeedbackOnlyIfValueChanged":true}}},"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_03"}} 
 ```
 
 **4. The following accounting transactions grid summarizes your entries from the previous three parts. Enter the totals for each account column in the last row.**
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_04","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
+ {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_04","data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"showFeedbackOnlyIfValueChanged":true,"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
 ```
 
 **The following grid shows an aggregated picture of all the transactions just completed. **

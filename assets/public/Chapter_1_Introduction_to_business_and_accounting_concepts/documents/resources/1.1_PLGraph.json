@@ -3,6 +3,7 @@
   "options": {
     "data": {
       "chart": {
+        "mode": "course",
         "chartelements": {
           "title": {
             "display": true,
@@ -114,7 +115,11 @@
             "cssclasses": {}
           }
         },
-        "others": {}
+        "others": {},
+        "override": {
+          "plGraphContainermarginleft": 8,
+          "plconclusionfontweight": "bold"
+        }
       }
     }
   }
