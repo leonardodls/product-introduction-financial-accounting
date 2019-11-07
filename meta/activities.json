@@ -100,7 +100,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "If total monthly expenses for Core Fit for January are $17,000 and total monthly revenue is $15,000, the company is:<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "In January, Core Fit Fitness Center earned $17,000 in revenue and incurred $15,000 in expenses. The company generated<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -111,16 +111,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "Generating variable expenses of $2,000"
+                "choiceA": "$2,000 of variable expenses"
               },
               {
-                "choiceB": "Generating a $2,000 profit"
+                "choiceB": "a profit of $2,000"
               },
               {
-                "choiceC": "Generating a $2,000 loss"
+                "choiceC": "a loss of $2,000"
               },
               {
-                "choiceD": "Break-even"
+                "choiceD": "exactly enough revenue to break even"
               }
             ]
           }
@@ -170,7 +170,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Using the profit and loss chart above, how many members are required to break-even when the variable cost is $25, the fixed cost is $25,000 and the membership fee is $75.<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "Core Fit Fitness Center is an upscale workout and training facility. The monthly membership fee per person is $75. Fixed costs per month are $25,000, and the monthly variable cost per member is $25. Use the interactive profit and loss chart to determine that the monthly break-even point is<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
@@ -181,16 +181,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "10,000"
+                "choiceA": "10,000 members"
               },
               {
-                "choiceB": "500"
+                "choiceB": "500 members"
               },
               {
-                "choiceC": "417"
+                "choiceC": "417 members"
               },
               {
-                "choiceD": "300"
+                "choiceD": "300 members"
               }
             ]
           }
@@ -251,16 +251,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "<b>Purchase supplies on account</b> : Retained Earnings increases (for expense) AND Accounts Payable decreases"
+                "choiceA": "<b>Purchase supplies on account</b> : Supplies Expense decreases and Accounts Payable decreases"
               },
               {
-                "choiceB": "<b>Sell to customers on account</b> : Accounts Receivable increases AND Retained Earnings decreases (for revenue)"
+                "choiceB": "<b>Sell to customers on account</b> : Accounts Receivable increases AND Fees Earned decreases"
               },
               {
                 "choiceC": "<b>Pay cash on account</b> : Accounts Payable decreases AND Cash decreases"
               },
               {
-                "choiceD": "<b>Receive cash on account</b> : Cash decreases AND Accounts Receivable increases"
+                "choiceD": "<b>Receive cash on account</b> : Cash increases AND Accounts Receivable increases"
               }
             ]
           }
@@ -321,16 +321,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "Issue stock for cash: Retained Earnings increases AND Cash decreases"
+                "choiceA": "Issue stock for cash: Common Stock increases AND Cash decreases"
               },
               {
-                "choiceB": "Purchased supplies on account: Supplies Expense increases AND Cash decreases "
+                "choiceB": "Purchase supplies on account: Supplies Expense increases AND Cash decreases"
               },
               {
                 "choiceC": "Receive cash on account: Cash increases AND Accounts Receivable decreases"
               },
               {
-                "choiceD": "Closed revenue account: Fees Earned increases AND Retained Earnings decreases"
+                "choiceD": "Sell to customers on account: Fees Earned increases AND Cash decreases"
               }
             ]
           }
@@ -387,7 +387,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+                "text": "Each row in the interactive grid below contains an accounting transaction in the first column. Complete each row by entering amounts under the two account columns that are relevant to the transaction <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
               }
             ]
           },
@@ -680,7 +680,7 @@
 					"layout": "MCQ",
 					"data": {
 						"questiondata": [{
-							"text": "Which of the following is NOT a service business?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+							"text": "Which of the following is not a service business?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -689,16 +689,16 @@
 					"i1": {
 						"type": "MCSR",
 						"MCSR": [{
-								"choiceA": "A tire store"
+								"choiceA": "a tire store"
 							},
 							{
-								"choiceB": "An airline"
+								"choiceB": "an airline"
 							},
 							{
-								"choiceC": "A dry cleaner"
+								"choiceC": "a dry cleaner"
 							},
 							{
-								"choiceD": "An attorney"
+								"choiceD": "a law firm"
 							}
 						]
 					}
