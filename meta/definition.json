@@ -369,13 +369,6 @@
                 "tracking": false
               },
               {
-                "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_05",
-                "resource": "RE_CH_1_SEC_5_EM_05",
-                "item-type": "resource",
-                "name": "Emb Test 1",
-                "tracking": false
-              },
-              {
                 "item-code": "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_06",
                 "resource": "RE_CH_1_SEC_5_EM_06",
                 "item-type": "resource",
@@ -450,21 +443,21 @@
             "resource": "RE_CH_2_SEC_2",
             "item-code": "Chapter_2_Introduction/ProcessJournalizing",
             "tracking": true,  
-			       "embedded": [
-                {
-                  "item-code": "Chapter_2_Introduction/ProcessJournalizing/test-Emded_01",
-                  "resource": "RE_CH_2_SEC_2_EM_01",
-                  "item-type": "resource",
-                  "name": "Emb Test 1",
-                  "tracking": false
-                },
-        			  {
-                        "item-code": "Chapter_2_Introduction/ProcessJournalizing/test-Emded_02",
-                        "resource": "RE_CH_2_SEC_2_EM_02",
-                        "item-type": "resource",
-                        "name": "Emb Test 1",
-                        "tracking": false
-                }
+			"embedded": [
+              {
+                "item-code": "Chapter_2_Introduction/ProcessJournalizing/test-Emded_01",
+                "resource": "RE_CH_2_SEC_2_EM_01",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              },
+			  {
+                "item-code": "Chapter_2_Introduction/ProcessJournalizing/test-Emded_02",
+                "resource": "RE_CH_2_SEC_2_EM_02",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
             ], 			
             "attribs": {
               "mark-as-complete": {
@@ -478,16 +471,7 @@
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_3",
             "item-code": "Chapter_2_Introduction/Ledgers",
-            "tracking": true, 
-            "embedded": [
-                {
-                  "item-code": "Chapter_2_Introduction/Ledgers/test-Emded_01",
-                  "resource": "RE_CH_2_SEC_3_EM_01",
-                  "item-type": "resource",
-                  "name": "Emb Test 1",
-                  "tracking": false
-                }
-            ],             
+            "tracking": true,            
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -1680,13 +1664,6 @@
                 "item-type": "resource",
                 "name": "Emb Test 1",
                 "tracking": false
-              },
-              {
-                "item-code": "Chapter_14_Introduction/calNetPreValue/test-Emded_02",
-                "resource": "RE_CH_1_SEC_14_EM_02",
-                "item-type": "resource",
-                "name": "Emb Test 2",
-                "tracking": false
               }
             ],         
             "attribs": {
@@ -1898,17 +1875,6 @@
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
       }, 
-     "RE_CH_1_SEC_14_EM_02": {
-        "sub-type": "test",
-        "tags": [
-          "Practice"
-        ],
-        "test": {
-          "url": "CalculatingNPValue-test-Emded_02"
-        },
-        "description": "fundamentals - units - Test your understanding",
-        "learning-objectives": []
-      }, 
       "RE_CH_1_SEC_5_EM_02": {
         "sub-type": "test",
         "tags": [
@@ -1938,17 +1904,6 @@
         ],
         "test": {
           "url": "Common-Accounting-test-Emded_04"
-        },
-        "description": "fundamentals - units - Test your understanding",
-        "learning-objectives": []
-      }, 
-      "RE_CH_1_SEC_5_EM_05": {
-        "sub-type": "test",
-        "tags": [
-          "Practice"
-        ],
-        "test": {
-          "url": "Common-Accounting-test-Emded_05"
         },
         "description": "fundamentals - units - Test your understanding",
         "learning-objectives": []
@@ -2637,18 +2592,6 @@
 		"description": "fundamentals - units - Test your understanding",
 		"learning-objectives": []
 	  },
-    "RE_CH_2_SEC_3_EM_01": {
-      "sub-type": "test",
-      "tags": [
-        "Practice"
-      ],
-      "test": {
-        "url": "ledgers-test-Emded_01"
-      },
-      "description": "fundamentals - units - Test your understanding",
-      "learning-objectives": []
-    },
-    
 	 "RE_CH_2_SEC_2_EM_02": {
 		"sub-type": "test",
 		"tags": [
