@@ -24,8 +24,5 @@ The following are sample ledgers for the **Cash** and **Fees Earned** accounts.Â
 
 ***Instruction*:** Assume that the amounts provided in the ledger accounts below were posted from the journal. Complete each ledger by entering in the correct amounts in the accountâ€™s balance column.
 
-```
-[cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_2_Introduction/Ledgers/test-Emded_01","data":{}}} 
-```
+
 
