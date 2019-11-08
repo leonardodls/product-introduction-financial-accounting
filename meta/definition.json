@@ -4,7 +4,7 @@
     "code": "cosmatt",
     "thumbnailsmall": "cover.jpg",
     "thumbnaillarge": "cover.jpg",
-    "title": "Introduction to Financial Accounting",
+    "title": "Class Trial",
     "authors": [
       {
         "honorific": "Mr",
@@ -176,32 +176,7 @@
   },
   "items": {
     "model": {
-      "introduction": [
-        {
-          "name": "About the Course",
-          "item-type": "resource",
-          "resource": "RE_About_Course",
-          "item-code": "introduction/about_the_course",
-          "tracking": false
-        },
-        {
-          "name": "Foreword",
-          "item-type": "resource",
-          "resource": "RE_FOREWORD",
-          "item-code": "about/foreword",
-          "tracking": false
-        },
-        {
-          "name": "Title",
-          "item-type": "folder",
-          "item-code": "about/title",
-          "title": "Introduction to Financial Accounting",
-          "publisher": {
-            "name": "Compro Technologies",
-            "copyright": "©2018 Compro Technologies All Rights Reserved"
-          },
-          "tracking": false
-        },
+      "introduction": [        
         {
           "name": "learning Objectives",
           "item-type": "resource",
