@@ -12,8 +12,10 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 ```
 
 > Tip
-> 
-> In the journal, the column heading Debit means “left” and Credit means “right” in terms of the column where an account’s dollar amount should be entered.
+
+*Credit and Debit come from the Latin words credre and debere, respectively. Credre means “to entrust,” and Debere means “to owe”. *
+
+*In financial accounting, “Dr” (Debit) indicates the left side of a ledger account and “Cr” (Credit) indicates the right.*
 
 ## Rules of Debit and Credit
 
