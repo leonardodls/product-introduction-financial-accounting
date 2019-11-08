@@ -1,3 +1,5 @@
+##### ![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image2.png)
+
 The accounting equation grid discussed in <a routerlink='file:///C:\\Users\\mallika\\Dropbox\\Accounting%20Courseware\\Chapter_1_Introduction_to_business_and_accounting_concepts\\documents\\Chapter_1_Introduction/Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> displays the transactions in an easy-to-read format in terms of the accounts impacted and the related amounts. However, this layout becomes a bit cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analyzing, classifying and recording transactions. These are the **journal** and the **ledger**.
 
 Financial transactions are written down throughout the accounting period as they happen in a record book called the **journal.**  
@@ -15,13 +17,13 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 
 ## Rules of Debit and Credit
 
-![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image3.png)
+![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image4.png)
 
 Whether an account’s amount should be entered in the debit column or the credit column is based on
 
-1)  Type of account
+  - Type of account
 
-2)  Whether the account is increasing or decreasing.
+  - Whether the account is increasing or decreasing.
 
 The following table summarizes the rules of debit and credit for commonly used accounts.
 

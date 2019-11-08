@@ -17,71 +17,10 @@ The following *Cash* ledger shows its balance accumulates in the Debit column, e
 <table>
 <tbody>
 <tr class="odd">
-<td><table>
-<thead>
-<tr class="header">
-<th>Cash</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Item</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td></td>
-<td>8,000</td>
-<td></td>
-<td>8,000</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/1</td>
-<td></td>
-<td>  </td>
-<td>2,000</td>
-<td>6,000</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/5</td>
-<td></td>
-<td>800</td>
-<td></td>
-<td>6,800</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/8</td>
-<td></td>
-<td></td>
-<td>500</td>
-<td>6,300</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/10</td>
-<td></td>
-<td>700</td>
-<td></td>
-<td>7,000</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<td>``` 
+ [cosmatt-widget] 
+ {&quot;type&quot;:&quot;spreadsheet-DLSleonardo-v2&quot;,&quot;options&quot;:{&quot;data&quot;:{&quot;itemId&quot;:&quot;leo-leonardo-demo-663&quot;,&quot;meta&quot;:{&quot;renderOverrides&quot;:{},&quot;enableframeButton&quot;:true},&quot;cssOverrides&quot;:{&quot;div.cosmatt-widget&quot;:{&quot;padding-top&quot;:0},&quot;div.cosmatt-widget &gt; div.leonardoPlayerContainer&quot;:{&quot;padding-bottom&quot;:0}}}}} 
+ ```</td>
 </tr>
 </tbody>
 </table>
@@ -97,63 +36,10 @@ The following *Fees Earned* ledger shows its balance accumulates in the Credit c
 <tr class="odd">
 <td><p>[Similarly, we can explain the above text with a diagram]</p>
 <p> </p>
-<table>
-<thead>
-<tr class="header">
-<th>Fees Earned</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Item</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-</tr>
-<tr class="even">
-<td>6/5</td>
-<td></td>
-<td></td>
-<td>800</td>
-<td></td>
-<td>800</td>
-</tr>
-<tr class="odd">
-<td>6/10</td>
-<td></td>
-<td></td>
-<td>700</td>
-<td></td>
-<td>1,500</td>
-</tr>
-<tr class="even">
-<td>6/15</td>
-<td></td>
-<td></td>
-<td>900</td>
-<td></td>
-<td>2,400</td>
-</tr>
-<tr class="odd">
-<td>6/18</td>
-<td></td>
-<td></td>
-<td>600</td>
-<td></td>
-<td>3,000</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>``` 
+ [cosmatt-widget] 
+ {&quot;type&quot;:&quot;spreadsheet-DLSleonardo-v2&quot;,&quot;options&quot;:{&quot;data&quot;:{&quot;itemId&quot;:&quot;leo-leonardo-demo-664&quot;,&quot;meta&quot;:{&quot;renderOverrides&quot;:{},&quot;enableframeButton&quot;:true},&quot;cssOverrides&quot;:{&quot;div.cosmatt-widget&quot;:{&quot;padding-top&quot;:0},&quot;div.cosmatt-widget &gt; div.leonardoPlayerContainer&quot;:{&quot;padding-bottom&quot;:0}}}}} 
+ ```</p></td>
 </tr>
 </tbody>
 </table>
@@ -168,63 +54,7 @@ The following *Wages Expense* ledger shows its balance accumulates in the Debit 
 <tbody>
 <tr class="odd">
 <td><p> </p>
-<table>
-<thead>
-<tr class="header">
-<th>Wages Expense</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Item</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-</tr>
-<tr class="even">
-<td>6/7</td>
-<td></td>
-<td>500</td>
-<td></td>
-<td>  500</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/14</td>
-<td></td>
-<td>500</td>
-<td></td>
-<td>1,000</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/21</td>
-<td></td>
-<td>500</td>
-<td></td>
-<td>1,500</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/28</td>
-<td></td>
-<td>500</td>
-<td></td>
-<td>2,000</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p><img src="./Chapter_2_Recording_accounting_transactions/media/05_Normal_account_balances/image4.png" width="283" height="200" /></p></td>
 </tr>
 </tbody>
 </table>
