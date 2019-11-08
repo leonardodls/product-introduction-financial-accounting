@@ -449,7 +449,9 @@
                 ],
                 "resizer": true
               }
-            }
+            },
+            "hideBottomToolbar" : "true",
+            "alwaysShowQuestion" : "tru"
           }
         }
       },
@@ -532,7 +534,9 @@
                 ],
                 "resizer": true
               }
-            }
+            },
+            "hideBottomToolbar" : "true",
+            "alwaysShowQuestion" : "tru"
           }
         }
       },
