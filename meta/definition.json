@@ -451,7 +451,7 @@
                 "name": "Emb Test 1",
                 "tracking": false
               },
-			  {
+			       {
                 "item-code": "Chapter_2_Introduction/ProcessJournalizing/test-Emded_02",
                 "resource": "RE_CH_2_SEC_2_EM_02",
                 "item-type": "resource",
@@ -471,7 +471,16 @@
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_3",
             "item-code": "Chapter_2_Introduction/Ledgers",
-            "tracking": true,            
+            "tracking": true,
+            "embedded": [
+              {
+                "item-code": "Chapter_2_Introduction/Ledgers/test-Emded_01",
+                "resource": "RE_CH_2_SEC_3_EM_01",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ],              
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -2612,7 +2621,18 @@
 		"description": "fundamentals - units - Test your understanding",
 		"learning-objectives": []
 	  },
-	  "RE_CH_2_SEC_4_EM_01": {
+   "RE_CH_2_SEC_3_EM_01": {
+    "sub-type": "test",
+    "tags": [
+      "Practice"
+    ],
+    "test": {
+      "url": "ProcessLedge-test-Emded_01"
+    },
+    "description": "fundamentals - units - Test your understanding",
+    "learning-objectives": []
+    }, 
+	 "RE_CH_2_SEC_4_EM_01": {
 		"sub-type": "test",
 		"tags": [
 		  "Practice"
