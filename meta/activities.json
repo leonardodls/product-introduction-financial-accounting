@@ -450,8 +450,8 @@
                 "resizer": true
               }
             },
-            "hideBottomToolbar" : "true",
-            "alwaysShowQuestion" : "tru"
+            "hideBottomToolbar" : true,
+            "alwaysShowQuestion" : true
           }
         }
       },
@@ -535,8 +535,8 @@
                 "resizer": true
               }
             },
-            "hideBottomToolbar" : "true",
-            "alwaysShowQuestion" : "tru"
+            "hideBottomToolbar" : true,
+            "alwaysShowQuestion" : true
           }
         }
       },
