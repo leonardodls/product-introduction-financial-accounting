@@ -2,25 +2,25 @@ LO: Apply the series of steps for properly posting transactions to the ledgers.
 
 The process of copying from the journal to the ledger is called **posting**. It is done one line at a time from the journal. A running total is then maintained for each account and is updated every time an amount is posted. Here are step-by-step instructions for posting each transaction.
 
-1.  > Take note of the account name in the first line of the journal. Find that ledger account.
+  - Take note of the account name in the first line of the journal. Find that ledger account.
 
-2.  > Copy the date from the journal to the first blank row in that ledger.
+  - Copy the date from the journal to the first blank row in that ledger.
 
-3.  > Leave the Item column blank in the ledger at this point.
+  - Leave the Item column blank in the ledger at this point.
 
-4.  > Take note of the amount on the first line of the journal and the column it is in.
+  - Take note of the amount on the first line of the journal and the column it is in.
 
-5.  > Copy that amount to the same column in the ledger on the same line where you entered the date.
+  - Copy that amount to the same column in the ledger on the same line where you entered the date.
 
-6.  > Update the account’s running balance. Take note of any previous balance in the last two columns of the ledger.
+  - Update the account’s running balance. Take note of any previous balance in the last two columns of the ledger.
 
 <!-- end list -->
 
-1.  > If there is no previous balance and the entry is a Debit (Credit), enter the same amount in the Debit (Credit) balance column.
+  - If there is no previous balance and the entry is a Debit (Credit), enter the same amount in the Debit (Credit) balance column.
 
-2.  > If the previous balance is in the Debit (Credit) column and the entry is a Debit (Credit), add the two amounts and enter the total in the Debit (Credit) balance column.
+  - If the previous balance is in the Debit (Credit) column and the entry is a Debit (Credit), add the two amounts and enter the total in the Debit (Credit) balance column.
 
-3.  > If the previous balance is in the Debit (Credit) column and the entry is a Credit (Debit), subtract the credit (debit) amount from the balance and enter the difference in the Debit (Credit) balance column. 
+  - If the previous balance is in the Debit (Credit) column and the entry is a Credit (Debit), subtract the credit (debit) amount from the balance and enter the difference in the Debit (Credit) balance column. 
 
 ***\[Can we make a diagram like this to explain?\]***
 

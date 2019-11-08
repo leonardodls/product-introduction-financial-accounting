@@ -14,16 +14,10 @@ The following *Cash* ledger shows its balance accumulates in the Debit column, e
 
   
 
-<table>
-<tbody>
-<tr class="odd">
-<td>``` 
- [cosmatt-widget] 
- {&quot;type&quot;:&quot;spreadsheet-DLSleonardo-v2&quot;,&quot;options&quot;:{&quot;data&quot;:{&quot;itemId&quot;:&quot;leo-leonardo-demo-663&quot;,&quot;meta&quot;:{&quot;renderOverrides&quot;:{},&quot;enableframeButton&quot;:true},&quot;cssOverrides&quot;:{&quot;div.cosmatt-widget&quot;:{&quot;padding-top&quot;:0},&quot;div.cosmatt-widget &gt; div.leonardoPlayerContainer&quot;:{&quot;padding-bottom&quot;:0}}}}} 
- ```</td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-663","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 ## Fees Earned Account
 
@@ -31,18 +25,14 @@ Alternatively, for the *Fees Earned* account, the first entry is in the first Cr
 
 The following *Fees Earned* ledger shows its balance accumulates in the Credit column. The normal balance of the *Fees Earned* account is a Credit.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>[Similarly, we can explain the above text with a diagram]</p>
-<p> </p>
-<p>``` 
- [cosmatt-widget] 
- {&quot;type&quot;:&quot;spreadsheet-DLSleonardo-v2&quot;,&quot;options&quot;:{&quot;data&quot;:{&quot;itemId&quot;:&quot;leo-leonardo-demo-664&quot;,&quot;meta&quot;:{&quot;renderOverrides&quot;:{},&quot;enableframeButton&quot;:true},&quot;cssOverrides&quot;:{&quot;div.cosmatt-widget&quot;:{&quot;padding-top&quot;:0},&quot;div.cosmatt-widget &gt; div.leonardoPlayerContainer&quot;:{&quot;padding-bottom&quot;:0}}}}} 
- ```</p></td>
-</tr>
-</tbody>
-</table>
+\[Similarly, we can explain the above text with a diagram\]
+
+ 
+
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-664","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 ## Expense Account
 
@@ -50,16 +40,8 @@ Finally, for any expense account, the first entry is in the first Debit column, 
 
 The following *Wages Expense* ledger shows its balance accumulates in the Debit column. The normal balance of the *Wages Expense* account is a Debit.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p> </p>
-<p><img src="./Chapter_2_Recording_accounting_transactions/media/05_Normal_account_balances/image4.png" width="283" height="200" /></p></td>
-</tr>
-</tbody>
-</table>
-
-##   
+## ![](./Chapter_2_Recording_accounting_transactions/media/05_Normal_account_balances/image4.png)  
+  
   
 Test Your Understanding 
 

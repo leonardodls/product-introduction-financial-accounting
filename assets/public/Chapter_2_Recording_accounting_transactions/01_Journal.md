@@ -1,6 +1,6 @@
-![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image2.png)
+##### ![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image2.png)
 
-The accounting equation grid discussed in <a routerlink='file:///C:\\Users\\mallika\\Dropbox\\Accounting%20Courseware\\Chapter_1_Introduction_to_business_and_accounting_concepts\\documents\\Chapter_1_Introduction/Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> displays the transactions in an easy-to-read format in terms of the accounts impacted and the related amounts. However, this layout becomes a bit cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analyzing, classifying and recording transactions. These are the **journal** and the **ledger**.
+The accounting equation grid discussed in <a routerlink='file:///C:\\Users\\Neelu_singh\\Dropbox\\Accounting%20Courseware\\Chapter_1_Introduction_to_business_and_accounting_concepts\\documents\\Chapter_1_Introduction\\Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> displays the transactions in an easy-to-read format in terms of the accounts impacted and the related amounts. However, this layout becomes a bit cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analyzing, classifying and recording transactions. These are the **journal** and the **ledger**.
 
 Financial transactions are written down throughout the accounting period as they happen in a record book called the **journal.**  
 
@@ -12,10 +12,10 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 ```
 
 > Tip
-
-*Credit and Debit come from the Latin words credre and debere, respectively. Credre means “to entrust,” and Debere means “to owe”. *
-
-*In financial accounting, “Dr” (Debit) indicates the left side of a ledger account and “Cr” (Credit) indicates the right.*
+> 
+> Credit and Debit come from the Latin words credre and debere, respectively. Credre means “to entrust,” and Debere means “to owe”.
+> 
+> In financial accounting, “Dr” (Debit) indicates the left side of a ledger account and “Cr” (Credit) indicates the right.
 
 ## Rules of Debit and Credit
 
