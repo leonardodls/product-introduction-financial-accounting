@@ -19,38 +19,38 @@
           "resource": "RE_0002"
         },
         {
-          "name": "Question 8",
-          "item-code": "Introduction-test-Emded/Question-8",
-          "item-type": "resource",
-          "resource": "RE_00015"
-        },
-        {
           "name": "Question 3",
           "item-code": "Introduction-test-Emded/Question-3",
           "item-type": "resource",
-          "resource": "RE_0003"
+          "resource": "RE_00015"
         },
         {
           "name": "Question 4",
           "item-code": "Introduction-test-Emded/Question-4",
           "item-type": "resource",
-          "resource": "RE_0004"
+          "resource": "RE_0003"
         },
         {
           "name": "Question 5",
           "item-code": "Introduction-test-Emded/Question-5",
           "item-type": "resource",
-          "resource": "RE_0005"
+          "resource": "RE_0004"
         },
         {
           "name": "Question 6",
           "item-code": "Introduction-test-Emded/Question-6",
           "item-type": "resource",
-          "resource": "RE_0006"
+          "resource": "RE_0005"
         },
         {
           "name": "Question 7",
           "item-code": "Introduction-test-Emded/Question-7",
+          "item-type": "resource",
+          "resource": "RE_0006"
+        },
+        {
+          "name": "Question 8",
+          "item-code": "Introduction-test-Emded/Question-8",
           "item-type": "resource",
           "resource": "RE_0007"
         }      
@@ -66,7 +66,7 @@
           "name": "Question 1",
           "item-code": "Introduction-Feedback/Question-1",
           "item-type": "resource",
-          "resource": "RE_0009"
+          "resource": "RE_0008"
         }    
       ]
     }
@@ -588,7 +588,7 @@
         "test"
       ]
     },   
-    "RE_0009": {
+    "RE_0008": {
       "meta": {
         "type": "MCSR",
         "score": {
