@@ -484,7 +484,16 @@
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_4",
             "item-code": "Chapter_2_Introduction/PostingLedgerAccounts",
-            "tracking": true,            
+            "tracking": true,  
+            "embedded": [
+              {
+                "item-code": "Chapter_2_Introduction/PostingLedgerAccounts/test-Emded_01",
+                "resource": "RE_CH_2_SEC_4_EM_01",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
+              }
+            ], 			
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -2599,6 +2608,17 @@
 		],
 		"test": {
 		  "url": "ProcessJournalizing-test-Emded_02"
+		},
+		"description": "fundamentals - units - Test your understanding",
+		"learning-objectives": []
+	  },
+	  "RE_CH_2_SEC_4_EM_01": {
+		"sub-type": "test",
+		"tags": [
+		  "Practice"
+		],
+		"test": {
+		  "url": "PostingLedgerAccounts-test-Emded_02"
 		},
 		"description": "fundamentals - units - Test your understanding",
 		"learning-objectives": []
