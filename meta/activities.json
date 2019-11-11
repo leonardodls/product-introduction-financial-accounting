@@ -538,6 +538,12 @@
 				"item-code": "PostingLedgerAccounts-test-Emded_01/Question-1",
 				"item-type": "resource",
 				"resource": "RE_00062"
+			},
+			{
+				"name": "Question 2",
+				"item-code": "PostingLedgerAccounts-test-Emded_01/Question-2",
+				"item-type": "resource",
+				"resource": "RE_00064"
 			}]
      
 		},
@@ -4161,7 +4167,7 @@
 			    "instructions": [
 			      {
 			        "tag": "html",
-			        "html": " "
+			        "html": "Given this journal entries , which is the correct journal entry? "
 			      }
 			    ],
 			    "stimulus": [
@@ -4175,7 +4181,7 @@
 			      "data": {
 			        "questiondata": [
 			          {
-			            "text": "Given this journal entries , which is the correct journal entry? <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
+			            "text": " <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
 			          }
 			        ]
 			      },
@@ -4406,6 +4412,66 @@
 			"i1": {
 			  "correct": "60",
 			  "ignorewhitespace": true
+			}
+		  },
+		  "learning-objectives": [],
+		  "tags": [
+			"test"
+		  ]
+		},
+		"RE_00064": {
+			  "meta": {
+				"type": "FIBSR",
+				"score": {
+				  "default": 0,
+				  "max": 0.5,
+				  "min": 0
+				}
+			  },
+			  "content": {
+				"instructions": [
+				  {
+					"tag": "html",
+					"html": "The Cash ledger has four entries that were posted from the journal in the following order: a $500 debit, a $100 credit, a $200 credit, and a $700 debit. What is the account’s current running balance in the ledger?"
+				  }
+				],
+				"stimulus": [
+				  {
+					"tag": ""
+				  }
+				],
+				"canvas": {
+				  "layout": "FIB2",
+				  "data": {
+					"questiondata": [
+					  {
+						"text": "$ <a href='http://www.comprodls.com/m1.0/interaction/fib2'>i1</a>."
+					  }
+					]
+				  },
+				  "raw": ""
+					},
+					"interactions": {
+					  "i1": {
+						"type": "FIBSR"
+					  }
+			},
+			"hint": {}
+		  },
+		  "feedback": {
+			"global": {
+			  "correct": "Perfect. You got it correct !!!",
+			  "partiallyCorrect": "You are almost done. Try Again !!!",
+			  "incorrect": "Sorry, Wrong Responses. Try Again After some time!!",
+			  "partiallyIncorrect": "Sorry, Wrong responses",
+			  "empty": "You did not enter anything."
+			}
+		  },
+		  "responses": {
+			"i1": {
+			  "correct": "$900 debit",
+			  "ignorecase": false,
+			  "ignorewhitespace": false
 			}
 		  },
 		  "learning-objectives": [],
