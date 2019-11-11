@@ -11,7 +11,7 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-638","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-> Tip
+> Did you know?
 > 
 > Credit and Debit come from the Latin words credre and debere, respectively. Credre means “to entrust,” and Debere means “to owe”.
 > 

@@ -12,7 +12,10 @@ A **trial balance** is a list of all a business’s accounts and its current led
 
 Assume Core Fitness has only five accounts. \[It shows the ledger balances for the six transactions presented previously.\] The trial balance lists these accounts and their corresponding balances at the end of the month.
 
-## ![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image3.png)
+## \`\`\` 
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-670","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget \> div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+ \`\`\`
 
 ## 
 
@@ -26,349 +29,27 @@ Interactive Exercise 7 – Trial balance
 <table>
 <tbody>
 <tr class="odd">
-<td><table>
-<thead>
-<tr class="header">
-<th>LEDGER</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td><table>
-<thead>
-<tr class="header">
-<th>Cash</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Item</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td></td>
-<td>10,000</td>
-<td></td>
-<td>10,000</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/2</td>
-<td></td>
-<td></td>
-<td>3,800</td>
-<td>6,200</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/5</td>
-<td></td>
-<td>2,500</td>
-<td></td>
-<td>8,700</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/7</td>
-<td></td>
-<td></td>
-<td>1,100</td>
-<td>7,600</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/11</td>
-<td></td>
-<td>9,600</td>
-<td></td>
-<td>17,200</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/14</td>
-<td></td>
-<td></td>
-<td>1,100</td>
-<td>16,100</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/20</td>
-<td></td>
-<td>4,300</td>
-<td></td>
-<td>20,400</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/21</td>
-<td></td>
-<td></td>
-<td>1,100</td>
-<td>19,300</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/25</td>
-<td></td>
-<td>13,600</td>
-<td></td>
-<td>32,900</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/28</td>
-<td></td>
-<td></td>
-<td>1,100</td>
-<td>31,800</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Common Stock</td>
-</tr>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Item</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td></td>
-<td></td>
-<td>10,000</td>
-<td></td>
-<td>10,000</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Fees Earned</td>
-</tr>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Item</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-</tr>
-<tr class="even">
-<td>6/5</td>
-<td></td>
-<td></td>
-<td>  2,500</td>
-<td></td>
-<td>2,500</td>
-</tr>
-<tr class="odd">
-<td>6/11</td>
-<td></td>
-<td>  </td>
-<td>  9,600</td>
-<td></td>
-<td>12,100</td>
-</tr>
-<tr class="even">
-<td>6/20</td>
-<td></td>
-<td></td>
-<td>4,300</td>
-<td></td>
-<td>16,400</td>
-</tr>
-<tr class="odd">
-<td>6/25</td>
-<td></td>
-<td></td>
-<td>13,600</td>
-<td></td>
-<td>30,000</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Rent Expense</td>
-</tr>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Item</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-</tr>
-<tr class="even">
-<td>6/2</td>
-<td></td>
-<td>3,800</td>
-<td></td>
-<td>3,800</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Wages Expense</td>
-</tr>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Item</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-</tr>
-<tr class="even">
-<td>6/7</td>
-<td></td>
-<td>1,100</td>
-<td></td>
-<td>1,100</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/14</td>
-<td></td>
-<td>1,100</td>
-<td></td>
-<td>2,200</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/21</td>
-<td></td>
-<td>1,100</td>
-<td></td>
-<td>3,300</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/28</td>
-<td></td>
-<td>1,100</td>
-<td></td>
-<td>4,400</td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>[This trial balance should be placed to the right of the ledgers]</p>
-<p><img src="./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image4.png" width="393" height="298" /></p></td>
-</tr>
-</tbody>
-</table></td>
+<td>``` 
+ [cosmatt-widget] 
+ {&quot;type&quot;:&quot;spreadsheet-DLSleonardo-v2&quot;,&quot;options&quot;:{&quot;data&quot;:{&quot;itemId&quot;:&quot;leo-leonardo-demo-668&quot;,&quot;meta&quot;:{&quot;renderOverrides&quot;:{},&quot;enableframeButton&quot;:true},&quot;cssOverrides&quot;:{&quot;div.cosmatt-widget&quot;:{&quot;padding-top&quot;:0},&quot;div.cosmatt-widget &gt; div.leonardoPlayerContainer&quot;:{&quot;padding-bottom&quot;:0}}}}} 
+ ```</td>
 <td>         </td>
 </tr>
 </tbody>
 </table>
 
+\[This trial balance should be placed to the right of the ledgers\]
+
+\`\`\` 
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter\_2\_Introduction/Trialbalance/test-Emded\_01","data":{}}} 
+ \`\`\`
+
 *\[Hint:* The trial balance summarizes the final account balances from all the ledgers. The total of all the debit balances should equal the total of all the credit balances.\]
 
 *\[ANSWER KEY\]*
 
-![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image5.png)
+![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image6.png)
 
 ## Test Your Understanding 
 

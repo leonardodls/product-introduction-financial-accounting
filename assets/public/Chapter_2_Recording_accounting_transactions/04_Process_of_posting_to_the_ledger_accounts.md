@@ -35,5 +35,12 @@ The example that follows shows a journal with six transactions that involve *Cas
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-661","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
+## \`\`\` 
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter\_2\_Introduction/PostingLedgerAccounts/test-Emded\_01","data":{}}} 
+ \`\`\`
+
+## 
+
 ## Test Your Understanding 
 
