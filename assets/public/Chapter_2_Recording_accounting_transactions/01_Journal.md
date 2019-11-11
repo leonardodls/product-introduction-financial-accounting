@@ -19,7 +19,7 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 
 ## Rules of Debit and Credit
 
-![](./Chapter_2_Recording_accounting_transactions/documents/resources/Rules_Debit_Credit.svg)
+##### ![](./Chapter_2_Recording_accounting_transactions/documents/resources/Rules_Debit_Credit.svg)
 
 Whether an account’s amount should be entered in the debit column or the credit column is based on
 
