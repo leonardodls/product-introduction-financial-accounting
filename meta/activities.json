@@ -366,7 +366,16 @@
       "app-data": {
         "type": "spreadsheet-DLSleonardo",
         "options": {
-          "itemId": "leo-leonardo-demo-567"
+          "itemId": "leo-leonardo-demo-567",
+          "data":{
+            "meta":{
+              "renderOverrides":{
+                "widgetStyles":{
+                  "box-shadow": "none"
+                }
+              }
+            }
+          }
         }
       },
       "content": {
