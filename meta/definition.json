@@ -515,7 +515,16 @@
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_5",
             "item-code": "Chapter_2_Introduction/NormalAccountBalances",
-            "tracking": true,            
+            "tracking": true, 
+	        "embedded": [
+				  {
+					"item-code": "Chapter_2_Introduction/NormalAccountBalances/test-Emded_01",
+					"resource": "RE_CH_2_SEC_5_EM_01",
+					"item-type": "resource",
+					"name": "Emb Test 1",
+					"tracking": false
+				  }
+				],			
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -2638,7 +2647,18 @@
 		  "Practice"
 		],
 		"test": {
-		  "url": "PostingLedgerAccounts-test-Emded_02"
+		  "url": "PostingLedgerAccounts-test-Emded_01"
+		},
+		"description": "fundamentals - units - Test your understanding",
+		"learning-objectives": []
+	  }, 
+	 "RE_CH_2_SEC_5_EM_01": {
+		"sub-type": "test",
+		"tags": [
+		  "Practice"
+		],
+		"test": {
+		  "url": "NormalAccountBalances-test-Emded_01"
 		},
 		"description": "fundamentals - units - Test your understanding",
 		"learning-objectives": []
