@@ -4179,8 +4179,7 @@
 			  "content": {
 			    "instructions": [
 			      {
-			        "tag": "html",
-			        "html": "Given this journal entries , which is the correct journal entry? "
+			        "tag": ""
 			      }
 			    ],
 			    "stimulus": [
@@ -4194,7 +4193,7 @@
 			      "data": {
 			        "questiondata": [
 			          {
-			            "text": " <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
+			            "text": "Given this journal entries , which is the correct journal entry?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
 			          }
 			        ]
 			      },
