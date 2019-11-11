@@ -538,12 +538,6 @@
 				"item-code": "PostingLedgerAccounts-test-Emded_01/Question-1",
 				"item-type": "resource",
 				"resource": "RE_00062"
-			},
-			{
-				"name": "Question 2",
-				"item-code": "PostingLedgerAccounts-test-Emded_01/Question-2",
-				"item-type": "resource",
-				"resource": "RE_00064"
 			}]
      
 		},
@@ -557,6 +551,25 @@
 				"item-code": "NormalAccountBalances-test-Emded_01/Question-1",
 				"item-type": "resource",
 				"resource": "RE_00065"
+			}]
+     
+		},
+		{
+			"name": "Trialbalance-test-Emded_01",
+			"item-code": "Trialbalance-test-Emded_01",
+			"item-type": "folder",
+			"sub-type": "test",
+			"items": [{
+				"name": "Question 1",
+				"item-code": "Trialbalance-test-Emded_01/Question-1",
+				"item-type": "resource",
+				"resource": "RE_00066"
+			},
+			{
+				"name": "Question 2",
+				"item-code": "Trialbalance-test-Emded_01/Question-2",
+				"item-type": "resource",
+				"resource": "RE_00067"
 			}]
      
 		}
@@ -4419,66 +4432,6 @@
 			"test"
 		  ]
 		},
-		"RE_00064": {
-			  "meta": {
-				"type": "FIBSR",
-				"score": {
-				  "default": 0,
-				  "max": 0.5,
-				  "min": 0
-				}
-			  },
-			  "content": {
-				"instructions": [
-				  {
-					"tag": "html",
-					"html": "The Cash ledger has four entries that were posted from the journal in the following order: a $500 debit, a $100 credit, a $200 credit, and a $700 debit. What is the account’s current running balance in the ledger?"
-				  }
-				],
-				"stimulus": [
-				  {
-					"tag": ""
-				  }
-				],
-				"canvas": {
-				  "layout": "FIB2",
-				  "data": {
-					"questiondata": [
-					  {
-						"text": "$ <a href='http://www.comprodls.com/m1.0/interaction/fib2'>i1</a>."
-					  }
-					]
-				  },
-				  "raw": ""
-					},
-					"interactions": {
-					  "i1": {
-						"type": "FIBSR"
-					  }
-			},
-			"hint": {}
-		  },
-		  "feedback": {
-			"global": {
-			  "correct": "Perfect. You got it correct !!!",
-			  "partiallyCorrect": "You are almost done. Try Again !!!",
-			  "incorrect": "Sorry, Wrong Responses. Try Again After some time!!",
-			  "partiallyIncorrect": "Sorry, Wrong responses",
-			  "empty": "You did not enter anything."
-			}
-		  },
-		  "responses": {
-			"i1": {
-			  "correct": "$900 debit",
-			  "ignorecase": false,
-			  "ignorewhitespace": false
-			}
-		  },
-		  "learning-objectives": [],
-		  "tags": [
-			"test"
-		  ]
-		},
 		"RE_00065": {
 			"meta": {
 				"type": "MCSR",
@@ -4519,6 +4472,127 @@
 							},
 							{
 								"choiceD": "Wages Expense"
+							}
+						]
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "",
+					"incorrect": "",
+					"empty": ""
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "choiceD"
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
+		"RE_00066": {
+			"meta": {
+				"type": "LEONARDODLS",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"app-data": {
+				"type": "spreadsheet-DLSleonardo",
+				"options": {
+					"itemId": "leo-leonardo-demo-669"
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "html",
+					"html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+				}],
+				"stimulus": [{
+					"tag": "",
+					"image": ""
+				}],
+				"canvas": {
+					"layout": "LEONARDODLS",
+					"data": {
+						"questiondata": [{
+							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "configData"
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "Perfect. You got it correct",
+					"incorrect": "Sorry, Wrong response.",
+					"empty": "You did not enter anything."
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "60",
+					"ignorewhitespace": true
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
+		"RE_00067": {
+			"meta": {
+				"type": "MCSR",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "text",
+					"text": ""
+				}],
+				"stimulus": [{
+					"tag": ""
+				}],
+				"canvas": {
+					"layout": "MCQ",
+					"data": {
+						"questiondata": [{
+							"text": "The trial balance:<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "MCSR",
+						"MCSR": [{
+								"choiceA": "lists amounts that are copied directly from the journal"
+							},
+							{
+								"choiceB": "lists balance sheet accounts, but not income statement accounts"
+							},
+							{
+								"choiceC": "proves there cannot be any accounting errors if total debits equal total credits "
+							},
+							{
+								"choiceD": "must show two totals in order to be meaningful"
 							}
 						]
 					}
