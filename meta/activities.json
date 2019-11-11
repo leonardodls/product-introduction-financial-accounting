@@ -11,13 +11,7 @@
           "item-code": "Introduction-test-Emded/Question-1",
           "item-type": "resource",
           "resource": "RE_0001"
-        },
-        {
-          "name": "Question 2",
-          "item-code": "Introduction-test-Emded/Question-2",
-          "item-type": "resource",
-          "resource": "RE_0002"
-        },
+        },        
         {
           "name": "Question 3",
           "item-code": "Introduction-test-Emded/Question-3",
@@ -35,6 +29,12 @@
           "item-code": "Introduction-test-Emded/Question-5",
           "item-type": "resource",
           "resource": "RE_0004"
+        },
+        {
+          "name": "Question 2",
+          "item-code": "Introduction-test-Emded/Question-2",
+          "item-type": "resource",
+          "resource": "RE_0002"
         },
         {
           "name": "Question 6",
@@ -100,7 +100,7 @@
           "data": {
             "questiondata": [
               {
-                "text": "In January, Core Fit Fitness Center earned $17,000 in revenue and incurred $15,000 in expenses. The company generated<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+                "text": "In January, McMaster Company earned $17,000 in revenue and incurred $15,000 in expenses. The company generated<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
               }
             ]
           },
