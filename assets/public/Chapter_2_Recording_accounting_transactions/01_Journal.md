@@ -1,4 +1,4 @@
-##### ![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image2.png)
+##### ![](./Chapter_2_Recording_accounting_transactions/documents/resources/quote_section2.svg)
 
 The accounting equation grid discussed in <a routerlink='file:///C:\\Users\\Neelu_singh\\Dropbox\\Accounting%20Courseware\\Chapter_1_Introduction_to_business_and_accounting_concepts\\documents\\Chapter_1_Introduction\\Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> displays the transactions in an easy-to-read format in terms of the accounts impacted and the related amounts. However, this layout becomes a bit cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analyzing, classifying and recording transactions. These are the **journal** and the **ledger**.
 
@@ -19,7 +19,7 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 
 ## Rules of Debit and Credit
 
-![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image4.png)
+![](./Chapter_2_Recording_accounting_transactions/documents/resources/Rules_Debit_Credit.svg)
 
 Whether an account’s amount should be entered in the debit column or the credit column is based on
 
