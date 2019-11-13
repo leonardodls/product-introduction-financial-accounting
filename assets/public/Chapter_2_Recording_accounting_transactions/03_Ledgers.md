@@ -1,5 +1,3 @@
-LO: Transfer entries from the journal to the ledger accounts to reorganize and classify the same information.
-
 The **ledger** is the second accounting record book that is a list of a company’s individual accounts list ordered by account category. While the journal lists all types of transactions chronologically, the ledgers separate this same information out by account and keep a running balance for each of these accounts. 
 
 \[Insert example diagram of how ledger converts to journal:

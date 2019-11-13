@@ -1,8 +1,6 @@
-LO: State the column, debit or credit, where an account’s running is typically found.
-
-*\[Notes Box\]*
-
-*“The first entry in each of the previous ledgers indicates which of the two final columns will normally be used to maintain the account’s running balance. This is called the account’s **normal balance**.” *
+> Note
+> 
+> The first entry in each of the previous ledgers indicates which of the two final columns will normally be used to maintain the account’s running balance. This is called the account’s **normal balance**.
 
 ## Cash Account
 

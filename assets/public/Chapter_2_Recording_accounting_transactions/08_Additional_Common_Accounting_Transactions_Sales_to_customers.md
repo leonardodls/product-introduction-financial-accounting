@@ -1,7 +1,3 @@
-LO: Journalize additional transactions by applying the rules of debit and credit to additional business events
-
-  - Journalize sales transactions both for cash and on account.
-
 1.  Core Fitness sells a membership to Frank for $100 and receives cash. When a business provides a service to a customer, the customer may immediately pay with cash.
 
 ```

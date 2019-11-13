@@ -1,5 +1,3 @@
-LO: Apply the series of steps for properly posting transactions to the ledgers.
-
 The process of copying from the journal to the ledger is called **posting**. It is done one line at a time from the journal. A running total is then maintained for each account and is updated every time an amount is posted. Here are step-by-step instructions for posting each transaction.
 
   - Take note of the account name in the first line of the journal. Find that ledger account.
@@ -35,10 +33,10 @@ The example that follows shows a journal with six transactions that involve *Cas
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-661","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-## \`\`\` 
+```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter\_2\_Introduction/PostingLedgerAccounts/test-Emded\_01","data":{}}} 
- \`\`\`
+ {"type":"assessment","options":{"id":"Chapter_2_Introduction/PostingLedgerAccounts/test-Emded_01","data":{}}} 
+```
 
 ## 
 

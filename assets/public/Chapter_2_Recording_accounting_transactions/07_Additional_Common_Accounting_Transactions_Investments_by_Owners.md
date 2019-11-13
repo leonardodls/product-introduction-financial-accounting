@@ -1,7 +1,3 @@
-LO: Journalize additional transactions by applying the rules of debit and credit to additional business events
-
-  - Journalize an equity investment transaction.
-
 Now that the processes of journalizing, posting to the ledgers, and preparing a trial balance have been presented, additional transactions that are typical to many businesses will be illustrated and recorded in the journal.
 
   

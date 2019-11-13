@@ -1,7 +1,3 @@
-LO: Journalize additional transactions by applying the rules of debit and credit to additional business events
-
-  - Journalize purchase transactions both for cash and on account.
-
 1.  Core Fitness purchases bathroom supplies from Easy Clean, Inc. for $100 to be used this month and pays cash immediately.
 
 <table>

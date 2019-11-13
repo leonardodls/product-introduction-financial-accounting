@@ -1,21 +1,17 @@
-LO: Summarize the running balances from all the ledger accounts in one convenient form which verifies that total debit amounts equal total credit amounts.
-
-\[Notes Box\]
-
-*“The total of all the debit balances in a company’s ledger accounts must always equal the total of all the credit balances” *
+> Note
+> 
+> The total of all the debit balances in a company’s ledger accounts must always equal the total of all the credit balances
 
 A **trial balance** is a list of all a business’s accounts and its current ledger balances (copied over from the ledger accounts). A trial balance may be generated at any time to test whether total debits equals total credits. If both of the Total columns do not equal, there is an error that must be found and corrected.
-
-\[PLACEHOLDER IMAGE\]
 
 ![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image2.png)
 
 Assume Core Fitness has only five accounts. \[It shows the ledger balances for the six transactions presented previously.\] The trial balance lists these accounts and their corresponding balances at the end of the month.
 
-## \`\`\` 
+```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-670","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget \> div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
- \`\`\`
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-670","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 ## 
 
@@ -40,10 +36,10 @@ Interactive Exercise 7 – Trial balance
 
 \[This trial balance should be placed to the right of the ledgers\]
 
-\`\`\` 
+```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter\_2\_Introduction/Trialbalance/test-Emded\_01","data":{}}} 
- \`\`\`
+ {"type":"assessment","options":{"id":"Chapter_2_Introduction/Trialbalance/test-Emded_01","data":{}}} 
+```
 
 *\[Hint:* The trial balance summarizes the final account balances from all the ledgers. The total of all the debit balances should equal the total of all the credit balances.\]
 

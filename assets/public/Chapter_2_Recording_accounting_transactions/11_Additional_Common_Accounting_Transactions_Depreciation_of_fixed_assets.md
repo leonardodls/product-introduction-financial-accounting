@@ -1,8 +1,6 @@
-LO: Journalize the periodic expiration of the cost of a fixed asset.
-
-\[Notes Box\]
-
-*“The process of "expensing off" the cost of a fixed asset as it is "used up" over the time it is used is **depreciation.”***
+> Note
+> 
+> The process of "expensing off" the cost of a fixed asset as it is "used up" over the time it is used is **depreciation.**
 
 ![](./Chapter_2_Recording_accounting_transactions/media/11_Additional_Common_Accounting_Transactions_Depreciation_of_fixed_assets/image2.png)
 
@@ -14,9 +12,9 @@ For example if the dumbbells cost $5,000 and depreciated at $1,000 per year for 
 
 Rather than crediting the asset account directly to reduce its value, a substitute account is used. That way the ledger balance of the fixed asset always remains at its full cost (such as $5,000 for the dumbbells).
 
-\[Notes Box\]
+Note
 
-*“For fixed assets, the account credited to record depreciation is* Accumulated Depreciation*. This is called a **contra asset account** and is intentionally the opposite of the normal balance for an asset – it has a credit balance in the ledger. The debit balance of the asset account minus the credit balance of its associated* Accumulated Depreciation *contra account equals the asset’s book value, or its current value to the business.”*
+*For fixed assets, the account credited to record depreciation is* Accumulated Depreciation*. This is called a **contra asset account** and is intentionally the opposite of the normal balance for an asset – it has a credit balance in the ledger. The debit balance of the asset account minus the credit balance of its associated* Accumulated Depreciation *contra account equals the asset’s book value, or its current value to the business.*
 
 Transactions \#1 and \#2 show the end-of-period entries that expense off some of the cost of a fixed asset.
 

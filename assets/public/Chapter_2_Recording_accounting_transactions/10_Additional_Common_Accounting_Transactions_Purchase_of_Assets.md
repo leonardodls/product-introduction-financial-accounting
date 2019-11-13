@@ -1,7 +1,3 @@
-LO: Journalize additional transactions by applying the rules of debit and credit to additional business events
-
-  - Journalize the purchase of asset transactions for cash, for a loan, and on account.
-
 1.  Core Fitness purchases land, paying $80,000 cash.
 
 <table>

@@ -11,11 +11,9 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-638","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-> Did you know?
+> Note
 > 
-> Credit and Debit come from the Latin words credre and debere, respectively. Credre means “to entrust,” and Debere means “to owe”.
-> 
-> In financial accounting, “Dr” (Debit) indicates the left side of a ledger account and “Cr” (Credit) indicates the right.
+> In financial accounting, “Debit” indicates the left side of a ledger account and “Credit” indicates the right.
 
 ## Rules of Debit and Credit
 
@@ -36,7 +34,7 @@ The following table summarizes the rules of debit and credit for commonly used a
 
 ## Interactive Exercise 3 – Account classifications and behaviors
 
-**Instruction: ** For each account listed below under column ACCOUNTS, enter its corresponding account type and whether it would increase with either a debit or a credit.
+**Instruction: ** For each account listed below under the column “ACCOUNTS”, enter its corresponding Account Type and whether it would increase with either a debit or a credit.
 
 ```
 [cosmatt-widget]
