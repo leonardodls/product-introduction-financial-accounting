@@ -1,118 +1,13 @@
 1.  Core Fitness purchases bathroom supplies from Easy Clean, Inc. for $100 to be used this month and pays cash immediately.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td>Supplies Expense</td>
-<td></td>
-<td>  100</td>
-<td></td>
-<td></td>
-<td>▲ <em>Supplies Expense</em> is an <strong>expense</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>  Cash</td>
-<td></td>
-<td></td>
-<td>  100</td>
-<td></td>
-<td>▼ <em>Cash</em> is an <strong>asset</strong> account that is <strong>decreasing</strong>.</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-679","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 2\. Core Fitness purchases cleaning supplies from Easy Clean  to be used this month for $200 on account and receives an invoice from Easy Clean.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td>Supplies Expense</td>
-<td></td>
-<td>  200</td>
-<td></td>
-<td></td>
-<td>▲ <em>Supplies Expense</em> is an <strong>expense</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>  Accounts Payable</td>
-<td></td>
-<td></td>
-<td>  200</td>
-<td></td>
-<td>▲ <em>Accounts Payable</em> is a <strong>liability</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![](./Chapter_2_Recording_accounting_transactions/media/09_Additional_Common_Accounting_Transactions_Purchases_from_vendors/image3.png)
 
 The amount Core Fitness owes to Easy Clean is in the Accounts Payable account.  
 
@@ -122,94 +17,12 @@ The amount Core Fitness owes to Easy Clean is in the Accounts Payable account. 
 
 3\. Core Fitness pays Easy Clean on account for the invoice it received on 6/1.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/30</td>
-<td>Accounts Payable</td>
-<td></td>
-<td>  200</td>
-<td></td>
-<td></td>
-<td>▼ <em>Accounts Payable</em> is a <strong>liability</strong> account that is <strong>decreasing</strong>.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>  Cash</td>
-<td></td>
-<td></td>
-<td>  200</td>
-<td></td>
-<td>▼ <em>Cash</em> is an <strong>asset</strong> account that is <strong>decreasing</strong>.</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-681","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 When Core Fitness pays the invoice to Easy Clean, *Accounts Payable* is debited to decrease it and *Cash* is credited to decrease it. Core Fitness’ *Accounts Payable* balance becomes zero now that it has paid in full. This is shown in the following *Accounts Payable* ledger where transactions \#2 and \#3 are posted.
-
-<table>
-<thead>
-<tr class="header">
-<th>LEDGER</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td>Accounts Payable</td>
-</tr>
-<tr class="odd">
-<td><strong>Date</strong></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-</tr>
-<tr class="odd">
-<td>6/30</td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## Interactive Exercise 9 – Purchase transactions on account
 
