@@ -54,7 +54,7 @@ Core Fitness sells annual memberships $4,000 so Revenue increases.  Cash comes 
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-267","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-660","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 Core Fitness buys $1,000 of gym supplies that the vendor invoices now, but Core Fitness doesn’t pay until 30 days later. This increases the amount due or Account Payable by $1,000. This will decrease once Core Fitness pays the cash owed for the supplies. Since buying supplies is an expense, the expense Account increases by $1,000.
