@@ -37,14 +37,14 @@
           "resource": "RE_0002"
         },
         {
-          "name": "Question 7",
-          "item-code": "Introduction-test-Emded/Question-7",
-          "item-type": "resource",
-          "resource": "RE_0006"
-        },
-        {
           "name": "Question 6",
           "item-code": "Introduction-test-Emded/Question-6",
+          "item-type": "resource",
+          "resource": "RE_0005"
+        },
+        {
+          "name": "Question 7",
+          "item-code": "Introduction-test-Emded/Question-7",
           "item-type": "resource",
           "resource": "RE_0005"
         },
@@ -52,7 +52,7 @@
           "name": "Question 8",
           "item-code": "Introduction-test-Emded/Question-8",
           "item-type": "resource",
-          "resource": "RE_0007"
+          "resource": "RE_0005"
         }      
       ]
     },
