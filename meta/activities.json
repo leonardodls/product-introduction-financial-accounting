@@ -370,11 +370,9 @@
           "data":{
             "meta":{
               "renderOverrides":{
-                "widgetStyles":{
                    "border": "1px solid #ddd",
                     "box-shadow":"none",
                     "height":"expand"
-                }
               }
             }
           }
