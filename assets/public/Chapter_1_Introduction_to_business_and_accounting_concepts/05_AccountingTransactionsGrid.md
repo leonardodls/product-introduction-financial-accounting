@@ -6,28 +6,28 @@ Now we will use our understanding of common accounting transactions that we lear
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"showFeedbackOnlyIfValueChanged":true}}},"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01"}} 
+ {"type":"assessment","options":{"data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"checkOnlyChangedValues":true}}},"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01"}} 
 ```
 
 **2. Complete the accounting transactions grid for the following transactions related to sales to customers. **
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_02","data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"showFeedbackOnlyIfValueChanged":true}}}}} 
+ {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_02","data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"checkOnlyChangedValues":true}}}}} 
 ```
 
 **3. Complete the accounting transactions grid for the following transactions related to purchases from vendors.**
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"showFeedbackOnlyIfValueChanged":true}}},"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_03"}} 
+ {"type":"assessment","options":{"data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"checkOnlyChangedValues":true}}},"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_03"}} 
 ```
 
 **4. The following accounting transactions grid summarizes your entries from the previous three parts. Enter the totals for each account column in the last row.**
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_04","data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"showFeedbackOnlyIfValueChanged":true,"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
+ {"type":"assessment","options":{"id":"Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_04","data":{"meta":{"renderOverrides":{"showOverallGradingStatus":true,"checkOnlyChangedValues":true,"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
 ```
 
 **The following grid shows an aggregated picture of all the transactions just completed. **
