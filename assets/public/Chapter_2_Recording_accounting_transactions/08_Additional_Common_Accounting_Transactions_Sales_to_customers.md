@@ -38,66 +38,10 @@ Instructions:  1. Journalize the following two transactions.
 1.  6/1 A company provides a service and sends the customer an invoice for $1,400.  
 2.  6/30 The company receives payment on account from the customer who had been invoiced on 6/1.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>6/30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_2_Introduction/AccountingTransactionsSales/test-Emded_01","data":{}}} 
+```
 
 Question: What is the debit balance in the Accounts Receivable account after the 6/30 transaction is posted?  $ \_\_\_\_\_\_\_\_
 
