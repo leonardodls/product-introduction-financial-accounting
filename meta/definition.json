@@ -559,7 +559,16 @@
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_7",
             "item-code": "Chapter_2_Introduction/AccountingTransactionsInvestments",
-            "tracking": true,            
+            "tracking": true,    
+            "embedded": [
+				  {
+					"item-code": "Chapter_2_Introduction/AccountingTransactionsInvestments/test-Emded_01",
+					"resource": "RE_CH_2_SEC_7_EM_01",
+					"item-type": "resource",
+					"name": "Emb Test 1",
+					"tracking": false
+				  }
+				],			
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -572,7 +581,16 @@
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_8",
             "item-code": "Chapter_2_Introduction/AccountingTransactionsSales",
-            "tracking": true,            
+            "tracking": true,  
+            "embedded": [
+				  {
+					"item-code": "Chapter_2_Introduction/AccountingTransactionsSales/test-Emded_01",
+					"resource": "RE_CH_2_SEC_8_EM_01",
+					"item-type": "resource",
+					"name": "Emb Test 1",
+					"tracking": false
+				  }
+				],			
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -2679,6 +2697,28 @@
 		],
 		"test": {
 		  "url": "Trialbalance-test-Emded_01"
+		},
+		"description": "fundamentals - units - Test your understanding",
+		"learning-objectives": []
+	  }, 
+	 "RE_CH_2_SEC_7_EM_01": {
+		"sub-type": "test",
+		"tags": [
+		  "Practice"
+		],
+		"test": {
+		  "url": "AccountingTransactionsInvestments-test-Emded_01"
+		},
+		"description": "fundamentals - units - Test your understanding",
+		"learning-objectives": []
+	  },
+	  "RE_CH_2_SEC_8_EM_01": {
+		"sub-type": "test",
+		"tags": [
+		  "Practice"
+		],
+		"test": {
+		  "url": "AccountingTransactionsSales-test-Emded_01"
 		},
 		"description": "fundamentals - units - Test your understanding",
 		"learning-objectives": []

@@ -538,6 +538,12 @@
 				"item-code": "PostingLedgerAccounts-test-Emded_01/Question-1",
 				"item-type": "resource",
 				"resource": "RE_00062"
+			},
+			{
+				"name": "Question 1",
+				"item-code": "PostingLedgerAccounts-test-Emded_01/Question-1",
+				"item-type": "resource",
+				"resource": "RE_00064"
 			}]
      
 		},
@@ -570,6 +576,32 @@
 				"item-code": "Trialbalance-test-Emded_01/Question-2",
 				"item-type": "resource",
 				"resource": "RE_00067"
+			}]
+     
+		},
+		{
+			"name": "AccountingTransactionsInvestments-test-Emded_01",
+			"item-code": "AccountingTransactionsInvestments-test-Emded_01",
+			"item-type": "folder",
+			"sub-type": "test",
+			"items": [{
+				"name": "Question 1",
+				"item-code": "AccountingTransactionsInvestments-test-Emded_01/Question-1",
+				"item-type": "resource",
+				"resource": "RE_00068"
+			}]
+     
+		},
+		{
+			"name": "AccountingTransactionsSales-test-Emded_01",
+			"item-code": "AccountingTransactionsSales-test-Emded_01",
+			"item-type": "folder",
+			"sub-type": "test",
+			"items": [{
+				"name": "Question 1",
+				"item-code": "AccountingTransactionsSales-test-Emded_01/Question-1",
+				"item-type": "resource",
+				"resource": "RE_00069"
 			}]
      
 		}
@@ -4179,7 +4211,8 @@
 			  "content": {
 			    "instructions": [
 			      {
-			        "tag": ""
+			        "tag": "html",
+			        "html": "Given this journal entries , which is the correct journal entry? "
 			      }
 			    ],
 			    "stimulus": [
@@ -4193,7 +4226,7 @@
 			      "data": {
 			        "questiondata": [
 			          {
-			            "text": "Given this journal entries , which is the correct journal entry?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
+			            "text": " <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
 			          }
 			        ]
 			      },
@@ -4268,8 +4301,7 @@
 								],
 								"resizer": true
 							}
-						},
-           "hideTopToolbar" : true
+						}
 					}
 				}
 			},
@@ -4609,6 +4641,185 @@
 			"responses": {
 				"i1": {
 					"correct": "choiceD"
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
+		"RE_00064": {
+			"meta": {
+				"type": "MCSR",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "text",
+					"text": ""
+				}],
+				"stimulus": [{
+					"tag": ""
+				}],
+				"canvas": {
+					"layout": "MCQ",
+					"data": {
+						"questiondata": [{
+							"text": "The Cash ledger has four entries that were posted from the journal in the following order: a $500 debit, a $100 credit, a $200 credit, and a $700 debit. What is the account’s current running balance in the ledger?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "MCSR",
+						"MCSR": [{
+								"choiceA": "$900 debit"
+							},
+							{
+								"choiceB": "$900 credit"
+							},
+							{
+								"choiceC": "$1500 debit"
+							},
+							{
+								"choiceD": "$1500 credit"
+							}
+						]
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "",
+					"incorrect": "",
+					"empty": ""
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "choiceA"
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
+		"RE_00068": {
+			"meta": {
+				"type": "LEONARDODLS",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"app-data": {
+				"type": "spreadsheet-DLSleonardo",
+				"options": {
+					"itemId": "leo-leonardo-demo-672"
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "html",
+					"html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+				}],
+				"stimulus": [{
+					"tag": "",
+					"image": ""
+				}],
+				"canvas": {
+					"layout": "LEONARDODLS",
+					"data": {
+						"questiondata": [{
+							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "configData"
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "Perfect. You got it correct",
+					"incorrect": "Sorry, Wrong response.",
+					"empty": "You did not enter anything."
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "60",
+					"ignorewhitespace": true
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
+		"RE_00069": {
+			"meta": {
+				"type": "LEONARDODLS",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"app-data": {
+				"type": "spreadsheet-DLSleonardo",
+				"options": {
+					"itemId": "leo-leonardo-demo-678"
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "html",
+					"html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+				}],
+				"stimulus": [{
+					"tag": "",
+					"image": ""
+				}],
+				"canvas": {
+					"layout": "LEONARDODLS",
+					"data": {
+						"questiondata": [{
+							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "configData"
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "Perfect. You got it correct",
+					"incorrect": "Sorry, Wrong response.",
+					"empty": "You did not enter anything."
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "60",
+					"ignorewhitespace": true
 				}
 			},
 			"learning-objectives": [],
