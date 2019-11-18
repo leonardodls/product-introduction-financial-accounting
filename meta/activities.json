@@ -321,16 +321,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "<b>Issue stock for cash</b>: Common Stock increases AND Cash decreases"
+                "choiceA": "<b>Issue stock for cash</b> : Common Stock increases AND Cash decreases"
               },
               {
-                "choiceB": "<b>Purchase supplies on account</b>: Supplies Expense increases AND Cash decreases"
+                "choiceB": "<b>Purchase supplies on account</b> : Supplies Expense increases AND Cash decreases"
               },
               {
-                "choiceC": "<b>Receive cash on account</b>: Cash increases AND Accounts Receivable decreases"
+                "choiceC": "<b>Receive cash on account</b> : Cash increases AND Accounts Receivable decreases"
               },
               {
-                "choiceD": "<b>Sell to customers on account</b>: Fees Earned increases AND Cash decreases"
+                "choiceD": "<b>Sell to customers on account</b> : Fees Earned increases AND Cash decreases"
               }
             ]
           }
