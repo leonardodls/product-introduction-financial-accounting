@@ -1,176 +1,23 @@
 1.  Core Fitness purchases land, paying $80,000 cash.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td>Land</td>
-<td></td>
-<td>80,000</td>
-<td></td>
-<td></td>
-<td>▲ <em>Land</em> is an <strong>asset</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>  Cash</td>
-<td></td>
-<td></td>
-<td>80,000</td>
-<td></td>
-<td>▼ <em>Cash</em> is an <strong>asset</strong> account that is <strong>decreasing</strong>.</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-689","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 2\. Core Fitness purchases new gym equipment for $5,000 on account.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td>Equipment</td>
-<td></td>
-<td>  5,000</td>
-<td></td>
-<td></td>
-<td>▲ <em>Equipment</em> is an <strong>asset</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>  Accounts Payable</td>
-<td></td>
-<td></td>
-<td>  5,000</td>
-<td></td>
-<td>▲ <em>Accounts Payable</em> is a <strong>liability</strong> account that is <strong>increasing</strong>.  </td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-690","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 3\. A company purchases a building that costs $90,000. The company pays a down payment of $40,000 and takes out a loan for the remaining $50,000.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td>Building</td>
-<td></td>
-<td>90,000</td>
-<td></td>
-<td></td>
-<td>▲ <em>Building</em> is an <strong>asset</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>  Cash</td>
-<td></td>
-<td></td>
-<td>40,000</td>
-<td></td>
-<td>▼ <em>Cash</em> is an <strong>asset</strong> account that is <strong>decreasing</strong>.</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>  Note Payable</td>
-<td></td>
-<td></td>
-<td>50,000</td>
-<td></td>
-<td>▲ <em>Note Payable</em> is a <strong>liability</strong> account that is <strong>increasing</strong>. </td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-691","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 \[Notes Box\]
 

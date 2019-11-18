@@ -25,7 +25,10 @@
 
 Maya pays the invoice and the Core Fitness receives the cash payment, *Cash* is debited and *Accounts Receivable* is credited. Fitness’s *Accounts Receivable* balance becomes zero now that he Maya has paid in full. This is shown in the following *Accounts Receivable* ledger where transactions \#2 and \#3 are posted.
 
-![](./Chapter_2_Recording_accounting_transactions/media/08_Additional_Common_Accounting_Transactions_Sales_to_customers/image5.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-677","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 ## Interactive Exercise 8 – Sales transactions on account 
 

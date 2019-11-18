@@ -15,43 +15,10 @@ Assume Core Fitness has only five accounts. \[It shows the ledger balances for t
 
 ## 
 
-## The trial balance shows that the ledgers balance:  $7,000 + $3,000 + $2,000 (debit balances) = $12,000 AND $1,000 + $11,000 (credit balances) = $12,000. 
-
-##   
+The trial balance shows that the ledgers balance:  $7,000 + $3,000 + $2,000 (debit balances) = $12,000 AND $1,000 + $11,000 (credit balances) = $12,000. 
 
 ##   
 Interactive Exercise 7 – Trial balance 
 
-<table>
-<tbody>
-<tr class="odd">
-<td>``` 
- [cosmatt-widget] 
- {&quot;type&quot;:&quot;spreadsheet-DLSleonardo-v2&quot;,&quot;options&quot;:{&quot;data&quot;:{&quot;itemId&quot;:&quot;leo-leonardo-demo-668&quot;,&quot;meta&quot;:{&quot;renderOverrides&quot;:{},&quot;enableframeButton&quot;:true},&quot;cssOverrides&quot;:{&quot;div.cosmatt-widget&quot;:{&quot;padding-top&quot;:0},&quot;div.cosmatt-widget &gt; div.leonardoPlayerContainer&quot;:{&quot;padding-bottom&quot;:0}}}}} 
- ```</td>
-<td>         </td>
-</tr>
-</tbody>
-</table>
+![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image4.png)
 
-\[This trial balance should be placed to the right of the ledgers\]
-
-```
-[cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_2_Introduction/Trialbalance/test-Emded_01","data":{}}} 
-```
-
-*\[Hint:* The trial balance summarizes the final account balances from all the ledgers. The total of all the debit balances should equal the total of all the credit balances.\]
-
-*\[ANSWER KEY\]*
-
-![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image6.png)
-
-## Test Your Understanding 
-
-The trial balance:
-
-a. lists amounts that are copied directly from the journal  
-b. lists balance sheet accounts, but not income statement accounts  
-c. proves there cannot be any accounting errors if total debits equal total credits  
-d. must show two totals in order to be meaningful

@@ -7,7 +7,10 @@
 
 2\. Core Fitness purchases cleaning supplies from Easy Clean  to be used this month for $200 on account and receives an invoice from Easy Clean.
 
-![](./Chapter_2_Recording_accounting_transactions/media/09_Additional_Common_Accounting_Transactions_Purchases_from_vendors/image3.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-680","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 The amount Core Fitness owes to Easy Clean is in the Accounts Payable account.  
 
