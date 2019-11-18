@@ -4529,7 +4529,7 @@
 		},
 		"RE_00066": {
 			"meta": {
-				"type": "LEONARDODLS",
+				"type": "COSMATTCOMPREWIDGET",
 				"score": {
 					"default": 0,
 					"max": 1,
@@ -4537,25 +4537,45 @@
 				}
 			},
 			"app-data": {
-				"type": "spreadsheet-DLSleonardo",
+				"type": "comprehensive-prob",
 				"options": {
-					"itemId": "leo-leonardo-demo-669"
+					"data": {
+						"view": {
+							"sidebyside": {
+								"leftSideData": {
+									"type": "grid",
+									"height": "scroll",
+									"publishedId": "leo-leonardo-demo-668"
+								},
+								"rightSideData": {
+									"type": "grid",
+									"height": "expand",
+									"publishedId": "leo-leonardo-demo-669"
+								},
+								"ratio": [
+									"46",
+									"54"
+								],
+								"resizer": true
+							}
+						}
+					}
 				}
 			},
 			"content": {
 				"instructions": [{
 					"tag": "html",
-					"html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+					"html": "Post the trial balances entries to the ledgers"
 				}],
 				"stimulus": [{
 					"tag": "",
 					"image": ""
 				}],
 				"canvas": {
-					"layout": "LEONARDODLS",
+					"layout": "COSMATTCOMPREWIDGET",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "Post the Trial balance entries from. Click the ‘Submit’ button once you have completed the exercise.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
 						}]
 					},
 					"raw": ""
