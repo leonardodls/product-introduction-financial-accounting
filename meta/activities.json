@@ -371,8 +371,10 @@
             "meta":{
               "renderOverrides":{
                 "widgetStyles":{
-                   "border": "1px solid #ddd",
-                    "box-shadow":"none"
+                    "border": "none",
+                    "box-shadow":"none",
+                     "height":"expand"
+
                 }
               }
             }
