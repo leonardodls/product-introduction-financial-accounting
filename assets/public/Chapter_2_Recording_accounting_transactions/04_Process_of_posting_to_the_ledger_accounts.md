@@ -35,3 +35,8 @@ The example that follows shows a journal with six transactions that involve *Cas
 
 ## Test Your Understanding 
 
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_2_Introduction/PostingLedgerAccounts/test-Emded_01","data":{}}} 
+```
+

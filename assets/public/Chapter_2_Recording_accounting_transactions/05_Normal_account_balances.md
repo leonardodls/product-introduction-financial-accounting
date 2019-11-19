@@ -38,8 +38,10 @@ Finally, for any expense account, the first entry is in the first Debit column, 
 
 The following *Wages Expense* ledger shows its balance accumulates in the Debit column. The normal balance of the *Wages Expense* account is a Debit.
 
-## ![](./Chapter_2_Recording_accounting_transactions/media/05_Normal_account_balances/image4.png)  
-  
-  
-Test Your Understanding 
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-665","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
+
+## Test Your Understanding 
 
