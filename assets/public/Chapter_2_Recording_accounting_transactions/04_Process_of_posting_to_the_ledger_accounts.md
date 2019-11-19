@@ -33,7 +33,7 @@ The example that follows shows a journal with six transactions that involve *Cas
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-661","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-## Test Your Understanding 
+## Interactive Exercise 6 – Journalizing and posting transactions
 
 ```
 [cosmatt-widget]

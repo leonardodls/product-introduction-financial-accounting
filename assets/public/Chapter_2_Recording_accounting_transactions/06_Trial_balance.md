@@ -15,11 +15,10 @@ Assume Core Fitness has only five accounts. \[It shows the ledger balances for t
 
 The trial balance shows that the ledgers balance:  $7,000 + $3,000 + $2,000 (debit balances) = $12,000 AND $1,000 + $11,000 (credit balances) = $12,000. 
 
+## Interactive Exercise 7 – Trial balance 
+
 ```
 [cosmatt-widget]
  {"type":"assessment","options":{"id":"Chapter_2_Introduction/Trialbalance/test-Emded_01","data":{}}} 
 ```
-
-##   
-Interactive Exercise 7 – Trial balance 
 
