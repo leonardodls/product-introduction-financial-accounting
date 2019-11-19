@@ -13,12 +13,5 @@ Assume Core Fitness has only five accounts. \[It shows the ledger balances for t
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-670","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-## 
-
 The trial balance shows that the ledgers balance:  $7,000 + $3,000 + $2,000 (debit balances) = $12,000 AND $1,000 + $11,000 (credit balances) = $12,000. 
-
-##   
-Interactive Exercise 7 – Trial balance 
-
-![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image4.png)
 

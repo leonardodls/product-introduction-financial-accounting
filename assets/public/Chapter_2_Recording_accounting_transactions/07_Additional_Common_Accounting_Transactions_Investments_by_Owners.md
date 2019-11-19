@@ -22,4 +22,3 @@ A corporation receives $25,000 cash from an investor.
  {"type":"assessment","options":{"id":"Chapter_2_Introduction/AccountingTransactionsInvestments/test-Emded_01","data":{}}} 
 ```
 
-*\[Hint:* An asset is increasing. A stockholders’ equity account is also increasing.\]
