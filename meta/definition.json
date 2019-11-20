@@ -178,6 +178,17 @@
     "model": {
       "introduction": [        
         {
+          "name": "Title",
+          "item-type": "folder",
+          "item-code": "about/title",
+          "title": "Accounting",
+          "publisher": {
+            "name": "Compro Technologies",
+            "copyright": "©2018 Compro Technologies All Rights Reserved"
+          },
+          "tracking": false
+        },
+        {
           "name": "learning Objectives",
           "item-type": "resource",
           "resource": "LO_MAPPING",
@@ -198,7 +209,7 @@
             "item-type": "resource",    
             "resource": "RE_CH_1_SEC_1",       
             "item-code": "Chapter_1_Assessment/Instructions",
-            "tracking": true,            
+            "tracking": false,            
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -224,7 +235,7 @@
             "item-type": "resource",
             "resource": "RE_CH_1_SEC_3",
             "item-code": "Chapter_1_Assessment/Feedback",
-            "tracking": true,            
+            "tracking": false,            
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
@@ -237,7 +248,7 @@
             "item-type": "resource",   
             "resource": "RE_CH_1_SEC_4",          
             "item-code": "Chapter_1_Assessment/Summary",
-            "tracking": true,            
+            "tracking": false,            
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
