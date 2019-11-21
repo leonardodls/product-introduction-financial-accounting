@@ -604,6 +604,45 @@
 				"resource": "RE_00069"
 			}]
      
+		},
+		{
+			"name": "AccountingTransactionsPurchasesVendors-test-Emded_01",
+			"item-code": "AccountingTransactionsPurchasesVendors-test-Emded_01",
+			"item-type": "folder",
+			"sub-type": "test",
+			"items": [{
+				"name": "Question 1",
+				"item-code": "AccountingTransactionsPurchasesVendors-test-Emded_01/Question-1",
+				"item-type": "resource",
+				"resource": "RE_00070"
+			}]
+     
+		},
+		{
+			"name": "AccountingTransactionsPurchaseAssets-test-Emded_01",
+			"item-code": "AccountingTransactionsPurchaseAssets-test-Emded_01",
+			"item-type": "folder",
+			"sub-type": "test",
+			"items": [{
+				"name": "Question 1",
+				"item-code": "AccountingTransactionsPurchaseAssets-test-Emded_01/Question-1",
+				"item-type": "resource",
+				"resource": "RE_00071"
+			}]
+     
+		},
+		{
+			"name": "AccountingTransactionsDepreciation-test-Emded_01",
+			"item-code": "AccountingTransactionsDepreciation-test-Emded_01",
+			"item-type": "folder",
+			"sub-type": "test",
+			"items": [{
+				"name": "Question 1",
+				"item-code": "AccountingTransactionsDepreciation-test-Emded_01/Question-1",
+				"item-type": "resource",
+				"resource": "RE_00072"
+			}]
+     
 		}
 	],
 	"resources": {
@@ -4558,9 +4597,7 @@
 								],
 								"resizer": true
 							}
-						},
-						"hideBottomToolbar" : true,
-            "alwaysShowQuestion" : true
+						}
 					}
 				}
 			},
@@ -4804,6 +4841,180 @@
 				"type": "spreadsheet-DLSleonardo",
 				"options": {
 					"itemId": "leo-leonardo-demo-678"
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "html",
+					"html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+				}],
+				"stimulus": [{
+					"tag": "",
+					"image": ""
+				}],
+				"canvas": {
+					"layout": "LEONARDODLS",
+					"data": {
+						"questiondata": [{
+							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "configData"
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "Perfect. You got it correct",
+					"incorrect": "Sorry, Wrong response.",
+					"empty": "You did not enter anything."
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "60",
+					"ignorewhitespace": true
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
+		"RE_00070": {
+			"meta": {
+				"type": "LEONARDODLS",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"app-data": {
+				"type": "spreadsheet-DLSleonardo",
+				"options": {
+					"itemId": "leo-leonardo-demo-683"
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "html",
+					"html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+				}],
+				"stimulus": [{
+					"tag": "",
+					"image": ""
+				}],
+				"canvas": {
+					"layout": "LEONARDODLS",
+					"data": {
+						"questiondata": [{
+							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "configData"
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "Perfect. You got it correct",
+					"incorrect": "Sorry, Wrong response.",
+					"empty": "You did not enter anything."
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "60",
+					"ignorewhitespace": true
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
+		"RE_00071": {
+			"meta": {
+				"type": "LEONARDODLS",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"app-data": {
+				"type": "spreadsheet-DLSleonardo",
+				"options": {
+					"itemId": "leo-leonardo-demo-692"
+				}
+			},
+			"content": {
+				"instructions": [{
+					"tag": "html",
+					"html": "Enter the correct values in input fields. Click <b>Submit</b> to check your answers."
+				}],
+				"stimulus": [{
+					"tag": "",
+					"image": ""
+				}],
+				"canvas": {
+					"layout": "LEONARDODLS",
+					"data": {
+						"questiondata": [{
+							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+						}]
+					},
+					"raw": ""
+				},
+				"interactions": {
+					"i1": {
+						"type": "configData"
+					}
+				},
+				"hint": {}
+			},
+			"feedback": {
+				"global": {
+					"correct": "Perfect. You got it correct",
+					"incorrect": "Sorry, Wrong response.",
+					"empty": "You did not enter anything."
+				}
+			},
+			"responses": {
+				"i1": {
+					"correct": "60",
+					"ignorewhitespace": true
+				}
+			},
+			"learning-objectives": [],
+			"tags": [
+				"test"
+			]
+		},
+		"RE_00072": {
+			"meta": {
+				"type": "LEONARDODLS",
+				"score": {
+					"default": 0,
+					"max": 1,
+					"min": 0
+				}
+			},
+			"app-data": {
+				"type": "spreadsheet-DLSleonardo",
+				"options": {
+					"itemId": "leo-leonardo-demo-698"
 				}
 			},
 			"content": {
