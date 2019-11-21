@@ -6,7 +6,11 @@
         "meta": {
           "renderOverrides": {
             "showOverallGradingStatus": true,
-            "showFeedbackOnlyIfValueChanged": true
+            "showFeedbackOnlyIfValueChanged": true,
+			"pasteSpecial": [
+            "value",
+            "formula"
+          ]
           }
         }
       }

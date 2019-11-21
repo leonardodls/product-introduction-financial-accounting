@@ -35,61 +35,10 @@ Instructions:  1. Journalize the following transaction.
 
 A company purchases equipment that costs $17,500. The company pays a down payment of $8,500 and takes out a loan for the remainder.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>6/1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_2_Introduction/AccountingTransactionsPurchaseAssets/test-Emded_01+","data":{}}} 
+```
 
 *\[Hint:* An asset is increasing; another is decreasing. A liability account is also increasing.\]
 

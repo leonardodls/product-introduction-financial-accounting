@@ -18,109 +18,13 @@ Note
 
 Transactions \#1 and \#2 show the end-of-period entries that expense off some of the cost of a fixed asset.
 
-1.  Assume the dumbbells depreciate at a rate of $1,000 per year.
+1.  Assume the dumbbells depreciate at a rate of $1,000 per year.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>12/31</td>
-<td>Depreciation Expense</td>
-<td></td>
-<td>1,000</td>
-<td></td>
-<td></td>
-<td>▲ <em>Depreciation Expense</em> is an <strong>expense</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>  Accumulated Depreciation – Equipment</td>
-<td></td>
-<td></td>
-<td>1,000</td>
-<td></td>
-<td>▼ <em>Acc.Dep.Equip.</em> is a <strong>contra asset</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>    </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![](./Chapter_2_Recording_accounting_transactions/media/11_Additional_Common_Accounting_Transactions_Depreciation_of_fixed_assets/image3.png)
 
 2.  Assume Core Fitness’ new building depreciates at a rate of $4,000 per year
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>12/31</td>
-<td>Depreciation Expense</td>
-<td></td>
-<td>4,000</td>
-<td></td>
-<td></td>
-<td>▲ <em>Depreciation Expense</em> is an <strong>expense</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>  Accumulated Depreciation – Building</td>
-<td></td>
-<td></td>
-<td>4,000</td>
-<td></td>
-<td>▼ <em>Acc.Dep.Bldg.</em> is a <strong>contra asset</strong> account that is <strong>increasing</strong>.</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>    </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![](./Chapter_2_Recording_accounting_transactions/media/11_Additional_Common_Accounting_Transactions_Depreciation_of_fixed_assets/image4.png)
 
 ## 
 

@@ -21,7 +21,7 @@ The following journal excerpt for Core Fitness shows how sample transactions are
 
 ## Interactive Exercise 4 – Journal Entries
 
-***Instruction*:** Journalize the following transactions.
+***Instruction*:** Journalize the transactions on the left into the journal on the right.
 
 ```
 [cosmatt-widget]

@@ -9,7 +9,11 @@
             "border": "1px solid #ddd",
             "box-shadow":"none"
           },
-          "horizontalAlignment": "center"
+          "horizontalAlignment": "center",
+		  "pasteSpecial": [
+            "value",
+            "formula"
+          ]
         }
       }
     }
