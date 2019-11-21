@@ -374,8 +374,11 @@
                     "border": "1px solid #ddd",
                     "box-shadow":"none",
                      "height":"expand"
-
-                }
+                },
+                "pasteSpecial": [
+			            "value",
+			            "formula"
+			          ]
               }
             }
           }
