@@ -5,7 +5,11 @@
       "meta": {
         "renderOverrides": {
           "showOverallGradingStatus": true,
-          "checkOnlyChangedValues": true
+          "checkOnlyChangedValues": true,
+          "pasteSpecial": [
+            "value",
+            "formula"
+          ]
         }
       }
     },
