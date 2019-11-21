@@ -9,7 +9,8 @@
               "border": "1px solid #ddd",
               "box-shadow":"none"
             },
-            "horizontalAlignment": "center"
+            "horizontalAlignment": "center",
+            "height":"expand"
           }
         }
       }
