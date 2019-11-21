@@ -10,6 +10,6 @@ Now that we have developed the annual cash flows of opening a new Core Fit locat
 
 ```
 [cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_14_Introduction/calNetPreValue/test-Emded_01","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center","height":"expand"}}}}}
+ {"type":"assessment","options":{"id":"Chapter_14_Introduction/calNetPreValue/test-Emded_01","data":{"meta":{"renderOverrides":{"widgetStyles":{"border":"1px solid #ddd","box-shadow":"none"},"horizontalAlignment":"center"}}}}} 
 ```
 
