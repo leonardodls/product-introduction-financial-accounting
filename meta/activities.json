@@ -251,16 +251,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "<b>Purchase supplies on account</b> : Supplies Expense decreases and Accounts Payable decreases"
+                "choiceA": "<b>Purchase supplies on account:</b> Supplies Expense decreases and Accounts Payable decreases"
               },
               {
-                "choiceB": "<b>Sell to customers on account</b> : Accounts Receivable increases AND Fees Earned decreases"
+                "choiceB": "<b>Sell to customers on account:</b> Accounts Receivable increases AND Fees Earned decreases"
               },
               {
-                "choiceC": "<b>Pay cash on account</b> : Accounts Payable decreases AND Cash decreases"
+                "choiceC": "<b>Pay cash on account:</b> Accounts Payable decreases AND Cash decreases"
               },
               {
-                "choiceD": "<b>Receive cash on account</b> : Cash increases AND Accounts Receivable increases"
+                "choiceD": "<b>Receive cash on account:</b> Cash increases AND Accounts Receivable increases"
               }
             ]
           }
@@ -321,16 +321,16 @@
             "type": "MCSR",
             "MCSR": [
               {
-                "choiceA": "<b>Issue stock for cash</b> : Common Stock increases AND Cash decreases"
+                "choiceA": "<b>Issue stock for cash:</b> Common Stock increases AND Cash decreases"
               },
               {
-                "choiceB": "<b>Purchase supplies on account</b> : Supplies Expense increases AND Cash decreases"
+                "choiceB": "<b>Purchase supplies on account:</b> Supplies Expense increases AND Cash decreases"
               },
               {
-                "choiceC": "<b>Receive cash on account</b> : Cash increases AND Accounts Receivable decreases"
+                "choiceC": "<b>Receive cash on account:</b> Cash increases AND Accounts Receivable decreases"
               },
               {
-                "choiceD": "<b>Sell to customers on account</b> : Fees Earned increases AND Cash decreases"
+                "choiceD": "<b>Sell to customers on account:</b> Fees Earned increases AND Cash decreases"
               }
             ]
           }
@@ -484,7 +484,7 @@
           "data": {
            "questiondata": [
               {
-                "text": "Below is a set of transactions for the month of June for State-to-State Consulting. Record the transactions listed for June on the left in the journal on the right. If you would like to view the screen in full-screen mode, please click on the Full Screen button. <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+                "text": "Below is a set of transactions for the month of June for State-to-State Consulting. Record the transactions listed for June on the left in the journal on the right.<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
               }
             ]
           },
