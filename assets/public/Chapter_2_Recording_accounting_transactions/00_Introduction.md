@@ -1,5 +1,3 @@
-## Introduction
-
 In Chapter 1, we learned how business transactions impact Core Fitness and it’s financials.
 
 ![](./Chapter_2_Recording_accounting_transactions/media/00_Introduction/image1.png)
@@ -8,16 +6,14 @@ While Chapter 1 taught us how individual accounts are impacted, in order to get 
 
 ![](./Chapter_2_Recording_accounting_transactions/media/00_Introduction/image2.png)
 
-## 
-
 ## The Accounting Cycle
 
 In order to go from individual transactions to the summary financial statements, **7 steps** are taken.
+
+![](./Chapter_2_Recording_accounting_transactions/media/00_Introduction/image3.png)
 
 Every company prepares these statements for specific time periods – such as monthly and annually. After each month a new period begins and we restart the 7 steps, so the cycle repeats. This recording of transactions is known as the **Accounting Cycle.**
 
 We completed the first step of **Identifying Transactions** in Chapter 1.
 
 In Chapter 2, we will learn how to complete steps 2 and 3 which involve taking these transactions and recording them in two ways – **Journals and Ledgers.**
-
-![](./Chapter_2_Recording_accounting_transactions/media/00_Introduction/image3.png)

@@ -17,8 +17,6 @@ This is a sample of a few rows in a journal. It has four columns:*  Date, Accou
 
 When deciding if a journal entry should be in the debit or credit column we can use the following rule of thumb:
 
-##### 
-
 ![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image3.png)
 
 For example, on September 1, a new member joins Core Fitness and pays $50 in monthly membership fees. Cash is increasing so it goes in the Debit column. Revenue is also increasing so it goes in the Credit column.
