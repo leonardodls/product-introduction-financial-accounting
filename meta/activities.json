@@ -4341,7 +4341,8 @@
 								"resizer": true
 							}
 						},
-						"hideTopToolbar":true
+						"hideTopToolbar":true,
+						"checkMode" : "CMW"
 					}
 				}
 			},
