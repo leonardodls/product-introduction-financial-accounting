@@ -4340,7 +4340,9 @@
 								],
 								"resizer": true
 							}
-						}
+						},
+						"hideTopToolbar":true,
+						"checkMode" : "CMW"
 					}
 				}
 			},
