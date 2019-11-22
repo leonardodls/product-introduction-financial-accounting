@@ -5,7 +5,7 @@
       "meta": {
         "renderOverrides": {
           "showOverallGradingStatus": true,
-          "showFeedbackOnlyIfValueChanged": true
+          "checkOnlyChangedValues": true,
         }
       }
     },
