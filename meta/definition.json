@@ -414,7 +414,21 @@
         "item-type": "folder",
         "item-code": "Chapter_2_Introduction",
         "sub-type": "default",
-        "items": [{
+        "items": [
+          {
+            "name": "Introduction",
+            "item-type": "resource",
+            "resource": "RE_CH_2_SEC_0",
+            "item-code": "Chapter_2_Introduction/Introduction",
+            "tracking": true,
+            "attribs": {
+              "mark-as-complete": {
+                "delay": 0,
+                "visible": true
+              }
+            }
+          },
+          {
             "name": "Journal",
             "item-type": "resource",
             "resource": "RE_CH_2_SEC_1",
@@ -1998,6 +2012,17 @@
           "url": "Common-Accounting-test-Emded_06"
         },
         "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+      },
+      "RE_CH_2_SEC_0": {
+        "sub-type": "md",
+        "tags": [
+          "Reading"
+        ],
+        "md": {
+          "url": "Chapter_2_Recording_accounting_transactions/00_Introduction.md"
+        },
+        "description": "",
         "learning-objectives": []
       },    
       "RE_CH_2_SEC_1": {
