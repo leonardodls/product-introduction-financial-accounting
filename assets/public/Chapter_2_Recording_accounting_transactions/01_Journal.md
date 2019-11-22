@@ -1,4 +1,4 @@
-##### The accounting equation grid discussed in Section 1.4 displays the transactions in an easy-to-read format in terms of the accounts impacted and the related amounts. However, this layout becomes a bit cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analysing, classifying and recording transactions. These are the **journal** and the **ledger**.
+##### The accounting equation grid discussed in <a routerlink='file:///C:\\Users\\Neelu_singh\\Dropbox\\Accounting%20Courseware\\Chapter_1_Introduction_to_business_and_accounting_concepts\\documents\\Chapter_1_Introduction\\Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> displays the transactions in an easy-to-read format in terms of the accounts impacted and the related amounts. However, this layout becomes a bit cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analysing, classifying and recording transactions. These are the **journal** and the **ledger**.
 
 Financial transactions are written down throughout the accounting period as they happen in a record book called the **journal.**  
 
@@ -23,13 +23,13 @@ When deciding if a journal entry should be in the debit or credit column we can 
 
 For example, on September 1, a new member joins Core Fitness and pays $50 in monthly membership fees. Cash is increasing so it goes in the Debit column. Revenue is also increasing so it goes in the Credit column.
 
-**\[Insert** **2.2.1\_rules1.xls**\]
+**\[Insert 2.2.1\_rules1.xls**\]
 
 ![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image4.png)
 
 The next day, Core Fitness pays $100 in cash for cleaning supplies to sanitize its gym equipment. In this transaction, Supplies Expense increases by $100 so it goes in the Credit column. Meanwhile, Cash decreases by $100 so it goes in the credit column.
 
-**\[Insert** **2.2.2\_rules2.xls\]**
+**\[Insert 2.2.2\_rules2.xls\]**
 
 ![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image5.png)
 

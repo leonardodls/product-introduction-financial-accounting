@@ -20,11 +20,17 @@ Transactions \#1 and \#2 show the end-of-period entries that expense off some of
 
 1.  Assume the dumbbells depreciate at a rate of $1,000 per year.
 
-![](./Chapter_2_Recording_accounting_transactions/media/11_Additional_Common_Accounting_Transactions_Depreciation_of_fixed_assets/image3.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-696","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 2.  Assume Core Fitness’ new building depreciates at a rate of $4,000 per year
 
-![](./Chapter_2_Recording_accounting_transactions/media/11_Additional_Common_Accounting_Transactions_Depreciation_of_fixed_assets/image4.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-697","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 ## 
 
