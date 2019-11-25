@@ -1,25 +1,41 @@
-##### The accounting equation grid discussed in <a routerlink='file:///C:\\Users\\Neelu_singh\\Dropbox\\Accounting%20Courseware\\Chapter_1_Introduction_to_business_and_accounting_concepts\\documents\\Chapter_1_Introduction\\Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> displays the transactions in an easy-to-read format in terms of the accounts impacted and the related amounts. However, this layout becomes a bit cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analysing, classifying and recording transactions. These are the **journal** and the **ledger**.
+##### The accounting equation grid discussed in <a routerlink='file:///C:\\Users\\Neelu_singh\\Dropbox\\Accounting%20Courseware\\Chapter_1_Introduction_to_business_and_accounting_concepts\\documents\\Chapter_1_Introduction\\Common_Accounting_Transactions' class='ngx-router-link'>Section 1.4</a> displays the transactions in an easy-to-read format. However, this layout is good for individual transactions and becomes cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analysing, classifying and recording transactions. These are the **journal** and the **ledger**.
 
-Financial transactions are written down throughout the accounting period as they happen in a record book called the **journal.**  
+In Step 2 of the Accounting Cycle, financial transactions are written down throughout the accounting period as they happen in a record book called the **journal.**  
 
-This is a sample of a few rows in a journal. It has four columns:*  Date, Account, Debit, Credit.* 
+This is a sample of a few rows in a journal. It has four columns:*  *
+
+1.  *Date: where the date of the transaction is entered*
+
+2.  *Account: where one of the five* *account types learned in *Chapter 1** *are entered. *
+
+3.  *Debit: *
+
+4.  *Credit*:
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-638","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-> Note
+Each transaction impacts at least two accounts, and therefore at least two rows will be filled in, with one account in the debit column and one account in the credit column.
+
+> To debit an account, means to enter the amount into the left side of the Journal. To credit an account, means to enter the amount into the right side of the Journal.
 > 
-> The term **debit** refers to the **left** side of an account and **credit** refers to the **right** side of an account.
+> Note:
+> 
+> **Debit** = **left** 
+> 
+> **Credit** = **right**.
 
 ## Rules of Debit and Credit
 
-When deciding if a journal entry should be in the debit or credit column we can use the following rule of thumb:
+When deciding if a transaction should be in the debit (left) or credit (right) column of the journal we can use the following rule of thumb:
 
 ![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image3.png)
 
-For example, on September 1, a new member joins Core Fitness and pays $50 in monthly membership fees. Cash is increasing so it goes in the Debit column. Revenue is also increasing so it goes in the Credit column.
+Now let’s look at two Core Fit transactions and how they will be entered into the Journal.
+
+On September 1, a new member joins Core Fitness and pays $50 in monthly membership fees. Cash is increasing so it goes in the Debit column. Revenue is also increasing so it goes in the Credit column.
 
 ```
 [cosmatt-widget]
@@ -32,6 +48,14 @@ The next day, Core Fitness pays $100 in cash for cleaning supplies to sanitize i
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-716","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
+
+> Tip:
+> 
+> Since the Cash Account is used in many transactions, it is useful to remember the following rule:
+
+  - *When the company **receives** cash, **debit** cash*
+
+  - *When the company **gives** cash, **credit** cash*
 
 Whether an account’s amount should be entered in the debit column or the credit column is based on
 

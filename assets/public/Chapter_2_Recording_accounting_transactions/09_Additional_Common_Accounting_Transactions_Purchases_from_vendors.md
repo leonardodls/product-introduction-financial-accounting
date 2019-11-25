@@ -40,8 +40,5 @@ Instructions:  1. Journalize the following two transactions.
 1.  6/1 A company purchases supplies to be used this month for $970 receives an invoice on account.  
 2.  6/30 The company pays the vendor on account for the invoice it received on 6/1.
 
-```
-[cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_2_Introduction/AccountingTransactionsPurchasesVendors/test-Emded_01","data":{}}} 
-```
+![](./Chapter_2_Recording_accounting_transactions/media/09_Additional_Common_Accounting_Transactions_Purchases_from_vendors/image6.png)
 

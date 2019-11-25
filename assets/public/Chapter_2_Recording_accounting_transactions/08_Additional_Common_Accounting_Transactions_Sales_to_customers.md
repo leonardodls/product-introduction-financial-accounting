@@ -38,10 +38,7 @@ Instructions:  1. Journalize the following two transactions.
 1.  6/1 A company provides a service and sends the customer an invoice for $1,400.  
 2.  6/30 The company receives payment on account from the customer who had been invoiced on 6/1.
 
-```
-[cosmatt-widget]
- {"type":"assessment","options":{"id":"Chapter_2_Introduction/AccountingTransactionsSales/test-Emded_01","data":{}}} 
-```
+![](./Chapter_2_Recording_accounting_transactions/media/08_Additional_Common_Accounting_Transactions_Sales_to_customers/image6.png)
 
 Question: What is the debit balance in the Accounts Receivable account after the 6/30 transaction is posted?  $ \_\_\_\_\_\_\_\_
 
