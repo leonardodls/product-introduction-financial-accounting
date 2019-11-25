@@ -27,7 +27,10 @@ The amount Core Fitness owes to Easy Clean is in the Accounts Payable account. 
 
 When Core Fitness pays the invoice to Easy Clean, *Accounts Payable* is debited to decrease it and *Cash* is credited to decrease it. Core Fitness’ *Accounts Payable* balance becomes zero now that it has paid in full. This is shown in the following *Accounts Payable* ledger where transactions \#2 and \#3 are posted.
 
-![](./Chapter_2_Recording_accounting_transactions/media/09_Additional_Common_Accounting_Transactions_Purchases_from_vendors/image5.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-682","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 ## Interactive Exercise 9 – Purchase transactions on account
 
