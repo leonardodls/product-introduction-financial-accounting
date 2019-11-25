@@ -28,5 +28,5 @@ The following journal excerpt for Core Fitness shows how sample transactions are
  {"type":"assessment","options":{"id":"Chapter_2_Introduction/ProcessJournalizing/test-Emded_02","data":{}}} 
 ```
 
-## Test Your Understanding 
+## Test Your Understanding  
 
