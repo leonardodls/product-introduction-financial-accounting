@@ -4240,7 +4240,7 @@
 		},
 		"RE_00060": {
 			  "meta": {
-			    "type": "MCSR",
+			    "type": "MCQSR",
 			    "score": {
 			      "default": 0,
 			      "max": 1,
@@ -4257,15 +4257,15 @@
 			    "stimulus": [
 			      {
 			        "tag": "image",
-			        "image": "Chapter_2_Recording_accounting_transactions/documents/resources/Question1_Processjournalizing_2_2.png"
+			        "image": ""
 			      }
 			    ],
 			    "canvas": {
-			      "layout": "MCQ_IMAGE",
+			      "layout": "MCQ_IMAGE_OPTIONS",
 			      "data": {
 			        "questiondata": [
 			          {
-			            "text": " <a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
+			            "text": "<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
 			          }
 			        ]
 			      },
@@ -4273,19 +4273,19 @@
 			    },
 			    "interactions": {
 			      "i1": {
-			        "type": "MCSR",
-			        "MCSR": [
+			        "type": "MCQSR",
+			        "MCQSR": [
 			          {
-			            "choiceA": "a"
+			            "choiceA": "Chapter_2_Recording_accounting_transactions/documents/resources/section 2.3_images/2.3_TYU1.png"
 			          },
 			          {
-			            "choiceB": "b"
+			            "choiceB": "Chapter_2_Recording_accounting_transactions/documents/resources/section 2.3_images/2.3_TYU2.png"
 			          },
 			          {
-			            "choiceC": "c"
+			            "choiceC": "Chapter_2_Recording_accounting_transactions/documents/resources/section 2.3_images/2.3_TYU3.png"
 			          },
 			          {
-			            "choiceD": "d"
+			            "choiceD": "Chapter_2_Recording_accounting_transactions/documents/resources/section 2.3_images/2.3_TYU4.png"
 			          }
 			        ]
 			      }
