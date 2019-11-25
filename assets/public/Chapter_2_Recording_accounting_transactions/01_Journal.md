@@ -21,15 +21,17 @@ When deciding if a journal entry should be in the debit or credit column we can 
 
 For example, on September 1, a new member joins Core Fitness and pays $50 in monthly membership fees. Cash is increasing so it goes in the Debit column. Revenue is also increasing so it goes in the Credit column.
 
-**\[Insert 2.2.1\_rules1.xls**\]
-
-![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image4.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-715","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 The next day, Core Fitness pays $100 in cash for cleaning supplies to sanitize its gym equipment. In this transaction, Supplies Expense increases by $100 so it goes in the Credit column. Meanwhile, Cash decreases by $100 so it goes in the credit column.
 
-**\[Insert 2.2.2\_rules2.xls\]**
-
-![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image5.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-716","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 Whether an account’s amount should be entered in the debit column or the credit column is based on
 
@@ -47,6 +49,8 @@ The following table summarizes the rules of debit and credit for commonly used a
 ## Interactive Exercise 3 – Account classifications and behaviors
 
 **Instruction: ** For each one of the accounts listed below, enter the corresponding Account Type and whether an increase in the Account would be a Debit or a Credit.
+
+The list of “Account Types” to choose from are listed below….
 
 ```
 [cosmatt-widget]
