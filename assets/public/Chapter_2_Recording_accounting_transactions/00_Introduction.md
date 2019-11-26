@@ -2,7 +2,7 @@ While Chapter 1 taught us how individual accounts are impacted, in order to get 
 
 ![](./Chapter_2_Recording_accounting_transactions/media/00_Introduction/image1.png)
 
-## Introducting the Accounting Cycle
+## Introducing the Accounting Cycle
 
 The Accounting Cycle is a step-by-step process to identify, analyze and record the economic events of a company. The steps begin with identifying individual transactions similar to those outlined in Chapter 1 such as:
 
