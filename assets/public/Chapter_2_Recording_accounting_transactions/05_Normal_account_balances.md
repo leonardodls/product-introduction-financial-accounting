@@ -1,14 +1,14 @@
-> Note
+> **Normal Balance**
 > 
-> The first entry in each of the previous ledgers indicates which of the two final columns will normally be used to maintain the account’s running balance. This is called the account’s **normal balance**.
+> The first entry in the ledger indicates which of the two final columns will be used to maintain the account’s running balance. This is called the account’s **normal balance**.
 
 ## Cash Account
 
-For the *Cash* account, the first entry is in the first Debit column, so the running balance begins accumulating in the second Debit column. On the first row, the amounts in the two Debit columns will be the same. For the *Cash* account, the amount is $1,000 in both Debit columns in the first row. After the first entry in the ledger, subsequent debit entries are added to the previous debit balance, and subsequent credit entries are deducted from the previous debit balance. The Credit balance column remains blank.
+For the *Cash* account, the first entry is in the first Debit column, so the running balance begins accumulating in the second Debit column.
+
+On the first row, the amounts in the two Debit columns will be the same. For the *Cash* account, the amount is $1,000 in both Debit columns in the first row. After the first entry in the ledger, subsequent debit entries are added to the previous debit balance, and subsequent credit entries are deducted from the previous debit balance. The Credit balance column remains blank.
 
 The following *Cash* ledger shows its balance accumulates in the Debit column, even though there are both debit and credit entries posted to the account. The normal balance of the *Cash* account is a Debit.
-
-\[Explain the above text with a diagram like the prior section\]
 
   
 
@@ -22,8 +22,6 @@ The following *Cash* ledger shows its balance accumulates in the Debit column, e
 Alternatively, for the *Fees Earned* account, the first entry is in the first Credit column, the running balance begins accumulating in the second Credit column, and the account’s normal balance is a Credit. The Debit balance column remains blank for this account.
 
 The following *Fees Earned* ledger shows its balance accumulates in the Credit column. The normal balance of the *Fees Earned* account is a Credit.
-
-\[Similarly, we can explain the above text with a diagram\]
 
  
 

@@ -2,30 +2,18 @@
 
 In Step 2 of the Accounting Cycle, financial transactions are written down throughout the accounting period as they happen in a record book called the **journal.**  
 
-This is a sample of a few rows in a journal. It has four columns:*  *
-
-1.  *Date: where the date of the transaction is entered*
-
-2.  *Account: where one of the five* *account types learned in *Chapter 1** *are entered. *
-
-3.  *Debit: *
-
-4.  *Credit*:
+Below is a sample of a few rows in a journal. Each transaction impacts at least two accounts, and therefore at least two rows will be filled in, with one account in the debit column and one account in the credit column.
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-638","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-Each transaction impacts at least two accounts, and therefore at least two rows will be filled in, with one account in the debit column and one account in the credit column.
-
-To debit an account, means to enter the amount into the left side of the Journal. To credit an account, means to enter the amount into the right side of the Journal.
-
-> Remember
+> Remember:
 > 
-> Debit =\> left
-
-Credit =\>right
+> To **debit** an account, means to enter the amount into the **left side** of the Journal.
+> 
+> To **credit** an account, means to enter the amount into the **right side** of the Journal.
 
 ## Rules of Debit and Credit
 
@@ -51,14 +39,6 @@ The next day, Core Fitness pays $100 in cash for cleaning supplies to sanitize i
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-716","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-> Tip
-> 
-> Since the Cash Account is used in many transactions, it is useful to remember the following rule:
-> 
-> When the company **receives** cash, **debit** cash
-> 
-> When the company **gives** cash, **credit** cash
-
 Whether an account’s amount should be entered in the debit column or the credit column is based on
 
   - Type of account
@@ -72,11 +52,19 @@ The following table summarizes the rules of debit and credit for commonly used a
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-639","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
+> Tip
+> 
+> Since the Cash Account is used in many transactions, it is useful to remember the following rule:
+> 
+> When the company **receives** cash, **debit** cash
+> 
+> When the company **gives** cash, **credit** cash
+
 ## Interactive Exercise 3 – Account classifications and behaviors
 
-**Instruction: ** For each one of the accounts listed below, enter the corresponding Account Type and whether an increase in the Account would be a Debit or a Credit.
+**Instruction: ** For each one of the accounts listed below, enter the corresponding Account Type. Then type “Debit” if an increase in the Account would be a debit or type “Credit” if an increase would be a credit.
 
-The list of “Account Types” to choose from are listed below….
+Here is the list of “Account Types” to choose from: Asset, Liability, Stockholders’ Equity, Revenue, Expense
 
 ```
 [cosmatt-widget]

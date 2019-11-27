@@ -10,7 +10,7 @@ Entering transactions in the journal is called **journalizing** and involves the
 
 5.  Enter the account that will be **debited** on the **first line** of the transaction. Enter its amount in the **Debit** column on the same line.
 
-6.  Enter the account that will be **credited** on the **second line** of the transaction. Indent the credit account name, Enter its amount in the **Credit** column on the same line. 
+6.  Enter the account that will be **credited** on the **second line** of the transaction. **Indent** the credit account name, Enter its amount in the **Credit** column on the same line. 
 
 The following journal excerpt for Core Fitness shows how sample transactions are entered.
 
