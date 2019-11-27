@@ -371,7 +371,7 @@
             "meta":{
               "renderOverrides":{
                 "widgetStyles":{
-                    "border": "none",
+                    "border": "1px solid #ddd",
                     "box-shadow":"none"
                 },
                 "pasteSpecial": [
