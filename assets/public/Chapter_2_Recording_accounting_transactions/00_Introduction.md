@@ -27,5 +27,3 @@ In Chapter 2, we will learn how to complete steps 2 and 3 which involve taking t
 > Financial Statements provides insight into the company’s financials and help answer key economic questions.
 > 
 > The Accounting Cycle is a set of 6 steps that repeats every period and is used to create Financial Statements.
-
-  - 
