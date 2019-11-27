@@ -19,6 +19,10 @@ Below is a sample of a few rows in a journal. Each transaction impacts at least 
 
 ## 
 
+## 
+
+## 
+
 When deciding if a transaction should be in the debit (left) or credit (right) column of the journal we can use the following rule of thumb:
 
 ![](./Chapter_2_Recording_accounting_transactions/media/01_Journal/image3.png)
