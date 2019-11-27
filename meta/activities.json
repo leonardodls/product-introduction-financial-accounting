@@ -371,8 +371,7 @@
             "meta":{
               "renderOverrides":{
                 "widgetStyles":{
-                    "border": "1px solid #ddd",
-                    "box-shadow":"none"
+                    "border": "1px solid #ddd"
                 },
                 "pasteSpecial": [
 			            "value",
@@ -465,7 +464,8 @@
               }
             },
             "hideBottomToolbar" : true,
-            "alwaysShowQuestion" : true
+            "alwaysShowQuestion" : true,
+            "showDoneButton" : true
           }
         }
       },
@@ -550,7 +550,8 @@
               }
             },
             "hideBottomToolbar" : true,
-            "alwaysShowQuestion" : true
+            "alwaysShowQuestion" : true,
+            "showDoneButton" : true
           }
         }
       },
