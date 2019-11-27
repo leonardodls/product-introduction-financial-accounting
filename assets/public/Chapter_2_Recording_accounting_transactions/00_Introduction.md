@@ -14,7 +14,7 @@ The Accounting Cycle is a step-by-step process to identify, analyze and record t
 
 These individual transactions are converted into the Company’s summary financial statements through 6 steps outlined below.
 
-![](./Chapter_2_Recording_accounting_transactions/documents/resources/accounting_cycle.svg)
+##### ![](./Chapter_2_Recording_accounting_transactions/documents/resources/accounting_cycle.svg)
 
 Every company prepares these statements for specific time periods. The most common accounting period is annual, and therefore the accounting cycle would be for 1 year. However, statements can also be prepared monthly or quarterly. After each period ends, the Company restarts the 6 steps, and therefore the cycle repeats. This process of recording of transactions is known as the **Accounting Cycle.**
 

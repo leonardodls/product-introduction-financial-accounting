@@ -3,124 +3,130 @@
   "options": {
     "data": {
       "chart": {
-        "mode": "course",
-        "chartelements": {
-          "title": {
+    "mode": "course",
+    "chartelements": {
+        "title": {
             "display": true,
             "text": "Monthly Profit and Loss Chart",
             "position": "top",
             "style": {
-              "fontstyle": "bold",
-              "fontcolor": "#3c3c3c",
-              "fontsize": 16,
-              "padding": 17,
-              "fontfamily": " Open Sans, sans-serif",
-              "backgroundcolor": "#3c3c3c"
+                "fontstyle": "bold",
+                "fontcolor": "#3c3c3c",
+                "fontsize": 16,
+                "padding": 17,
+                "fontfamily": " Open Sans, sans-serif",
+                "backgroundcolor": "#3c3c3c"
             }
-          },
-          "chartlinestyles": {
-            "lines": [
-              {
-                "display": false,
-                "linelabelname": "Fixed Cost",
-                "borderwidth": 4,
-                "bordercolor": "#D3D3D3",
-                "backgroundcolor": "#D3D3D3",
-                "fill": false
-              },
-              {
-                "display": true,
-                "linelabelname": "Total Cost",
-                "borderwidth": 4,
-                "bordercolor": "#e65c00",
-                "backgroundcolor": "#e65c00",
-                "fill": false
-              },
-              {
-                "display": true,
-                "linelabelname": "Total Revenue",
-                "borderwidth": 4,
-                "bordercolor": "#36a2eb",
-                "backgroundcolor": "#36a2eb",
-                "fill": false
-              }
+        },
+        "chartlinestyles": {
+            "lines": [{
+                    "display": false,
+                    "linelabelname": "Fixed Cost",
+                    "borderwidth": 4,
+                    "bordercolor": "#D3D3D3",
+                    "backgroundcolor": "#D3D3D3",
+                    "fill": false
+                },
+                {
+                    "display": true,
+                    "linelabelname": "Total Cost",
+                    "borderwidth": 4,
+                    "bordercolor": "#e65c00",
+                    "backgroundcolor": "#e65c00",
+                    "fill": false
+                },
+                {
+                    "display": true,
+                    "linelabelname": "Total Revenue",
+                    "borderwidth": 4,
+                    "bordercolor": "#36a2eb",
+                    "backgroundcolor": "#36a2eb",
+                    "fill": false
+                }
             ]
-          },
-          "axes": {
+        },
+        "axes": {
             "xaxes": {
-              "display": true,
-              "label": "Number of Members",
-              "minval": 0,
-              "maxval": 1200,
-              "stepsize": 100,
-              "padding": 20
+                "display": true,
+                "label": "Number of Members",
+                "minval": 0,
+                "maxval": 1200,
+                "stepsize": 100,
+                "padding": 20
+
             },
             "yaxes": {
-              "display": true,
-              "label": "Revenue or Cost",
-              "minval": 0,
-              "maxval": 90000,
-              "stepsize": 10000,
-              "padding": 20
+                "display": true,
+                "label": "Revenue or Cost",
+                "minval": 0,
+                "maxval": 90000,
+                "stepsize": 10000,
+                "padding": 20
             }
-          },
-          "legends": {
+        },
+        "legends": {
             "display": false,
             "position": "bottom",
             "shape": "line",
             "fill": true,
             "style": {
-              "fontstyle": "bold",
-              "fontcolor": "#1c5f93",
-              "fontsize": "20",
-              "fontfamily": "Arial",
-              "backgroundcolor": "#993333"
+                "fontstyle": "bold",
+                "fontcolor": "#1c5f93",
+                "fontsize": "20",
+                "fontfamily": "Arial",
+                "backgroundcolor": "#993333"
             }
-          }
-        },
-        "slidervalues": [
-          {
+        }
+    },
+    "slidervalues": [{
             "sliderid": "fixedcost",
             "sliderlabel": "Fixed Cost ($)",
             "defaultval": 24000,
             "minval": 15000,
             "maxval": 30000
-          },
-          {
+        },
+        {
             "sliderid": "variablecost",
             "sliderlabel": "Variable Cost ($)*",
             "defaultval": 20,
             "minval": 15,
             "maxval": 25
-          },
-          {
+        },
+        {
             "sliderid": "membershipfee",
             "sliderlabel": "Membership Fee ($)*",
             "defaultval": 60,
             "minval": 50,
             "maxval": 75
-          }
-        ],
-        "layoutconfigurations": {
-          "chartpane": {
+        }
+    ],
+    "layoutconfigurations": {
+        "chartpane": {
             "height": "60%",
             "width": "60%",
             "align": "left",
             "cssclasses": {}
-          },
-          "inputoutput": {
+        },
+        "inputoutput": {
             "height": "40%",
             "width": "40%",
             "align": "right",
             "cssclasses": {}
-          }
-        },
-        "others": {},
-        "override": {
-          "plGraphContainermarginleft": 8,
-          "plconclusionfontweight": "bold"
         }
-      }
+    },
+    "others": {
+    },
+    "override": {
+        "plGraphContainermarginleft": 8,
+        "plconclusionfontweight": "bold",
+        "slidervaluealign": "left",
+        "plConclusionParafontsize": "14px",
+        "plsliderContainerfontsize": "14px",
+        "plsliderContainermarginleft": "0px",
+        "perMemberInfoStylepaddingleft": "15px",
+        "plsizeSlidermarginleft": "10px"
+    }
+}
     }
   }
 }
