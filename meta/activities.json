@@ -579,7 +579,15 @@
 				"item-code": "Trialbalance-test-Emded_01/Question-1",
 				"item-type": "resource",
 				"resource": "RE_00066"
-			},
+			}]
+     
+		},
+		{
+			"name": "Trialbalance-test-Emded_02",
+			"item-code": "Trialbalance-test-Emded_02",
+			"item-type": "folder",
+			"sub-type": "test",
+			"items": [
 			{
 				"name": "Question 2",
 				"item-code": "Trialbalance-test-Emded_01/Question-2",

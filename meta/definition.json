@@ -560,13 +560,20 @@
             "item-code": "Chapter_2_Introduction/Trialbalance",
             "tracking": true,  
             "embedded": [
-				  {
-					"item-code": "Chapter_2_Introduction/Trialbalance/test-Emded_01",
-					"resource": "RE_CH_2_SEC_6_EM_01",
-					"item-type": "resource",
-					"name": "Emb Test 1",
-					"tracking": false
-				  }
+      				  {
+        					"item-code": "Chapter_2_Introduction/Trialbalance/test-Emded_01",
+        					"resource": "RE_CH_2_SEC_6_EM_01",
+        					"item-type": "resource",
+        					"name": "Emb Test 1",
+        					"tracking": false
+      				  },
+                {
+                  "item-code": "Chapter_2_Introduction/Trialbalance/test-Emded_02",
+                  "resource": "RE_CH_2_SEC_6_EM_02",
+                  "item-type": "resource",
+                  "name": "Emb Test 1",
+                  "tracking": false
+                }
 				],				
             "attribs": {
               "mark-as-complete": {
@@ -2878,16 +2885,27 @@
 		"learning-objectives": []
 	  }, 
 	 "RE_CH_2_SEC_6_EM_01": {
-		"sub-type": "test",
-		"tags": [
-		  "Practice"
-		],
-		"test": {
-		  "url": "Trialbalance-test-Emded_01"
-		},
-		"description": "fundamentals - units - Test your understanding",
-		"learning-objectives": []
+    		"sub-type": "test",
+    		"tags": [
+    		  "Practice"
+    		],
+    		"test": {
+    		  "url": "Trialbalance-test-Emded_01"
+    		},
+    		"description": "fundamentals - units - Test your understanding",
+    		"learning-objectives": []
 	  }, 
+   "RE_CH_2_SEC_6_EM_02": {
+        "sub-type": "test",
+        "tags": [
+          "Practice"
+        ],
+        "test": {
+          "url": "Trialbalance-test-Emded_02"
+        },
+        "description": "fundamentals - units - Test your understanding",
+        "learning-objectives": []
+    },  
 	 "RE_CH_2_SEC_7_EM_01": {
 		"sub-type": "test",
 		"tags": [
