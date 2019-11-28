@@ -515,6 +515,13 @@
                 "item-type": "resource",
                 "name": "Emb Test 1",
                 "tracking": false
+              },
+              {
+                "item-code": "Chapter_2_Introduction/PostingLedgerAccounts/test-Emded_02",
+                "resource": "RE_CH_2_SEC_4_EM_02",
+                "item-type": "resource",
+                "name": "Emb Test 1",
+                "tracking": false
               }
             ], 			
             "attribs": {
@@ -2848,6 +2855,17 @@
 		"description": "fundamentals - units - Test your understanding",
 		"learning-objectives": []
 	  }, 
+    "RE_CH_2_SEC_4_EM_02": {
+      "sub-type": "test",
+      "tags": [
+        "Practice"
+      ],
+      "test": {
+        "url": "PostingLedgerAccounts-test-Emded_02"
+      },
+      "description": "fundamentals - units - Test your understanding",
+      "learning-objectives": []
+    }, 
 	 "RE_CH_2_SEC_5_EM_01": {
 		"sub-type": "test",
 		"tags": [
