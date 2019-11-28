@@ -547,7 +547,7 @@
 			"item-code": "PostingLedgerAccounts-test-Emded_02",
 			"item-type": "folder",
 			"sub-type": "test",
-			"items": [,
+			"items": [
 			{
 				"name": "Question 2",
 				"item-code": "PostingLedgerAccounts-test-Emded_02/Question-1",
