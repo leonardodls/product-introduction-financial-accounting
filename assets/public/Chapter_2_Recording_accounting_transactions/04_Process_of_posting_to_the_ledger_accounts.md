@@ -27,6 +27,20 @@ The example that follows shows a journal with six transactions that involve *Cas
 
 ## Interactive Exercise 6 – Journalizing and posting transactions
 
+Instructions: Record the following transactions in the journal.
+
+1.  On 6/1, an individual invested $5,000 in a corporation.
+
+2.  On 6/2, the company paid rent of $1,300 for the month for its office space.
+
+3.  On 6/3, a customer paid $2,400 cash for services the company provided.
+
+4.  On 6/4, the company paid $800 for employee wages.
+
+5.  On 6/5, a customer paid $1,500 cash for services the company provided.
+
+6.  On 6/6, the company paid $900 for employee wages.
+
 ```
 [cosmatt-widget]
  {"type":"assessment","options":{"id":"Chapter_2_Introduction/PostingLedgerAccounts/test-Emded_01","data":{}}} 
