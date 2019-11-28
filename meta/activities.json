@@ -4239,75 +4239,80 @@
 			]
 		},
 		"RE_00060": {
-			  "meta": {
-			    "type": "MCQSR",
-			    "score": {
-			      "default": 0,
-			      "max": 1,
-			      "min": 0
-			    }
-			  },
-			  "content": {
-			    "instructions": [
-			      {
-			        "tag": ""
-			      }
-			    ],
-			    "stimulus": [
-			      {
-			        "tag": "",
-			        "image": ""
-			      }
-			    ],
-			    "canvas": {
-			      "layout": "MCQ_IMAGE",
-			      "data": {
-			        "questiondata": [
-			          {
-			            "text": "Given this journal entries , which is the correct journal entry?<a href='http://www.comprodls.com/m1.0/interaction/mcqsc'>i1</a> "
-			          }
-			        ]
-			      },
-			      "raw": ""
-			    },
-			    "interactions": {
-			      "i1": {
-			        "type": "MCQSR",
-			        "MCQSR": [
-			          {
-			            "choiceA": "Chapter_2_Recording_accounting_transactions/documents/resources/section_2.3_images/2.3_TYU1.png"
-			          },
-			          {
-			            "choiceB": "Chapter_2_Recording_accounting_transactions/documents/resources/section_2.3_images/2.3_TYU2.png"
-			          },
-			          {
-			            "choiceC": "Chapter_2_Recording_accounting_transactions/documents/resources/section_2.3_images/2.3_TYU3.png"
-			          },
-			          {
-			            "choiceD": "Chapter_2_Recording_accounting_transactions/documents/resources/section_2.3_images/2.3_TYU4.png"
-			          }
-			        ]
-			      }
-			    },
-			    "hint": {}
-			  },
-			  "feedback": {
-			    "global": {
-			      "correct": "Perfect. You got it correct !!!",
-			      "incorrect": "Sorry, Wrong response.",
-			      "empty": "You did not enter anything."
-			    }
-			  },
-			  "responses": {
-			    "i1": {
-			      "correct": "choiceC"
-			    }
-			  },
-			  "learning-objectives": [],
-			  "tags": [
-			    "test"
-			  ]
-		},
+      "meta": {
+        "type": "MCQSR",
+        "score": {
+          "default": 0,
+          "max": 1,
+          "min": 0
+        }
+      },
+      "content": {
+        "instructions": [
+          {
+            "tag": ""
+          }
+        ],
+        "stimulus": [
+          {
+            "tag": "image",
+            "image":""
+          }
+        ],
+        "canvas": {
+          "layout": "MCQ_IMAGE_OPTIONS",
+          "data": {
+            "questiondata": [
+              {
+                "text":
+                  " Given this journal entries , which is the correct journal entry? <a href='http://www.comprodls.com/m1.0/interaction/mcqsr'>i1</a> "
+              }
+            ]
+          },
+          "raw": ""
+        },
+        "interactions": {
+          "i1": {
+            "type": "MCQSR",
+            "MCQSR": [
+              {
+                "choiceA":
+                  "Chapter_2_Recording_accounting_transactions/documents/resources/section_2.3_images/2.3_TYU1.png"
+              },
+              {
+                "choiceB":
+                  "Chapter_2_Recording_accounting_transactions/documents/resources/section_2.3_images/2.3_TYU2.png"
+              },
+              {
+                "choiceC":
+                  "Chapter_2_Recording_accounting_transactions/documents/resources/section_2.3_images/2.3_TYU3.png"
+              },
+              {
+                "choiceD":
+                  "Chapter_2_Recording_accounting_transactions/documents/resources/section_2.3_images/2.3_TYU4.png"
+              }
+            ]
+          }
+        },
+        "hint": {}
+      },
+      "feedback": {
+        "global": {
+          "correct": "Perfect. You got it correct !!!",
+          "incorrect": "Sorry, Wrong response.",
+          "empty": "You did not enter anything."
+        }
+      },
+      "responses": {
+        "i1": {
+          "correct": "choiceC"
+        }
+      },
+      "learning-objectives": [
+        "Understanding differences between the treatment of linear and rotary motion"
+      ],
+      "tags": ["test"]
+    },
 		"RE_00061": {
 			"meta": {
 				"type": "COSMATTCOMPREWIDGET",
