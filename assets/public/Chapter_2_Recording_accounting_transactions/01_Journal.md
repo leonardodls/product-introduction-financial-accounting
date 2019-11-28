@@ -1,4 +1,4 @@
-##### The accounting equation grid discussed in Section 1.4 displays the transactions in an easy-to-read format. However, this layout is good for individual transactions and becomes cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analysing, classifying and recording transactions. These are the **journal** and the **ledger**.
+The accounting equation grid discussed in Section 1.4 displays the transactions in an easy-to-read format. However, this layout is good for individual transactions and becomes cumbersome when a large number of transactions are involved. The accounting process is streamlined by instead using two record keeping processes for analysing, classifying and recording transactions. These are the journal and the ledger.
 
 In Step 2 of the Accounting Cycle, financial transactions are written down throughout the accounting period as they happen in a record book called the **journal.**  
 
