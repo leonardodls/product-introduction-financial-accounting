@@ -4255,8 +4255,7 @@
         ],
         "stimulus": [
           {
-            "tag": "image",
-            "image":""
+            "tag": ""
           }
         ],
         "canvas": {
