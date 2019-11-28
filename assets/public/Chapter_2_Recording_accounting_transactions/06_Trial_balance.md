@@ -2,6 +2,8 @@ A **trial balance** is a list of all a business’s accounts and its current led
 
 ![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image2.tiff)
 
+> Note:
+> 
 > The total of all the debit balances in a company’s ledger accounts must always equal the total of all the credit balances
 
 Assume Core Fitness has only five accounts. The trial balance below lists these accounts and their corresponding balances at the end of the month.
