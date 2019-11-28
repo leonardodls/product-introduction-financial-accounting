@@ -12,9 +12,15 @@ The item column can be left blank or filled with the description of the activity
 
 ④ The second set of Debit and Credit columns are where the account’s running total is maintained. An account’s **running balance** typically appears in either the Debit or the Credit column, but not both.
 
-![](./Chapter_2_Recording_accounting_transactions/media/03_Ledgers/image4.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-651","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
-![](./Chapter_2_Recording_accounting_transactions/media/03_Ledgers/image5.png)
+```
+[cosmatt-widget]
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-653","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+```
 
 **Interactive Exercise 5 – Ledger accounts**
 
