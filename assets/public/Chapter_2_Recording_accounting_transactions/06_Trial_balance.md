@@ -22,3 +22,5 @@ The trial balance shows that the ledgers balance:  $7,000 + $3,000 + $2,000 (de
  {"type":"assessment","options":{"id":"Chapter_2_Introduction/Trialbalance/test-Emded_01","data":{}}} 
 ```
 
+## Test Your Understanding 
+
