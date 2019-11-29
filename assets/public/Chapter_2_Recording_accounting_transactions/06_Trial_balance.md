@@ -1,6 +1,6 @@
 A **trial balance** is a list of all a business’s accounts and its current ledger balances (copied over from the ledger accounts). A trial balance may be generated at any time to test whether total debits equals total credits. If both of the total columns do not equal, there is an error that must be found and corrected.
 
-![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image2.tiff)
+![](./Chapter_2_Recording_accounting_transactions/media/06_Trial_balance/image2.png)
 
 > Note:
 > 
