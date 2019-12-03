@@ -27,7 +27,7 @@ In practice, the **cost of a fixed asset becomes an expense over the time the as
 
 ## Interactive Exercise 11 – Asset purchase transaction
 
-Instructions:  1. Journalize the following transaction.
+**Instructions**: Journalize the following transaction.
 
 On June 1<sup>st</sup>, a company purchases equipment that costs $17,500. The company pays a down payment of $8,500 and takes out a loan for the remainder.
 
@@ -35,4 +35,6 @@ On June 1<sup>st</sup>, a company purchases equipment that costs $17,500. The co
 [cosmatt-widget]
  {"type":"assessment","options":{"id":"Chapter_2_Introduction/AccountingTransactionsPurchaseAssets/test-Emded_01","data":{}}} 
 ```
+
+## Test Your Understanding
 

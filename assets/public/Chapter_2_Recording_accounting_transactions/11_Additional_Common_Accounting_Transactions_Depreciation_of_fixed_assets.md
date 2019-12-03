@@ -23,7 +23,7 @@ Transactions \#1 and \#2 show the end-of-period entries that expense off some of
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-696","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-2.  Assume Core Fitness’ new building depreciates at a rate of $4,000 per year
+1.  Assume Core Fitness’ new building depreciates at a rate of $4,000 per year
 
 ```
 [cosmatt-widget]
@@ -34,120 +34,11 @@ Transactions \#1 and \#2 show the end-of-period entries that expense off some of
 
 ## Interactive Exercise 12 – Depreciation transaction on account
 
-**Instructions:**  Journalize the following transaction.
+**Instructions**: Journalize the following transaction
 
 A company records annual depreciation on its equipment of $800.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>12/31</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>    </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-*\[Hint:* An expense account is increasing. A contra asset account is also increasing.\]
-
-*\[ANSWER KEY\]*
-
-A company records annual depreciation on its equipment of $800.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>Date</strong></td>
-<td><strong>Account</strong></td>
-<td></td>
-<td><strong>Debit</strong></td>
-<td><strong>Credit</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>12/31</td>
-<td>Depreciation Expense</td>
-<td></td>
-<td>800</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>  Accumulated Depreciation – Equipment</td>
-<td></td>
-<td></td>
-<td>800</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>    </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+![](./Chapter_2_Recording_accounting_transactions/media/11_Additional_Common_Accounting_Transactions_Depreciation_of_fixed_assets/image4.png)
 
 ## Test Your Understanding
 
-A company purchased its building on January 1, 2016 for $200,000. It depreciates at a rate of $10,000 per year. What is the book value of the building on December 31, 2019?  
-  
-                                        $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- *\[Correct Answer: $160,000\]*

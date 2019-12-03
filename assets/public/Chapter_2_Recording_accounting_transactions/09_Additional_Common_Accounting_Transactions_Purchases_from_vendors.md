@@ -32,11 +32,11 @@ When Core Fitness pays the invoice to Easy Clean, *Accounts Payable* is debited 
 
 ## Interactive Exercise 9 – Purchase transactions on account
 
-Instructions:  1. Journalize the following two transactions.  
-                        2. Answer the question after the journal entries.
+**Instructions**: Journalize the following two transactions and what is the credit balance in the Accounts Payable account after the 6/1 transaction is?
 
-1.  6/1 A company purchases supplies to be used this month for $970 receives an invoice on account.  
-2.  6/30 The company pays the vendor on account for the invoice it received on 6/1.
+1.  6/1 A company purchases supplies to be used this month for $970 receives an invoice on account.
+
+2.  6/30 The company pays the vendor on account for the invoice it received on 6/1.
 
 ![](./Chapter_2_Recording_accounting_transactions/media/09_Additional_Common_Accounting_Transactions_Purchases_from_vendors/image6.png)
 
