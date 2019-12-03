@@ -38,5 +38,8 @@ When Core Fitness pays the invoice to Easy Clean, *Accounts Payable* is debited 
 
 2.  6/30 The company pays the vendor on account for the invoice it received on 6/1.
 
-![](./Chapter_2_Recording_accounting_transactions/media/09_Additional_Common_Accounting_Transactions_Purchases_from_vendors/image6.png)
+```
+[cosmatt-widget]
+ {"type":"assessment","options":{"id":"Chapter_2_Introduction/AccountingTransactionsPurchasesVendors/test-Emded_01","data":{}}} 
+```
 
