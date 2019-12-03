@@ -675,8 +675,8 @@
      
 		},
 		{
-			"name": "AccountingTransactionsDepreciation-test-Emded_01",
-			"item-code": "AccountingTransactionsDepreciation-test-Emded_01",
+			"name": "AccountingTransactionsDepreciation-test-Emded_02",
+			"item-code": "AccountingTransactionsDepreciation-test-Emded_02",
 			"item-type": "folder",
 			"sub-type": "test",
 			"items": [{
