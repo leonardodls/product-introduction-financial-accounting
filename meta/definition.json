@@ -655,13 +655,20 @@
             "item-code": "Chapter_2_Introduction/AccountingTransactionsPurchaseAssets",
             "tracking": true,        
             "embedded": [
-				  {
-					"item-code": "Chapter_2_Introduction/AccountingTransactionsPurchaseAssets/test-Emded_01",
-					"resource": "RE_CH_2_SEC_10_EM_01",
-					"item-type": "resource",
-					"name": "Emb Test 1",
-					"tracking": false
-				  }
+    				  {
+    					"item-code": "Chapter_2_Introduction/AccountingTransactionsPurchaseAssets/test-Emded_01",
+    					"resource": "RE_CH_2_SEC_10_EM_01",
+    					"item-type": "resource",
+    					"name": "Emb Test 1",
+    					"tracking": false
+    				  },
+              {
+              "item-code": "Chapter_2_Introduction/AccountingTransactionsPurchaseAssets/test-Emded_02",
+              "resource": "RE_CH_2_SEC_10_EM_02",
+              "item-type": "resource",
+              "name": "Emb Test 1",
+              "tracking": false
+              }
 				],			
             "attribs": {
               "mark-as-complete": {
@@ -683,7 +690,14 @@
 					"item-type": "resource",
 					"name": "Emb Test 1",
 					"tracking": false
-				  }
+				  },
+          {
+          "item-code": "Chapter_2_Introduction/AccountingTransactionsDepreciation/test-Emded_02",
+          "resource": "RE_CH_2_SEC_11_EM_02",
+          "item-type": "resource",
+          "name": "Emb Test 2",
+          "tracking": false
+          }
 				],			
             "attribs": {
               "mark-as-complete": {
@@ -3136,27 +3150,49 @@
 		"learning-objectives": []
 	  },
 	  "RE_CH_2_SEC_10_EM_01": {
-		"sub-type": "test",
-		"tags": [
-		  "Practice"
-		],
-		"test": {
-		  "url": "AccountingTransactionsPurchaseAssets-test-Emded_01"
-		},
-		"description": "fundamentals - units - Test your understanding",
-		"learning-objectives": []
+  		"sub-type": "test",
+  		"tags": [
+  		  "Practice"
+  		],
+  		"test": {
+  		  "url": "AccountingTransactionsPurchaseAssets-test-Emded_01"
+  		},
+  		"description": "fundamentals - units - Test your understanding",
+  		"learning-objectives": []
 	  },
+    "RE_CH_2_SEC_10_EM_012": {
+      "sub-type": "test",
+      "tags": [
+        "Practice"
+      ],
+      "test": {
+        "url": "AccountingTransactionsPurchaseAssets-test-Emded_02"
+      },
+      "description": "fundamentals - units - Test your understanding",
+      "learning-objectives": []
+    },
 	  "RE_CH_2_SEC_11_EM_01": {
-		"sub-type": "test",
-		"tags": [
-		  "Practice"
-		],
-		"test": {
-		  "url": "AccountingTransactionsDepreciation-test-Emded_01"
-		},
-		"description": "fundamentals - units - Test your understanding",
-		"learning-objectives": []
-	  }
+  		"sub-type": "test",
+  		"tags": [
+  		  "Practice"
+  		],
+  		"test": {
+  		  "url": "AccountingTransactionsDepreciation-test-Emded_01"
+  		},
+  		"description": "fundamentals - units - Test your understanding",
+  		"learning-objectives": []
+	  },
+    "RE_CH_2_SEC_11_EM_02": {
+      "sub-type": "test",
+      "tags": [
+        "Practice"
+      ],
+      "test": {
+        "url": "AccountingTransactionsDepreciation-test-Emded_02"
+      },
+      "description": "fundamentals - units - Test your understanding",
+      "learning-objectives": []
+    }
     },
     "test": {},
     "ebook": {}
