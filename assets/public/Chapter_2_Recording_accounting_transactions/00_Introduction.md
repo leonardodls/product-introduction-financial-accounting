@@ -21,9 +21,3 @@ Every company prepares these statements for specific time periods. The most comm
 We completed the first step of **Identifying Transactions** in Chapter 1.
 
 In Chapter 2, we will learn how to complete steps 2 and 3 which involve taking these transactions and recording them in two ways – **Journals and Ledgers.**
-
-> Summary:
-> 
-> Financial Statements provides insight into the company’s financials and help answer key economic questions.
-> 
-> The Accounting Cycle is a set of 6 steps that repeats every period and is used to create Financial Statements.

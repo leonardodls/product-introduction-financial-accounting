@@ -4,7 +4,7 @@ Now that the processes of journalizing, posting to the ledgers, and preparing a 
 
 ## Investments by Owners
 
-1.  Core Fitness receives $10,000 cash from an investor, Jay. Jay now owns $10,000 of common stock in Core Fitness.
+1.  On June 1<sup>st</sup>, Core Fitness receives $10,000 cash from an investor, Jay. Jay now owns $10,000 of common stock in Core Fitness.
 
 ```
 [cosmatt-widget]

@@ -1,4 +1,4 @@
-1.  Core Fitness purchases land, paying $80,000 cash.
+1.  Core Fitness purchases land for a new studio, paying $80,000 cash.
 
 ```
 [cosmatt-widget]
@@ -19,21 +19,17 @@
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-691","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-\[Notes Box\]
+Transaction \#3 is called a **compound transaction** because there is more than one credit. (A compound transaction could also have more than one debit, if required.) **The total of the debits must equal the total of the credits in each transaction.** 
 
-*“Transaction \#3 is called a **compound transaction** because there is more than one credit. (A compound transaction could also have more than one debit, if required.) The total of the debits must equal the total of the credits in each transaction.\] *
+In transactions \#1, 2, and 3, the accounts debited are Land, Equipment, and Building – often called **fixed assets.** These purchases are recorded as assets rather than expenses because they will last more than one accounting period and because their costs are significant amounts.
 
-In transactions \#1, 2, and 3, the accounts debited are *Land*, *Equipment*, and *Building* – often called **fixed assets.** These purchases are recorded as assets rather than expenses because they will last more than one accounting period and because their costs are significant amounts.
-
-\[Notes Box\]
-
-*“In practice, the cost of a fixed asset becomes an expense over the time the asset is used rather than all at once at the time of purchase.”*
+In practice, the **cost of a fixed asset becomes an expense over the time the asset is used** rather than all at once at the time of purchase.
 
 ## Interactive Exercise 11 – Asset purchase transaction
 
 Instructions:  1. Journalize the following transaction.
 
-A company purchases equipment that costs $17,500. The company pays a down payment of $8,500 and takes out a loan for the remainder.
+On June 1<sup>st</sup>, a company purchases equipment that costs $17,500. The company pays a down payment of $8,500 and takes out a loan for the remainder.
 
 ```
 [cosmatt-widget]

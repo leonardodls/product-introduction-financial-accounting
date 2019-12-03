@@ -9,7 +9,7 @@ Below is a sample of a few rows in a journal. Each transaction impacts at least 
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-638","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-> Remember:
+> Good To Remember
 > 
 > To **debit** an account, means to enter the amount into the **left side** of the Journal.
 > 
@@ -27,14 +27,14 @@ On September 1, a new member joins Core Fitness and pays $50 in monthly membersh
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-715","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-716","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 The next day, Core Fitness pays $100 in cash for cleaning supplies to sanitize its gym equipment. In this transaction, Supplies Expense increases by $100 so it goes in the Credit column. Meanwhile, Cash decreases by $100 so it goes in the credit column.
 
 ```
 [cosmatt-widget]
- {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-716","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
+ {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-715","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
 Whether an account’s amount should be entered in the debit column or the credit column is based on

@@ -1,11 +1,11 @@
-1.  Core Fitness purchases bathroom supplies from Easy Clean, Inc. for $100 to be used this month and pays cash immediately.
+1.  Core Fitness purchases studio cleaning supplies from Easy Clean, Inc. for $100 to be used this month and pays cash immediately.
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-679","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-2\. Core Fitness purchases cleaning supplies from Easy Clean  to be used this month for $200 on account and receives an invoice from Easy Clean.
+2\. Core Fitness purchases floor cleaning supplies from Easy Clean to be used this month for $200 on account and receives an invoice from Easy Clean.
 
 ```
 [cosmatt-widget]
@@ -14,9 +14,7 @@
 
 The amount Core Fitness owes to Easy Clean is in the Accounts Payable account.  
 
-> Note
-> 
-> “Accounts Payable is a liability account that keeps track of how much a business owes because it was billed by vendors rather than immediately paying cash. A liability is a debt a business owes. The Accounts Payable account is used as a substitute for Cash when a business purchases something or receives a service from a vendor and does not pay cash immediately, but instead is billed on account (sent an invoice) and expected to pay in the future.”
+> **Accounts Payable** is a liability account that keeps track of how much a business owes because it was billed by vendors rather than immediately paying cash. A liability is a debt a business owes. The Accounts Payable account is **used as a substitute for Cash when a business purchases something or receives a service from a vendor and does not pay cash immediately**, but instead is billed on account (sent an invoice) and expected to pay in the future.
 
 3\. Core Fitness pays Easy Clean on account for the invoice it received on 6/1.
 
