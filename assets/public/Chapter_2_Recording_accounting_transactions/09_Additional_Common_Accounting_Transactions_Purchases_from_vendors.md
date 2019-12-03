@@ -1,4 +1,4 @@
-1.  Core Fitness purchases studio cleaning supplies from Easy Clean, Inc. for $100 to be used this month and pays cash immediately.
+1\. Core Fitness purchases studio cleaning supplies from Easy Clean, Inc. for $100 to be used this month and pays cash immediately.
 
 ```
 [cosmatt-widget]
