@@ -6,7 +6,7 @@
 
 For the *Cash* account, the first entry is in the first Debit column, so the running balance begins accumulating in the second Debit column.
 
-On the first row, the amounts in the two Debit columns will be the same. For the *Cash* account, the amount is $1,000 in both Debit columns in the first row. After the first entry in the ledger, subsequent debit entries are added to the previous debit balance, and subsequent credit entries are deducted from the previous debit balance. The Credit balance column remains blank.
+On the first row, the amounts in the two Debit columns will be the same. For the *Cash* account, the amount is $8,000 in both Debit columns in the first row. After the first entry in the ledger, subsequent debit entries are added to the previous debit balance, and subsequent credit entries are deducted from the previous debit balance. The Credit balance column remains blank.
 
 The following *Cash* ledger shows its balance accumulates in the Debit column, even though there are both debit and credit entries posted to the account. The normal balance of the *Cash* account is a Debit.
 
