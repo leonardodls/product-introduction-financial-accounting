@@ -1,4 +1,4 @@
-1\. Core Fitness purchases studio cleaning supplies from Easy Clean, Inc. for $100 to be used this month and pays cash immediately.
+1.  Core Fitness purchases studio cleaning supplies from Easy Clean, Inc. for $100 to be used this month and pays cash immediately.
 
 ```
 [cosmatt-widget]
@@ -14,6 +14,8 @@
 
 The amount Core Fitness owes to Easy Clean is in the Accounts Payable account.  
 
+> Accounts Payable
+> 
 > **Accounts Payable** is a liability account that keeps track of how much a business owes because it was billed by vendors rather than immediately paying cash. A liability is a debt a business owes. The Accounts Payable account is **used as a substitute for Cash when a business purchases something or receives a service from a vendor and does not pay cash immediately**, but instead is billed on account (sent an invoice) and expected to pay in the future.
 
 3\. Core Fitness pays Easy Clean on account for the invoice it received on 6/1.
