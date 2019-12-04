@@ -1,11 +1,11 @@
-1.  Core Fitness sells a membership to Frank for $100 and receives cash. When a business provides a service to a customer, the customer may immediately pay with cash.
+1\. Core Fitness sells a membership to Frank for $100 and receives cash. When a business provides a service to a customer, the customer may immediately pay with cash.
 
 ```
 [cosmatt-widget]
  {"type":"spreadsheet-DLSleonardo-v2","options":{"data":{"itemId":"leo-leonardo-demo-673","meta":{"renderOverrides":{},"enableframeButton":true},"cssOverrides":{"div.cosmatt-widget":{"padding-top":0},"div.cosmatt-widget > div.leonardoPlayerContainer":{"padding-bottom":0}}}}} 
 ```
 
-2.  Core Fitness sells a membership to Maya and sends her an invoice for $200. Maya purchased a membership but has not paid for it yet.  Therefore Core Fitness does not receive cash and the company’s Accounts Receivable increases.
+2\. Core Fitness sells a membership to Maya and sends her an invoice for $200. Maya purchased a membership but has not paid for it yet.  Therefore, Core Fitness does not receive cash and the company’s Accounts Receivable increases.
 
 ```
 [cosmatt-widget]
