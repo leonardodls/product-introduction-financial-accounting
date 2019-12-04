@@ -4307,7 +4307,7 @@
             "questiondata": [
               {
                 "text":
-                  " Given this journal entries , which is the correct journal entry? <a href='http://www.comprodls.com/m1.0/interaction/mcqsr'>i1</a> "
+                  "Please select the correct journal entry from the options below.<a href='http://www.comprodls.com/m1.0/interaction/mcqsr'>i1</a> "
               }
             ]
           },
