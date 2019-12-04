@@ -4633,12 +4633,12 @@
 							"sidebyside": {
 								"leftSideData": {
 									"type": "grid",
-									"height": "scroll",
+									"height": "expand",
 									"publishedId": "leo-leonardo-demo-668"
 								},
 								"rightSideData": {
 									"type": "grid",
-									"height": "expand",
+									"height": "scroll",
 									"publishedId": "leo-leonardo-demo-669"
 								},
 								"ratio": [
