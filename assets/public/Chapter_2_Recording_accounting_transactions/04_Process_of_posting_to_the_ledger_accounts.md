@@ -14,7 +14,7 @@ The process of copying from the journal to the ledger is called **posting**. It 
 
 ⑦ If the previous balance is in the Debit (Credit) column and the entry is a Debit (Credit), add the two amounts and enter the total in the Debit (Credit) balance column. If the previous balance is in the Debit (Credit) column and the entry is a Credit (Debit), subtract the credit (debit) amount from the balance and enter the difference in the Debit (Credit) balance column. 
 
-![](./Chapter_2_Recording_accounting_transactions/media/04_Process_of_posting_to_the_ledger_accounts/image2.emf)
+![](./Chapter_2_Recording_accounting_transactions/media/04_Process_of_posting_to_the_ledger_accounts/image2.png)
 
 The example that follows shows a journal with six transactions that involve *Cash*. On each row where *Cash* appears in the journal, the amount on the same line is copied to the same column in the *Cash* ledger, in either the first Debit or the first Credit column. For example, the first debit to *Cash* in the journal for $1,000 is copied to the debit column in the ledger. The next time *Cash* appears in the journal is a debit for $6,000, so that is copied to the second debit column in the ledger. 
 
