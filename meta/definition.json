@@ -3,7 +3,7 @@
     "schema": 1,
     "code": "cosmatt",
     "thumbnailsmall": "cover.jpg",
-    "thumbnaillarge": "cover.jpg",
+    "thumbnaillarge": "Img/Introduction-acct.png",
     "title": "Introduction to Financial Accounting",
     "authors": [{
         "honorific": "Mr",
@@ -12,6 +12,7 @@
         "affiliation": {
           "jobtitle": "Retired Servo Engineer"
         },
+        "showauthorsprofile": false,
         "asseturl": "Authors/John_Durrant.md",
         "thumbnail": "Authors/img/John-Durrant_Small.png",
         "avatarurl": "Authors/img/John-Durrant_Big.png",
@@ -32,6 +33,7 @@
         "affiliation": {
           "jobtitle": "Retired Servo Engineer"
         },
+        "showauthorsprofile": false,
         "asseturl": "Authors/Graham_Elvis.md",
         "thumbnail": "Authors/img/Graham_Small.png",
         "avatarurl": "Authors/img/Graham_big.png",
@@ -51,6 +53,7 @@
         "affiliation": {
           "jobtitle": "Electrical & Electronics Engineer "
         },
+        "showauthorsprofile": false,
         "asseturl": "Authors/Roger_Brookes.md",
         "thumbnail": "Authors/img/Roger_Small.png",
         "avatarurl": "Authors/img/Roger_Big.png",
