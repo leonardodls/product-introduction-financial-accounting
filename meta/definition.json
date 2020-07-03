@@ -71,7 +71,8 @@
     "description": "Discover the fundamentals of financial accounting from the ground up. This course will teach you to prepare and analyze financial statements. You will also learn to use your understanding of accounting to drive insights into business performance.",
     "producttype": "courseware",
     "model": {
-      "type": "cosmatt_1"
+      "type": "cosmatt_1",
+      "theme": "blue"
     }
   },
   "definition": {
