@@ -391,13 +391,13 @@
             "attribs": {
               "mark-as-complete": {
                 "delay": 0,
-                "visible": true
-              },
-              "auto-complete-on-items": [
-                {
-                  "item-code" : "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01"
-                }
-              ]
+                "visible": true,
+                "auto-complete-on-items": [
+                  {
+                    "item-code" : "Chapter_1_Introduction/AccountingTransactionsGrid/test-Emded_01"
+                  }
+                ]
+              }
             }
           },
           {
@@ -870,7 +870,7 @@
             "resource": "RE_CH_4_SEC_2_1",
             "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2",
             "tracking": true,    
-            "embedded": [              
+            "embedded": [            
               {
                 "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2/test-Emded_01",
                 "resource": "RE_CH_4_SEC_2_EM_01_1",
