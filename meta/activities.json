@@ -1284,7 +1284,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -1342,7 +1342,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -1400,7 +1400,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -1458,7 +1458,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -1516,7 +1516,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -1828,7 +1828,7 @@
 					"layout": "COSMATTCOMPREWIDGET",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/cosmattcomprewidget'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -1886,7 +1886,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -4251,7 +4251,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -4465,7 +4465,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -4523,7 +4523,7 @@
 			  "layout": "LEONARDODLS",
 			  "data": {
 				"questiondata": [{
-				  "text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+				  "text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 				}]
 			  },
 			  "raw": ""
@@ -4851,7 +4851,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -4909,7 +4909,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -4967,7 +4967,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -5025,7 +5025,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
@@ -5083,7 +5083,7 @@
 					"layout": "LEONARDODLS",
 					"data": {
 						"questiondata": [{
-							"text": "Dummy Text <a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
+							"text": "<a href='http://www.comprodls.com/m1.0/interaction/leonardodls'>i1</a>"
 						}]
 					},
 					"raw": ""
