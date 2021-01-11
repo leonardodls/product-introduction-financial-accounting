@@ -648,6 +648,15 @@
               "mark-as-complete": {
                 "delay": 0,
                 "visible": true
+              },
+              "visible-unlock-rule": {
+                "items": [
+                  {
+                    "item-code": "Chapter_4_Introduction/JournalizeTheTransactions2",
+                    "key": "status",
+                    "value": "completed"
+                  }
+                ]
               }
             }
           },
@@ -670,6 +679,15 @@
               "mark-as-complete": {
                 "delay": 0,
                 "visible": true
+              },
+              "visible-unlock-rule": {
+                "items": [
+                  {
+                    "item-code": "Chapter_4_Introduction/PostEntriesToTheLedgersOption2",
+                    "key": "status",
+                    "value": "completed"
+                  }
+                ]
               }
             }
           },
